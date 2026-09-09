@@ -21,3 +21,7 @@ jobs:
           git add data/ docs/
           git diff --cached --quiet || git commit -m "daily refresh: $(date -u +%F)"
           git push
+      - name: trigger pages rebuild
+        run: gh api -X POST repos/${{ github.repository }}/pages/builds
+        env:
+          GH_TOKEN: ${{ github.token }}
