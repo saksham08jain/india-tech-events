@@ -18,6 +18,6 @@ jobs:
         run: |
           git config user.name "events-bot"
           git config user.email "events-bot@users.noreply.github.com"
-          git add data/ site/
+          git add data/ docs/
           git diff --cached --quiet || git commit -m "daily refresh: $(date -u +%F)"
           git push

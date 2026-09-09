@@ -5,7 +5,7 @@ from pathlib import Path
 from datetime import datetime, timezone
 
 ROOT = Path(__file__).parent
-DATA, SITE = ROOT / "data", ROOT / "site"
+DATA, SITE = ROOT / "data", ROOT / "docs"   # docs/ = GitHub Pages source path
 BRAND = "IndiaTechCalendar"   # placeholder pending domain decision
 CSS = """body{background:#0b0e14;color:#e8ecf1;font-family:ui-sans-serif,system-ui,sans-serif;margin:0;line-height:1.6}
 .wrap{max-width:960px;margin:0 auto;padding:0 20px}header{border-bottom:1px solid #232b3b;padding:20px 0}
