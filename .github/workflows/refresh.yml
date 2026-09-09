@@ -1,0 +1,23 @@
+name: daily-refresh
+on:
+  schedule:
+    - cron: '30 1 * * *'   # 07:00 IST daily
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: python3 scraper.py
+      - run: python3 build.py
+      - name: commit if changed
+        run: |
+          git config user.name "events-bot"
+          git config user.email "events-bot@users.noreply.github.com"
+          git add data/ site/
+          git diff --cached --quiet || git commit -m "daily refresh: $(date -u +%F)"
+          git push
