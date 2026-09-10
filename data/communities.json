@@ -1,5 +1,21 @@
 [
  {
+  "name": "CEDAT",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 4,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/startup-stories-by-bengaluru-founders-tickets/80001305071809",
+   "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80004614499389",
+   "https://allevents.in/bengaluru/startup-talks-by-cedat/100001996429809302",
+   "https://allevents.in/bengaluru/startup-community-meetup-by-cedat/100001996430409096"
+  ]
+ },
+ {
   "name": "Rapid Skill Up",
   "cities": [
    "bengaluru",
@@ -35,7 +51,7 @@
   ]
  },
  {
-  "name": "CEDAT",
+  "name": "eChai Bangalore Startup Network",
   "cities": [
    "bengaluru"
   ],
@@ -44,22 +60,8 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bangalore/startup-stories-by-bengaluru-founders-tickets/80001305071809",
-   "https://allevents.in/bengaluru/startup-talks-by-cedat/100001996429809302",
-   "https://allevents.in/bengaluru/startup-community-meetup-by-cedat/100001996430409096"
-  ]
- },
- {
-  "name": "eChai Bangalore Startup Network",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
    "https://allevents.in/bengaluru/bengaluru-startup-meetup/100001999937302308",
+   "https://allevents.in/bengaluru/gtm-and-distribution-for-startups-bengaluru-edition/100001999936741631",
    "https://allevents.in/bengaluru/echais-startup-open-house-in-bengaluru/100001999937378536"
   ]
  },
@@ -69,11 +71,12 @@
    "delhi",
    "gurugram"
   ],
-  "event_count": 2,
+  "event_count": 3,
   "sources": [
    "allevents"
   ],
   "upcoming": [
+   "https://allevents.in/gurugram/ruhbaru-orchestral-qawwali-project/4100030238185022",
    "https://allevents.in/gurugram/durbar-evenings-orchestral-qawwali-project/4100030471792701",
    "https://allevents.in/new-delhi/jashn-e-qawwali/4100030514061931"
   ]
@@ -135,6 +138,20 @@
   "upcoming": [
    "https://allevents.in/mumbai/indus-tech-mumbai-2026-machine-tools-exhibition-india-metal-forming-expo-mumbai-tickets/80001925243695",
    "https://allevents.in/mumbai/indus-tech-mumbai-2026-metal-forming-technology-expo-tickets/80002819939814"
+  ]
+ },
+ {
+  "name": "The Founders",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/the-founders-x-investors-pitch-22nd-november-mumbai-tickets/80003401022819",
+   "https://allevents.in/mumbai/the-founders-x-investors-pitch-d2c-06th-december-mumbai-nmims-tickets/80001874113177"
   ]
  },
  {
@@ -525,6 +542,19 @@
   ],
   "upcoming": [
    "https://allevents.in/chennai/international-conference-on-advancements-in-education-research-and-developmen/100001990840707147"
+  ]
+ },
+ {
+  "name": "TraiCon Events",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/world-data-center-summit-india-tickets/80002557113801"
   ]
  },
  {
