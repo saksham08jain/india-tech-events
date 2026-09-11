@@ -1,18 +1,19 @@
 [
  {
-  "name": "CEDAT",
+  "name": "Momentum",
   "cities": [
-   "bengaluru"
+   "delhi",
+   "gurugram"
   ],
   "event_count": 4,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bangalore/startup-stories-by-bengaluru-founders-tickets/80001305071809",
-   "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80004614499389",
-   "https://allevents.in/bengaluru/startup-talks-by-cedat/100001996429809302",
-   "https://allevents.in/bengaluru/startup-community-meetup-by-cedat/100001996430409096"
+   "https://allevents.in/gurugram/durbar-evenings-orchestral-qawwali-project/4100030471792701",
+   "https://allevents.in/gurugram/ruhbaru-orchestral-qawwali-project/4100030238185022",
+   "https://allevents.in/new-delhi/bankai-beats-delhi/4100030624487938",
+   "https://allevents.in/new-delhi/jashn-e-qawwali/4100030514061931"
   ]
  },
  {
@@ -45,8 +46,8 @@
   ],
   "upcoming": [
    "https://allevents.in/new-delhi/mahadev/3900030456471922",
-   "https://allevents.in/new-delhi/entrepreneurs-meetup-we-founders-collab-gurugram/3900030617135434",
    "https://allevents.in/new-delhi/shaam-e-qawali-by-nizami-brothers-traditional/3900030668413529",
+   "https://allevents.in/new-delhi/entrepreneurs-meetup-we-founders-collab-gurugram/3900030617135434",
    "https://allevents.in/new-delhi/qawaali-by-nizami-bandhu/3900030598823548"
   ]
  },
@@ -60,25 +61,24 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bengaluru/bengaluru-startup-meetup/100001999937302308",
    "https://allevents.in/bengaluru/gtm-and-distribution-for-startups-bengaluru-edition/100001999936741631",
+   "https://allevents.in/bengaluru/bengaluru-startup-meetup/100001999937302308",
    "https://allevents.in/bengaluru/echais-startup-open-house-in-bengaluru/100001999937378536"
   ]
  },
  {
-  "name": "Momentum",
+  "name": "CEDAT",
   "cities": [
-   "delhi",
-   "gurugram"
+   "bengaluru"
   ],
   "event_count": 3,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/gurugram/ruhbaru-orchestral-qawwali-project/4100030238185022",
-   "https://allevents.in/gurugram/durbar-evenings-orchestral-qawwali-project/4100030471792701",
-   "https://allevents.in/new-delhi/jashn-e-qawwali/4100030514061931"
+   "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80004614499389",
+   "https://allevents.in/bengaluru/startup-talks-by-cedat/100001996429809302",
+   "https://allevents.in/bengaluru/startup-community-meetup-by-cedat/100001996430409096"
   ]
  },
  {
@@ -155,32 +155,6 @@
   ]
  },
  {
-  "name": "Industrial Flooring Association",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/10th-international-conference-flooring-technologies-to-meet-the-demand-of-new-age-industries/200030481996558"
-  ]
- },
- {
-  "name": "Alliance Konnect",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/esg-and-climate-tech-summit-and-awards-2026/80003026148408"
-  ]
- },
- {
   "name": "SODA Foundation",
   "cities": [
    "bengaluru"
@@ -230,6 +204,19 @@
   ],
   "upcoming": [
    "https://allevents.in/gurugram/dubai-property-expo-free-ticket-golden-visa-your-familys-future-sep/100001999927513028"
+  ]
+ },
+ {
+  "name": "Consciousness xAI . Where SCIENCE meets SPIRITUALITY.",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/consciousness-\u00d7-ai-where-spirituality-meets-science-bangalore-tickets/80008769549187"
   ]
  },
  {
@@ -311,6 +298,32 @@
   ]
  },
  {
+  "name": "SNIA India",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/snia-india-t-e-n-storage-meetup-bangalore-september-hosted-by-netapp/100002000236491190"
+  ]
+ },
+ {
+  "name": "iimk live",
+  "cities": [
+   "kochi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/kochi/iimk-live-pivot-2026-deep-tech-startup-event-tickets/80003389222226"
+  ]
+ },
+ {
   "name": "MOJO CAPITAL",
   "cities": [
    "hyderabad"
@@ -376,6 +389,19 @@
   ]
  },
  {
+  "name": "Balaji Bs",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80001654865869"
+  ]
+ },
+ {
   "name": "PedalStart",
   "cities": [
    "bengaluru"
@@ -386,6 +412,19 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/startup-demo-day/100001999781617651"
+  ]
+ },
+ {
+  "name": "Entrepreneurs Network",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/startup-mixer-mumbai/100001998946349341"
   ]
  },
  {
@@ -454,6 +493,19 @@
   ]
  },
  {
+  "name": "Venture Capital World Summit OU",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/new-delhi-2026-venture-capital-world-summit/100001968718246271"
+  ]
+ },
+ {
   "name": "Autotechnicia",
   "cities": [
    "mumbai"
@@ -516,6 +568,19 @@
   ],
   "upcoming": [
    "https://allevents.in/kochi/international-festival-of-ai-films/200030257497107"
+  ]
+ },
+ {
+  "name": "SUNBURN Festival",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/anyma-presents-aeden-mumbai/200030680197239"
   ]
  },
  {
