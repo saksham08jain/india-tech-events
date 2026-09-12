@@ -1,22 +1,5 @@
 [
  {
-  "name": "Momentum",
-  "cities": [
-   "delhi",
-   "gurugram"
-  ],
-  "event_count": 4,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/gurugram/durbar-evenings-orchestral-qawwali-project/4100030471792701",
-   "https://allevents.in/gurugram/ruhbaru-orchestral-qawwali-project/4100030238185022",
-   "https://allevents.in/new-delhi/bankai-beats-delhi/4100030624487938",
-   "https://allevents.in/new-delhi/jashn-e-qawwali/4100030514061931"
-  ]
- },
- {
   "name": "Rapid Skill Up",
   "cities": [
    "bengaluru",
@@ -52,21 +35,6 @@
   ]
  },
  {
-  "name": "eChai Bangalore Startup Network",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 3,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/gtm-and-distribution-for-startups-bengaluru-edition/100001999936741631",
-   "https://allevents.in/bengaluru/bengaluru-startup-meetup/100001999937302308",
-   "https://allevents.in/bengaluru/echais-startup-open-house-in-bengaluru/100001999937378536"
-  ]
- },
- {
   "name": "CEDAT",
   "cities": [
    "bengaluru"
@@ -79,6 +47,20 @@
    "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80004614499389",
    "https://allevents.in/bengaluru/startup-talks-by-cedat/100001996429809302",
    "https://allevents.in/bengaluru/startup-community-meetup-by-cedat/100001996430409096"
+  ]
+ },
+ {
+  "name": "Momentum",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/bankai-beats-delhi/4100030624487938",
+   "https://allevents.in/new-delhi/jashn-e-qawwali/4100030514061931"
   ]
  },
  {
@@ -155,7 +137,7 @@
   ]
  },
  {
-  "name": "SODA Foundation",
+  "name": "eChai Bangalore Startup Network",
   "cities": [
    "bengaluru"
   ],
@@ -164,59 +146,7 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bengaluru/kubernetes-ai-and-beyond-exploring-nextgen-tech-stack/100001997106785155"
-  ]
- },
- {
-  "name": "Tablon Community",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/founders-meetup-i-bangalore-i-investor-and-founders-networking/100001983339390507"
-  ]
- },
- {
-  "name": "Web Sky",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/designation-2026-tickets/80002305456854"
-  ]
- },
- {
-  "name": "WCR",
-  "cities": [
-   "gurugram"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/gurugram/dubai-property-expo-free-ticket-golden-visa-your-familys-future-sep/100001999927513028"
-  ]
- },
- {
-  "name": "Consciousness xAI . Where SCIENCE meets SPIRITUALITY.",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/consciousness-\u00d7-ai-where-spirituality-meets-science-bangalore-tickets/80008769549187"
+   "https://allevents.in/bengaluru/echais-startup-open-house-in-bengaluru/100001999937378536"
   ]
  },
  {
@@ -230,6 +160,19 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/echais-startup-open-house-in-hyderabad/100001999937469809"
+  ]
+ },
+ {
+  "name": "Consciousness xAI . Where SCIENCE meets SPIRITUALITY.",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/consciousness-\u00d7-ai-where-spirituality-meets-science-bangalore-tickets/80008769549187"
   ]
  },
  {
@@ -389,19 +332,6 @@
   ]
  },
  {
-  "name": "Balaji Bs",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80001654865869"
-  ]
- },
- {
   "name": "PedalStart",
   "cities": [
    "bengaluru"
@@ -451,6 +381,32 @@
   ],
   "upcoming": [
    "https://allevents.in/kochi/kochi-freelancers-monthly-meetup-september-2026-tickets/80009130123733"
+  ]
+ },
+ {
+  "name": "Balaji Bs",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80001654865869"
+  ]
+ },
+ {
+  "name": "Primate Advisory",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/deep-dive-into-design-thinking-tickets/80003185543238"
   ]
  },
  {
