@@ -1,5 +1,22 @@
 [
  {
+  "name": "Event Navigator",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 5,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/ai-in-marketing-summit/3900030605589327",
+   "https://allevents.in/new-delhi/mahadev/3900030456471922",
+   "https://allevents.in/new-delhi/shaam-e-qawali-by-nizami-brothers-traditional/3900030668413529",
+   "https://allevents.in/new-delhi/entrepreneurs-meetup-we-founders-collab-gurugram/3900030617135434",
+   "https://allevents.in/new-delhi/qawaali-by-nizami-bandhu/3900030598823548"
+  ]
+ },
+ {
   "name": "Rapid Skill Up",
   "cities": [
    "bengaluru",
@@ -19,22 +36,6 @@
   ]
  },
  {
-  "name": "Event Navigator",
-  "cities": [
-   "delhi"
-  ],
-  "event_count": 4,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/new-delhi/mahadev/3900030456471922",
-   "https://allevents.in/new-delhi/shaam-e-qawali-by-nizami-brothers-traditional/3900030668413529",
-   "https://allevents.in/new-delhi/entrepreneurs-meetup-we-founders-collab-gurugram/3900030617135434",
-   "https://allevents.in/new-delhi/qawaali-by-nizami-bandhu/3900030598823548"
-  ]
- },
- {
   "name": "CEDAT",
   "cities": [
    "bengaluru"
@@ -47,20 +48,6 @@
    "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80004614499389",
    "https://allevents.in/bengaluru/startup-talks-by-cedat/100001996429809302",
    "https://allevents.in/bengaluru/startup-community-meetup-by-cedat/100001996430409096"
-  ]
- },
- {
-  "name": "Momentum",
-  "cities": [
-   "delhi"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/new-delhi/bankai-beats-delhi/4100030624487938",
-   "https://allevents.in/new-delhi/jashn-e-qawwali/4100030514061931"
   ]
  },
  {
@@ -134,45 +121,6 @@
   "upcoming": [
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-22nd-november-mumbai-tickets/80003401022819",
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-d2c-06th-december-mumbai-nmims-tickets/80001874113177"
-  ]
- },
- {
-  "name": "eChai Bangalore Startup Network",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/echais-startup-open-house-in-bengaluru/100001999937378536"
-  ]
- },
- {
-  "name": "eChai Hyderabad Startup Network",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/echais-startup-open-house-in-hyderabad/100001999937469809"
-  ]
- },
- {
-  "name": "Consciousness xAI . Where SCIENCE meets SPIRITUALITY.",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/consciousness-\u00d7-ai-where-spirituality-meets-science-bangalore-tickets/80008769549187"
   ]
  },
  {
@@ -306,19 +254,6 @@
   ]
  },
  {
-  "name": "Keshav bhatt",
-  "cities": [
-   "jaipur"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/jaipur/padharox-developer-meet-up-tickets/80008072658440"
-  ]
- },
- {
   "name": "EDU EXPO Global",
   "cities": [
    "delhi"
@@ -332,7 +267,7 @@
   ]
  },
  {
-  "name": "PedalStart",
+  "name": "Balaji Bs",
   "cities": [
    "bengaluru"
   ],
@@ -341,7 +276,46 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bangalore/startup-demo-day/100001999781617651"
+   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80001654865869"
+  ]
+ },
+ {
+  "name": "Vydehi School of Excellence",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/ai-debate-challenge-vydehi-school-of-excellence-tickets/80002773066781"
+  ]
+ },
+ {
+  "name": "National Institute Of Digital Marketing",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80003331897189"
+  ]
+ },
+ {
+  "name": "Momentum",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/jashn-e-qawwali/4100030514061931"
   ]
  },
  {
@@ -384,7 +358,7 @@
   ]
  },
  {
-  "name": "Balaji Bs",
+  "name": "PedalStart",
   "cities": [
    "bengaluru"
   ],
@@ -393,7 +367,7 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80001654865869"
+   "https://allevents.in/bangalore/startup-demo-day/100001999781617651"
   ]
  },
  {
@@ -410,6 +384,19 @@
   ]
  },
  {
+  "name": "John Doe",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/women-in-tech-meetup/100001996786320637"
+  ]
+ },
+ {
   "name": "baartr",
   "cities": [
    "kolkata"
@@ -420,6 +407,19 @@
   ],
   "upcoming": [
    "https://allevents.in/kolkata/official-staaake-kolkata-founders-ai-tech-power-walk/100001996317895565"
+  ]
+ },
+ {
+  "name": "Keshav bhatt",
+  "cities": [
+   "jaipur"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/jaipur/padharox-developer-meet-up-tickets/80008072658440"
   ]
  },
  {
@@ -550,6 +550,19 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/anyma-presents-\u00c6den-mumbai/200029857082318"
+  ]
+ },
+ {
+  "name": "NAVIGO Seminars",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/next-generation-testing-and-ai-bangalore/80001436966343"
   ]
  },
  {
