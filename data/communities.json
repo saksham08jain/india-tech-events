@@ -17,6 +17,27 @@
   ]
  },
  {
+  "name": "eChai India Startup Network",
+  "cities": [
+   "bengaluru",
+   "hyderabad",
+   "indore",
+   "jaipur",
+   "noida"
+  ],
+  "event_count": 5,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru/100002000439940713",
+   "https://allevents.in/hyderabad/echai-startup-demo-day-in-hyderabad/100002000425481465",
+   "https://allevents.in/noida/echai-startup-demo-day-in-delhi-ncr/100002000451628672",
+   "https://allevents.in/indore/echai-startup-demo-day-in-indore/100002000012844256",
+   "https://allevents.in/jaipur/echai-startup-demo-day-in-jaipur/100002000011630626"
+  ]
+ },
+ {
   "name": "Rapid Skill Up",
   "cities": [
    "bengaluru",
@@ -81,18 +102,18 @@
   ]
  },
  {
-  "name": "eChai India Startup Network",
+  "name": "Trade Fairs",
   "cities": [
-   "indore",
-   "jaipur"
+   "bengaluru",
+   "delhi"
   ],
   "event_count": 2,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/indore/echai-startup-demo-day-in-indore/100002000012844256",
-   "https://allevents.in/jaipur/echai-startup-demo-day-in-jaipur/100002000011630626"
+   "https://allevents.in/bangalore/garment-technology-expo-gte-2026/200030654229101",
+   "https://allevents.in/new-delhi/et-tech-x-2026/200030103306712"
   ]
  },
  {
@@ -150,6 +171,19 @@
   ]
  },
  {
+  "name": "Version IT",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/gen-ai-training-in-hyderabad-generative-ai-with-python/100002000540660970"
+  ]
+ },
+ {
   "name": "DC summit India",
   "cities": [
    "mumbai"
@@ -160,19 +194,6 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/data-center-and-mep-infra-summit/200030482025347"
-  ]
- },
- {
-  "name": "Trade Fairs",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/garment-technology-expo-gte-2026/200030654229101"
   ]
  },
  {
@@ -241,6 +262,19 @@
   ]
  },
  {
+  "name": "eChai Bangalore Startup Network",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/echais-startup-open-house-in-bengaluru/100001999937378536"
+  ]
+ },
+ {
   "name": "SEED Global Education",
   "cities": [
    "mumbai"
@@ -254,6 +288,19 @@
   ]
  },
  {
+  "name": "eChai Hyderabad Startup Network",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/echais-startup-open-house-in-hyderabad/100001999937469809"
+  ]
+ },
+ {
   "name": "EDU EXPO Global",
   "cities": [
    "delhi"
@@ -264,6 +311,32 @@
   ],
   "upcoming": [
    "https://allevents.in/new-delhi/7th-edition-et-tech-expo-new-delhi/200030303283240"
+  ]
+ },
+ {
+  "name": "Tech. by MicroDegree",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/tech\u0cb9\u0cb0\u0c9f\u0cc6-bengaluru-next-gen-tech-for-kannadigas-rag-ai-devops-and-claud/100001998410042232"
+  ]
+ },
+ {
+  "name": "National Institute Of Digital Marketing",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80003331897189"
   ]
  },
  {
@@ -290,19 +363,6 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/ai-debate-challenge-vydehi-school-of-excellence-tickets/80002773066781"
-  ]
- },
- {
-  "name": "National Institute Of Digital Marketing",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80003331897189"
   ]
  },
  {
