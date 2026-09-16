@@ -38,21 +38,6 @@
   ]
  },
  {
-  "name": "CEDAT",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 3,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80004614499389",
-   "https://allevents.in/bengaluru/startup-talks-by-cedat/100001996429809302",
-   "https://allevents.in/bengaluru/startup-community-meetup-by-cedat/100001996430409096"
-  ]
- },
- {
   "name": "Rapid Skill Up",
   "cities": [
    "bengaluru",
@@ -115,6 +100,34 @@
   ]
  },
  {
+  "name": "eChai Bangalore Startup Network",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/bengaluru-startup-meetup-north-bengaluru-edition/100002000959741451",
+   "https://allevents.in/bengaluru/echais-startup-open-house-in-bengaluru/100001999937378536"
+  ]
+ },
+ {
+  "name": "Klizer",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/aicon-chennai-2026/80002816461816",
+   "https://allevents.in/chennai/aicon-chennai-2026-tickets/80002816461816"
+  ]
+ },
+ {
   "name": "industech expo",
   "cities": [
    "mumbai"
@@ -140,45 +153,6 @@
   "upcoming": [
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-22nd-november-mumbai-tickets/80003401022819",
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-d2c-06th-december-mumbai-nmims-tickets/80001874113177"
-  ]
- },
- {
-  "name": "Messe Muenchen India",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/electronica-india-and-productronica-india/80003492045599"
-  ]
- },
- {
-  "name": "Brandland",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/property-expo-at-pritech-park-expo-at-corporate/200030658356916"
-  ]
- },
- {
-  "name": "Version IT",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/gen-ai-training-in-hyderabad-generative-ai-with-python/100002000540660970"
   ]
  },
  {
@@ -234,6 +208,19 @@
   ]
  },
  {
+  "name": "eChai Mumbai Startup Network",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/building-on-shopify-founders-agencies-and-apps-mumbai-edition/100002000962260987"
+  ]
+ },
+ {
   "name": "MOJO CAPITAL",
   "cities": [
    "hyderabad"
@@ -260,6 +247,19 @@
   ]
  },
  {
+  "name": "Scenius School",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/startup-founder-war-room-chennai-edition-tickets/80002920492551"
+  ]
+ },
+ {
   "name": "SEED Global Education",
   "cities": [
    "mumbai"
@@ -270,19 +270,6 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/smu-day-mumbai-tickets/80002215433606"
-  ]
- },
- {
-  "name": "eChai Bangalore Startup Network",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/echais-startup-open-house-in-bengaluru/100001999937378536"
   ]
  },
  {
@@ -299,6 +286,19 @@
   ]
  },
  {
+  "name": "CEDAT",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/startup-community-meetup-by-cedat/100001996430409096"
+  ]
+ },
+ {
   "name": "EDU EXPO Global",
   "cities": [
    "delhi"
@@ -312,7 +312,7 @@
   ]
  },
  {
-  "name": "Vydehi School of Excellence",
+  "name": "Tech. by MicroDegree",
   "cities": [
    "bengaluru"
   ],
@@ -321,7 +321,7 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bangalore/ai-debate-challenge-vydehi-school-of-excellence-tickets/80002773066781"
+   "https://allevents.in/bengaluru/tech\u0cb9\u0cb0\u0c9f\u0cc6-bengaluru-next-gen-tech-for-kannadigas-rag-ai-devops-and-claud/100001998410042232"
   ]
  },
  {
@@ -338,7 +338,7 @@
   ]
  },
  {
-  "name": "Tech. by MicroDegree",
+  "name": "Vydehi School of Excellence",
   "cities": [
    "bengaluru"
   ],
@@ -347,7 +347,7 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bengaluru/tech\u0cb9\u0cb0\u0c9f\u0cc6-bengaluru-next-gen-tech-for-kannadigas-rag-ai-devops-and-claud/100001998410042232"
+   "https://allevents.in/bangalore/ai-debate-challenge-vydehi-school-of-excellence-tickets/80002773066781"
   ]
  },
  {
@@ -387,19 +387,6 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/startup-mixer-mumbai/100001998946349341"
-  ]
- },
- {
-  "name": "Klizer",
-  "cities": [
-   "chennai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/chennai/aicon-chennai-2026-tickets/80002816461816"
   ]
  },
  {
@@ -481,6 +468,19 @@
   ]
  },
  {
+  "name": "Akshay Jagtap",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/12th-cii-global-summit-on-skill-development-and-livelihood-tickets/80001768389757"
+  ]
+ },
+ {
   "name": "Grouponholiday.com",
   "cities": [
    "delhi"
@@ -494,7 +494,7 @@
   ]
  },
  {
-  "name": "Akshay Jagtap",
+  "name": "COFFEE TABLES",
   "cities": [
    "mumbai"
   ],
@@ -503,7 +503,7 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/mumbai/12th-cii-global-summit-on-skill-development-and-livelihood-tickets/80001768389757"
+   "https://allevents.in/mumbai/the-great-shayari-showdown-human-poets-vs-ai-genz-tickets/80003235633928"
   ]
  },
  {
