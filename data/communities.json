@@ -55,36 +55,6 @@
   ]
  },
  {
-  "name": "Economictimes Times",
-  "cities": [
-   "bengaluru",
-   "hyderabad"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/best-ai-awards-2026-et-ai-awards-ai-awards-india/80003662727814",
-   "https://allevents.in/hyderabad/developer-event-and-conference-hyderabad-et-devnext/80004755752807"
-  ]
- },
- {
-  "name": "HackerX",
-  "cities": [
-   "chennai",
-   "mumbai"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/hackerx-mumbai-employer-ticket-9-17/100001982066412997",
-   "https://allevents.in/chennai/hackerx-chennai-employer-ticket-12-17/100001980428996440"
-  ]
- },
- {
   "name": "Trade Fairs",
   "cities": [
    "bengaluru",
@@ -153,19 +123,6 @@
   "upcoming": [
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-22nd-november-mumbai-tickets/80003401022819",
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-d2c-06th-december-mumbai-nmims-tickets/80001874113177"
-  ]
- },
- {
-  "name": "DC summit India",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/data-center-and-mep-infra-summit/200030482025347"
   ]
  },
  {
@@ -247,6 +204,19 @@
   ]
  },
  {
+  "name": "Elevara Network",
+  "cities": [
+   "noida"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/noida/elevara-startup-and-investor-connect-tickets/80002915360543"
+  ]
+ },
+ {
   "name": "Scenius School",
   "cities": [
    "chennai"
@@ -312,6 +282,19 @@
   ]
  },
  {
+  "name": "Vydehi School of Excellence",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/ai-debate-challenge-vydehi-school-of-excellence-tickets/80002773066781"
+  ]
+ },
+ {
   "name": "Tech. by MicroDegree",
   "cities": [
    "bengaluru"
@@ -335,32 +318,6 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80001654865869"
-  ]
- },
- {
-  "name": "Vydehi School of Excellence",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/ai-debate-challenge-vydehi-school-of-excellence-tickets/80002773066781"
-  ]
- },
- {
-  "name": "National Institute Of Digital Marketing",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80003331897189"
   ]
  },
  {
@@ -390,6 +347,19 @@
   ]
  },
  {
+  "name": "Economictimes Times",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/developer-event-and-conference-hyderabad-et-devnext/80004755752807"
+  ]
+ },
+ {
   "name": "Makers Tribe",
   "cities": [
    "kochi"
@@ -400,6 +370,19 @@
   ],
   "upcoming": [
    "https://allevents.in/kochi/kochi-freelancers-monthly-meetup-september-2026-tickets/80009130123733"
+  ]
+ },
+ {
+  "name": "National Institute Of Digital Marketing",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80003331897189"
   ]
  },
  {
@@ -533,6 +516,19 @@
   ]
  },
  {
+  "name": "Venture Capital World Summit OU",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/new-delhi-2026-venture-capital-world-summit/100001968718246271"
+  ]
+ },
+ {
   "name": "IntoAEC",
   "cities": [
    "bengaluru"
@@ -546,16 +542,16 @@
   ]
  },
  {
-  "name": "Venture Capital World Summit OU",
+  "name": "National Institute of Digital Marketing (NIDM)",
   "cities": [
-   "delhi"
+   "bengaluru"
   ],
   "event_count": 1,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/new-delhi/new-delhi-2026-venture-capital-world-summit/100001968718246271"
+   "https://allevents.in/bengaluru/ai-digital-marketing-workshop-in-bangalore-nidm-tickets/80003772987895"
   ]
  },
  {
@@ -686,6 +682,19 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/world-data-center-summit-india-tickets/80002557113801"
+  ]
+ },
+ {
+  "name": "HackerX",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/hackerx-chennai-employer-ticket-12-17/100001980428996440"
   ]
  },
  {
