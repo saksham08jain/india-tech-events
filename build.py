@@ -26,14 +26,17 @@ def fmt_date(iso):
     except Exception: return iso
 
 def page(title, desc, body, path):
+    prefix = "../" * (len(Path(path).parts) - 1) or "./"
     SITE.joinpath(path).parent.mkdir(parents=True, exist_ok=True)
-    SITE.joinpath(path).write_text(f"""<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+    html_text = f"""<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}"><style>{CSS}</style></head><body>
 <header><div class="wrap"><a class="logo" href="/"><b>{BRAND}</b> — India tech events</a></div></header>
 <div class="wrap">{body}</div>
 <footer><div class="wrap">Aggregated automatically from public event platforms. Owned by the event organizers; listing is informational. <a style="color:#5eead4" href="/communities.html">Communities</a></div></footer>
-</body></html>""")
+</body></html>"""
+    html_text = re.sub(r'href="/(?!/)', f'href="{prefix}', html_text)
+    SITE.joinpath(path).write_text(html_text)
 
 def event_card(e):
     tag = "ONLINE" if e.get("online") else esc(e["city"])
@@ -52,7 +55,7 @@ def main():
     body = f'<h1>Upcoming tech events in India</h1><p class="meta">{len(upcoming)} upcoming events · {len(cities)} cities · auto-updated daily · {now.strftime("%d %b %Y")}</p>'
     for c in sorted(cities, key=lambda c: -len(cities[c])):
         if len(cities[c]) < 1: continue
-        body += f'<h2 style="font-size:20px;margin:24px 0 4px">{esc(c).title()} <span class="pill">{len(cities[c])}</span></h2><div class="grid">'
+        body += f'<h2 style="font-size:20px;margin:24px 0 4px"><a style="color:inherit" href="city/{esc(c)}.html">{esc(c).title()} <span class="pill">{len(cities[c])}</span></a></h2><div class="grid">'
         body += "".join(event_card(e) for e in cities[c][:12]) + "</div>"
     page("India Tech Events — Upcoming Hackathons, Meetups, Conferences", "Every upcoming India tech event: hackathons, meetups, conferences, workshops. Auto-updated daily.", body, "index.html")
 
