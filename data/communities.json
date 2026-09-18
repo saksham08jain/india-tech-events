@@ -1,22 +1,5 @@
 [
  {
-  "name": "Event Navigator",
-  "cities": [
-   "delhi"
-  ],
-  "event_count": 5,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/new-delhi/ai-in-marketing-summit/3900030605589327",
-   "https://allevents.in/new-delhi/mahadev/3900030456471922",
-   "https://allevents.in/new-delhi/shaam-e-qawali-by-nizami-brothers-traditional/3900030668413529",
-   "https://allevents.in/new-delhi/entrepreneurs-meetup-we-founders-collab-gurugram/3900030617135434",
-   "https://allevents.in/new-delhi/qawaali-by-nizami-bandhu/3900030598823548"
-  ]
- },
- {
   "name": "eChai India Startup Network",
   "cities": [
    "bengaluru",
@@ -38,6 +21,22 @@
   ]
  },
  {
+  "name": "Event Navigator",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 4,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/mahadev/3900030456471922",
+   "https://allevents.in/new-delhi/shaam-e-qawali-by-nizami-brothers-traditional/3900030668413529",
+   "https://allevents.in/new-delhi/entrepreneurs-meetup-we-founders-collab-gurugram/3900030617135434",
+   "https://allevents.in/new-delhi/qawaali-by-nizami-bandhu/3900030598823548"
+  ]
+ },
+ {
   "name": "Rapid Skill Up",
   "cities": [
    "bengaluru",
@@ -55,35 +54,6 @@
   ]
  },
  {
-  "name": "Trade Fairs",
-  "cities": [
-   "bengaluru",
-   "delhi"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/garment-technology-expo-gte-2026/200030654229101",
-   "https://allevents.in/new-delhi/et-tech-x-2026/200030103306712"
-  ]
- },
- {
-  "name": "eChai Bangalore Startup Network",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/bengaluru-startup-meetup-north-bengaluru-edition/100002000959741451",
-   "https://allevents.in/bengaluru/echais-startup-open-house-in-bengaluru/100001999937378536"
-  ]
- },
- {
   "name": "Klizer",
   "cities": [
    "chennai"
@@ -95,6 +65,21 @@
   "upcoming": [
    "https://allevents.in/chennai/aicon-chennai-2026/80002816461816",
    "https://allevents.in/chennai/aicon-chennai-2026-tickets/80002816461816"
+  ]
+ },
+ {
+  "name": "Makers Tribe",
+  "cities": [
+   "chennai",
+   "kochi"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/chennai-freelancers-monthly-meetup-september-2026-tickets/80005813815487",
+   "https://allevents.in/kochi/kochi-freelancers-monthly-meetup-september-2026-tickets/80009130123733"
   ]
  },
  {
@@ -123,45 +108,6 @@
   "upcoming": [
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-22nd-november-mumbai-tickets/80003401022819",
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-d2c-06th-december-mumbai-nmims-tickets/80001874113177"
-  ]
- },
- {
-  "name": "Ishita Grover",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/making-ai-work-summit-2026-top-ai-events-and-conferences-india/80004770888214"
-  ]
- },
- {
-  "name": "SNIA India",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/snia-india-t-e-n-storage-meetup-bangalore-september-hosted-by-netapp/100002000236491190"
-  ]
- },
- {
-  "name": "iimk live",
-  "cities": [
-   "kochi"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/kochi/iimk-live-pivot-2026-deep-tech-startup-event-tickets/80003389222226"
   ]
  },
  {
@@ -204,6 +150,19 @@
   ]
  },
  {
+  "name": "Aarsh Wcr",
+  "cities": [
+   "gurugram"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/gurugram/dubai-property-show-free-ticket-binghatti-new-launches-in-al-jaddaf/100002001178587024"
+  ]
+ },
+ {
   "name": "Elevara Network",
   "cities": [
    "noida"
@@ -227,6 +186,19 @@
   ],
   "upcoming": [
    "https://allevents.in/chennai/startup-founder-war-room-chennai-edition-tickets/80002920492551"
+  ]
+ },
+ {
+  "name": "eChai Bangalore Startup Network",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/echais-startup-open-house-in-bengaluru/100001999937378536"
   ]
  },
  {
@@ -256,6 +228,19 @@
   ]
  },
  {
+  "name": "Chimera events",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/chennai-brainstorming-meetup-tickets/80001341542076"
+  ]
+ },
+ {
   "name": "CEDAT",
   "cities": [
    "bengaluru"
@@ -282,6 +267,19 @@
   ]
  },
  {
+  "name": "Trade Fairs",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/et-tech-x-2026/200030103306712"
+  ]
+ },
+ {
   "name": "Vydehi School of Excellence",
   "cities": [
    "bengaluru"
@@ -295,6 +293,19 @@
   ]
  },
  {
+  "name": "MyTravaly Innovation Sandbox",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/swoovo-design-circle/100002001044273288"
+  ]
+ },
+ {
   "name": "Tech. by MicroDegree",
   "cities": [
    "bengaluru"
@@ -305,19 +316,6 @@
   ],
   "upcoming": [
    "https://allevents.in/bengaluru/tech\u0cb9\u0cb0\u0c9f\u0cc6-bengaluru-next-gen-tech-for-kannadigas-rag-ai-devops-and-claud/100001998410042232"
-  ]
- },
- {
-  "name": "Balaji Bs",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80001654865869"
   ]
  },
  {
@@ -360,16 +358,29 @@
   ]
  },
  {
-  "name": "Makers Tribe",
+  "name": "E-CELL IIT Madras",
   "cities": [
-   "kochi"
+   "chennai"
   ],
   "event_count": 1,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/kochi/kochi-freelancers-monthly-meetup-september-2026-tickets/80009130123733"
+   "https://allevents.in/chennai/chennai-startup-meetup-tickets/80001485804516"
+  ]
+ },
+ {
+  "name": "Balaji Bs",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80001654865869"
   ]
  },
  {
@@ -422,6 +433,19 @@
   ],
   "upcoming": [
    "https://allevents.in/bengaluru/women-in-tech-meetup/100001996786320637"
+  ]
+ },
+ {
+  "name": "GS Apexo Pack -Automatic Pouch Packing Machine",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/anuga-food-tech-india/200030706157235"
   ]
  },
  {
