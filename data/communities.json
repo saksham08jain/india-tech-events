@@ -21,22 +21,6 @@
   ]
  },
  {
-  "name": "Event Navigator",
-  "cities": [
-   "delhi"
-  ],
-  "event_count": 4,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/new-delhi/mahadev/3900030456471922",
-   "https://allevents.in/new-delhi/shaam-e-qawali-by-nizami-brothers-traditional/3900030668413529",
-   "https://allevents.in/new-delhi/entrepreneurs-meetup-we-founders-collab-gurugram/3900030617135434",
-   "https://allevents.in/new-delhi/qawaali-by-nizami-bandhu/3900030598823548"
-  ]
- },
- {
   "name": "Rapid Skill Up",
   "cities": [
    "bengaluru",
@@ -48,9 +32,23 @@
    "allevents"
   ],
   "upcoming": [
+   "https://allevents.in/chennai/ai-implementation-in-business-chennai/100001354005369509",
    "https://allevents.in/bengaluru/ai-implementation-in-business-bangalore/100001027620268887",
-   "https://allevents.in/hyderabad/ai-implementation-in-business-hyderabad/100001354005319359",
-   "https://allevents.in/chennai/ai-implementation-in-business-chennai/100001354005369509"
+   "https://allevents.in/hyderabad/ai-implementation-in-business-hyderabad/100001354005319359"
+  ]
+ },
+ {
+  "name": "White Collar Realty",
+  "cities": [
+   "gurugram"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/gurugram/dubai-property-expo-september-free-ticket-family-investment-decision/100002001322339993",
+   "https://allevents.in/gurugram/dubai-property-expo-free-ticket-portfolio-diversification-through-dubai/100002001377374603"
   ]
  },
  {
@@ -108,84 +106,6 @@
   "upcoming": [
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-22nd-november-mumbai-tickets/80003401022819",
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-d2c-06th-december-mumbai-nmims-tickets/80001874113177"
-  ]
- },
- {
-  "name": "eChai Mumbai Startup Network",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/building-on-shopify-founders-agencies-and-apps-mumbai-edition/100002000962260987"
-  ]
- },
- {
-  "name": "MOJO CAPITAL",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/bharat-technology-conclave-2026-hyderabad-tickets/80003294445216"
-  ]
- },
- {
-  "name": "Techcanvass",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/techcanvass-connect-summit-hyderabad-tickets/80004519205406"
-  ]
- },
- {
-  "name": "Aarsh Wcr",
-  "cities": [
-   "gurugram"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/gurugram/dubai-property-show-free-ticket-binghatti-new-launches-in-al-jaddaf/100002001178587024"
-  ]
- },
- {
-  "name": "Elevara Network",
-  "cities": [
-   "noida"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/noida/elevara-startup-and-investor-connect-tickets/80002915360543"
-  ]
- },
- {
-  "name": "Scenius School",
-  "cities": [
-   "chennai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/chennai/startup-founder-war-room-chennai-edition-tickets/80002920492551"
   ]
  },
  {
@@ -280,6 +200,19 @@
   ]
  },
  {
+  "name": "Event Navigator",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/qawaali-by-nizami-bandhu/3900030598823548"
+  ]
+ },
+ {
   "name": "Vydehi School of Excellence",
   "cities": [
    "bengaluru"
@@ -303,19 +236,6 @@
   ],
   "upcoming": [
    "https://allevents.in/bengaluru/swoovo-design-circle/100002001044273288"
-  ]
- },
- {
-  "name": "Tech. by MicroDegree",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/tech\u0cb9\u0cb0\u0c9f\u0cc6-bengaluru-next-gen-tech-for-kannadigas-rag-ai-devops-and-claud/100001998410042232"
   ]
  },
  {
@@ -355,6 +275,19 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/developer-event-and-conference-hyderabad-et-devnext/80004755752807"
+  ]
+ },
+ {
+  "name": "Tech. by MicroDegree",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/tech\u0cb9\u0cb0\u0c9f\u0cc6-bengaluru-next-gen-tech-for-kannadigas-rag-ai-devops-and-claud/100001998410042232"
   ]
  },
  {
@@ -540,19 +473,6 @@
   ]
  },
  {
-  "name": "Venture Capital World Summit OU",
-  "cities": [
-   "delhi"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/new-delhi/new-delhi-2026-venture-capital-world-summit/100001968718246271"
-  ]
- },
- {
   "name": "IntoAEC",
   "cities": [
    "bengaluru"
@@ -563,6 +483,19 @@
   ],
   "upcoming": [
    "https://allevents.in/bengaluru/acetech-bengaluru-2026/100002000381111754"
+  ]
+ },
+ {
+  "name": "Venture Capital World Summit OU",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/new-delhi-2026-venture-capital-world-summit/100001968718246271"
   ]
  },
  {
