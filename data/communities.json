@@ -38,17 +38,45 @@
   ]
  },
  {
-  "name": "White Collar Realty",
+  "name": "CEDAT",
   "cities": [
-   "gurugram"
+   "bengaluru"
   ],
   "event_count": 2,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/gurugram/dubai-property-expo-september-free-ticket-family-investment-decision/100002001322339993",
-   "https://allevents.in/gurugram/dubai-property-expo-free-ticket-portfolio-diversification-through-dubai/100002001377374603"
+   "https://allevents.in/bengaluru/startup-community-meetup-by-cedat/100001996430409096",
+   "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80001742877175"
+  ]
+ },
+ {
+  "name": "Event Navigator",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/qawaali-by-nizami-bandhu/3900030598823548",
+   "https://allevents.in/new-delhi/ye-jo-hans-rahi-hai-dunia-by-rahgir/3900030623732133"
+  ]
+ },
+ {
+  "name": "Balaji Bs",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80003836178535",
+   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80001654865869"
   ]
  },
  {
@@ -95,6 +123,20 @@
   ]
  },
  {
+  "name": "National Institute of Digital Marketing (NIDM)",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/digital-marketing-meets-ai-free-workshop/100002001487951341",
+   "https://allevents.in/bengaluru/ai-digital-marketing-workshop-in-bangalore-nidm-tickets/80003772987895"
+  ]
+ },
+ {
   "name": "The Founders",
   "cities": [
    "mumbai"
@@ -106,71 +148,6 @@
   "upcoming": [
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-22nd-november-mumbai-tickets/80003401022819",
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-d2c-06th-december-mumbai-nmims-tickets/80001874113177"
-  ]
- },
- {
-  "name": "eChai Bangalore Startup Network",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/echais-startup-open-house-in-bengaluru/100001999937378536"
-  ]
- },
- {
-  "name": "SEED Global Education",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/smu-day-mumbai-tickets/80002215433606"
-  ]
- },
- {
-  "name": "eChai Hyderabad Startup Network",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/echais-startup-open-house-in-hyderabad/100001999937469809"
-  ]
- },
- {
-  "name": "Chimera events",
-  "cities": [
-   "chennai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/chennai/chennai-brainstorming-meetup-tickets/80001341542076"
-  ]
- },
- {
-  "name": "CEDAT",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/startup-community-meetup-by-cedat/100001996430409096"
   ]
  },
  {
@@ -200,16 +177,16 @@
   ]
  },
  {
-  "name": "Event Navigator",
+  "name": "Tech. by MicroDegree",
   "cities": [
-   "delhi"
+   "bengaluru"
   ],
   "event_count": 1,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/new-delhi/qawaali-by-nizami-bandhu/3900030598823548"
+   "https://allevents.in/bengaluru/tech\u0cb9\u0cb0\u0c9f\u0cc6-bengaluru-next-gen-tech-for-kannadigas-rag-ai-devops-and-claud/100001998410042232"
   ]
  },
  {
@@ -223,19 +200,6 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/ai-debate-challenge-vydehi-school-of-excellence-tickets/80002773066781"
-  ]
- },
- {
-  "name": "MyTravaly Innovation Sandbox",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/swoovo-design-circle/100002001044273288"
   ]
  },
  {
@@ -278,7 +242,7 @@
   ]
  },
  {
-  "name": "Tech. by MicroDegree",
+  "name": "MyTravaly Innovation Sandbox",
   "cities": [
    "bengaluru"
   ],
@@ -287,7 +251,7 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bengaluru/tech\u0cb9\u0cb0\u0c9f\u0cc6-bengaluru-next-gen-tech-for-kannadigas-rag-ai-devops-and-claud/100001998410042232"
+   "https://allevents.in/bengaluru/swoovo-design-circle/100002001044273288"
   ]
  },
  {
@@ -301,19 +265,6 @@
   ],
   "upcoming": [
    "https://allevents.in/chennai/chennai-startup-meetup-tickets/80001485804516"
-  ]
- },
- {
-  "name": "Balaji Bs",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80001654865869"
   ]
  },
  {
@@ -340,6 +291,19 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/startup-demo-day/100001999781617651"
+  ]
+ },
+ {
+  "name": "Lokanath Swain",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/14th-mumbai-ai-meetup/100002001310903787"
   ]
  },
  {
@@ -408,19 +372,6 @@
   ]
  },
  {
-  "name": "Akshay Jagtap",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/12th-cii-global-summit-on-skill-development-and-livelihood-tickets/80001768389757"
-  ]
- },
- {
   "name": "Grouponholiday.com",
   "cities": [
    "delhi"
@@ -431,6 +382,19 @@
   ],
   "upcoming": [
    "https://allevents.in/new-delhi/delhi-to-dubai-monthly-fixed-group-departures-with-flights-hotel-visa-breakfast-transfers-and-more/200030680014910"
+  ]
+ },
+ {
+  "name": "Akshay Jagtap",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/12th-cii-global-summit-on-skill-development-and-livelihood-tickets/80001768389757"
   ]
  },
  {
@@ -496,19 +460,6 @@
   ],
   "upcoming": [
    "https://allevents.in/new-delhi/new-delhi-2026-venture-capital-world-summit/100001968718246271"
-  ]
- },
- {
-  "name": "National Institute of Digital Marketing (NIDM)",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/ai-digital-marketing-workshop-in-bangalore-nidm-tickets/80003772987895"
   ]
  },
  {
