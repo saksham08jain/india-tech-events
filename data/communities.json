@@ -66,20 +66,6 @@
   ]
  },
  {
-  "name": "Balaji Bs",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80003836178535",
-   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80001654865869"
-  ]
- },
- {
   "name": "Klizer",
   "cities": [
    "chennai"
@@ -109,6 +95,20 @@
   ]
  },
  {
+  "name": "Balaji Bs",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80003836178535",
+   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80001654865869"
+  ]
+ },
+ {
   "name": "industech expo",
   "cities": [
    "mumbai"
@@ -134,6 +134,20 @@
   "upcoming": [
    "https://allevents.in/bengaluru/digital-marketing-meets-ai-free-workshop/100002001487951341",
    "https://allevents.in/bengaluru/ai-digital-marketing-workshop-in-bangalore-nidm-tickets/80003772987895"
+  ]
+ },
+ {
+  "name": "Synnex Group",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/india-finance-and-tech-summit-2026-finance-transformation-summit/100002001450614666",
+   "https://allevents.in/mumbai/india-collection-and-tech-summit-2026/100002001454061977"
   ]
  },
  {
@@ -203,6 +217,19 @@
   ]
  },
  {
+  "name": "MyTravaly Innovation Sandbox",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/swoovo-design-circle/100002001044273288"
+  ]
+ },
+ {
   "name": "Momentum",
   "cities": [
    "delhi"
@@ -239,19 +266,6 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/developer-event-and-conference-hyderabad-et-devnext/80004755752807"
-  ]
- },
- {
-  "name": "MyTravaly Innovation Sandbox",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/swoovo-design-circle/100002001044273288"
   ]
  },
  {
@@ -372,19 +386,6 @@
   ]
  },
  {
-  "name": "Grouponholiday.com",
-  "cities": [
-   "delhi"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/new-delhi/delhi-to-dubai-monthly-fixed-group-departures-with-flights-hotel-visa-breakfast-transfers-and-more/200030680014910"
-  ]
- },
- {
   "name": "Akshay Jagtap",
   "cities": [
    "mumbai"
@@ -395,6 +396,19 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/12th-cii-global-summit-on-skill-development-and-livelihood-tickets/80001768389757"
+  ]
+ },
+ {
+  "name": "Grouponholiday.com",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/delhi-to-dubai-monthly-fixed-group-departures-with-flights-hotel-visa-breakfast-transfers-and-more/200030680014910"
   ]
  },
  {
