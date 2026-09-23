@@ -134,6 +134,45 @@
   ]
  },
  {
+  "name": "Pooja Sanwal",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/cloudways-prepathon-builder-meetup/100002001693616491"
+  ]
+ },
+ {
+  "name": "Tech. by MicroDegree",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/tech\u0cb9\u0cb0\u0c9f\u0cc6-bengaluru-next-gen-tech-for-kannadigas-rag-ai-devops-and-claud/100001998410042232"
+  ]
+ },
+ {
+  "name": "MyTravaly Innovation Sandbox",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/swoovo-design-circle/100002001044273288"
+  ]
+ },
+ {
   "name": "Momentum",
   "cities": [
    "delhi"
@@ -173,16 +212,16 @@
   ]
  },
  {
-  "name": "Tech. by MicroDegree",
+  "name": "Aarsh Wcr",
   "cities": [
-   "bengaluru"
+   "gurugram"
   ],
   "event_count": 1,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bengaluru/tech\u0cb9\u0cb0\u0c9f\u0cc6-bengaluru-next-gen-tech-for-kannadigas-rag-ai-devops-and-claud/100001998410042232"
+   "https://allevents.in/gurugram/dubai-property-expo-free-ticket-end-september-with-your-best-investment/100002001847536871"
   ]
  },
  {
@@ -196,19 +235,6 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/ai-debate-challenge-vydehi-school-of-excellence-tickets/80002773066781"
-  ]
- },
- {
-  "name": "MyTravaly Innovation Sandbox",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/swoovo-design-circle/100002001044273288"
   ]
  },
  {
@@ -261,6 +287,19 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/14th-mumbai-ai-meetup/100002001310903787"
+  ]
+ },
+ {
+  "name": "WCR",
+  "cities": [
+   "gurugram"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/gurugram/dubai-property-expo-on-26th-and-27th-september-free-ticket/100002001876312941"
   ]
  },
  {
@@ -485,6 +524,19 @@
   ]
  },
  {
+  "name": "Bhavik Jain",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/startup-founders-mixer-health-tech-mumbai/100002001776961779"
+  ]
+ },
+ {
   "name": "MCEXPERT",
   "cities": [
    "mumbai"
@@ -511,19 +563,6 @@
   ]
  },
  {
-  "name": "SUNBURN Festival",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/anyma-presents-aeden-mumbai/200030680197239"
-  ]
- },
- {
   "name": "Anyma",
   "cities": [
    "mumbai"
@@ -534,6 +573,19 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/anyma-presents-\u00c6den-mumbai/200029857082318"
+  ]
+ },
+ {
+  "name": "SUNBURN Festival",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/anyma-presents-aeden-mumbai/200030680197239"
   ]
  },
  {
