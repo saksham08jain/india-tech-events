@@ -160,19 +160,6 @@
   ]
  },
  {
-  "name": "MyTravaly Innovation Sandbox",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/swoovo-design-circle/100002001044273288"
-  ]
- },
- {
   "name": "Momentum",
   "cities": [
    "delhi"
@@ -222,6 +209,19 @@
   ],
   "upcoming": [
    "https://allevents.in/gurugram/dubai-property-expo-free-ticket-end-september-with-your-best-investment/100002001847536871"
+  ]
+ },
+ {
+  "name": "MyTravaly Innovation Sandbox",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/swoovo-design-circle/100002001044273288"
   ]
  },
  {
@@ -368,19 +368,6 @@
   ]
  },
  {
-  "name": "Grouponholiday.com",
-  "cities": [
-   "delhi"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/new-delhi/delhi-to-dubai-monthly-fixed-group-departures-with-flights-hotel-visa-breakfast-transfers-and-more/200030680014910"
-  ]
- },
- {
   "name": "Akshay Jagtap",
   "cities": [
    "mumbai"
@@ -391,6 +378,19 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/12th-cii-global-summit-on-skill-development-and-livelihood-tickets/80001768389757"
+  ]
+ },
+ {
+  "name": "Grouponholiday.com",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/delhi-to-dubai-monthly-fixed-group-departures-with-flights-hotel-visa-breakfast-transfers-and-more/200030680014910"
   ]
  },
  {
