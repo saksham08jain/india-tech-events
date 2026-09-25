@@ -21,17 +21,19 @@
   ]
  },
  {
-  "name": "Event Navigator",
+  "name": "CEDAT",
   "cities": [
-   "delhi"
+   "bengaluru"
   ],
-  "event_count": 2,
+  "event_count": 4,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/new-delhi/qawaali-by-nizami-bandhu/3900030598823548",
-   "https://allevents.in/new-delhi/ye-jo-hans-rahi-hai-dunia-by-rahgir/3900030623732133"
+   "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80001742877175",
+   "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80002255452458",
+   "https://allevents.in/bangalore/south-bengaluru-startups-meetup-by-cedat-tickets/80008961477557",
+   "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296"
   ]
  },
  {
@@ -61,6 +63,20 @@
   "upcoming": [
    "https://allevents.in/chennai/chennai-freelancers-monthly-meetup-september-2026-tickets/80005813815487",
    "https://allevents.in/kochi/kochi-freelancers-monthly-meetup-september-2026-tickets/80009130123733"
+  ]
+ },
+ {
+  "name": "Aarsh Wcr",
+  "cities": [
+   "gurugram"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/gurugram/dubai-property-expo-free-ticket-end-september-with-your-best-investment/100002001847536871",
+   "https://allevents.in/gurugram/dubai-property-show-free-ticket-emaar-sobha-and-damac-properties/100002001873127413"
   ]
  },
  {
@@ -106,6 +122,20 @@
   ]
  },
  {
+  "name": "Event Navigator",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/ye-jo-hans-rahi-hai-dunia-by-rahgir/3900030623732133",
+   "https://allevents.in/new-delhi/mahadev/3900030456471922"
+  ]
+ },
+ {
   "name": "Synnex Group",
   "cities": [
    "mumbai"
@@ -131,6 +161,19 @@
   "upcoming": [
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-22nd-november-mumbai-tickets/80003401022819",
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-d2c-06th-december-mumbai-nmims-tickets/80001874113177"
+  ]
+ },
+ {
+  "name": "MicroDegree Education Pvt",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/tech\u0cb9\u0cb0\u0c9f\u0cc6-bengaluru-meetup-kannada-tech-community-tickets/80002766213618"
   ]
  },
  {
@@ -196,19 +239,6 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/developer-event-and-conference-hyderabad-et-devnext/80004755752807"
-  ]
- },
- {
-  "name": "Aarsh Wcr",
-  "cities": [
-   "gurugram"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/gurugram/dubai-property-expo-free-ticket-end-september-with-your-best-investment/100002001847536871"
   ]
  },
  {
@@ -287,6 +317,19 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/14th-mumbai-ai-meetup/100002001310903787"
+  ]
+ },
+ {
+  "name": "ER Segment Solutions PVT LTD",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/free-workshop-ethical-hacking-and-ai-for-cybersecurity-hyderabad/80002304740877"
   ]
  },
  {
@@ -433,19 +476,6 @@
   ]
  },
  {
-  "name": "CEDAT",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80001742877175"
-  ]
- },
- {
   "name": "IntoAEC",
   "cities": [
    "bengaluru"
@@ -482,6 +512,19 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/digital-marketing-meets-ai-free-workshop-tickets/80001507326864"
+  ]
+ },
+ {
+  "name": "World AI Summit 2026",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/world-ai-summit-2026-tickets/80002987560857"
   ]
  },
  {
@@ -563,19 +606,6 @@
   ]
  },
  {
-  "name": "Anyma",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/anyma-presents-\u00c6den-mumbai/200029857082318"
-  ]
- },
- {
   "name": "SUNBURN Festival",
   "cities": [
    "mumbai"
@@ -586,6 +616,19 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/anyma-presents-aeden-mumbai/200030680197239"
+  ]
+ },
+ {
+  "name": "Anyma",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/anyma-presents-\u00c6den-mumbai/200029857082318"
   ]
  },
  {

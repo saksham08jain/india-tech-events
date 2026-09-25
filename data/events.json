@@ -1,33 +1,5 @@
 [
  {
-  "source": "allevents",
-  "title": "RACEx360 Emerging Technology Conference 2026",
-  "url": "https://allevents.in/bangalore/racex360-emerging-technology-conference-2026/3900030589529258",
-  "start": "2026-09-25T00:00:00+00:00",
-  "end": null,
-  "city": "bengaluru",
-  "city_raw": "Bangalore",
-  "venue": "The Taj West End: Bengaluru",
-  "organizer": "",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
- },
- {
-  "source": "allevents",
-  "title": "Qawaali by Nizami Bandhu",
-  "url": "https://allevents.in/new-delhi/qawaali-by-nizami-bandhu/3900030598823548",
-  "start": "2026-09-25T00:00:00+00:00",
-  "end": null,
-  "city": "delhi",
-  "city_raw": "New Delhi",
-  "venue": "Kamani Auditorium: Delhi",
-  "organizer": "Event Navigator",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
- },
- {
   "source": "devfolio",
   "title": "WebCraft24",
   "url": "https://devfolio.co/hackathons/webcraft24",
@@ -67,7 +39,21 @@
   "organizer": "eChai India Startup Network",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
+ },
+ {
+  "source": "allevents",
+  "title": "Tech.\u0cb9\u0cb0\u0c9f\u0cc6 Bengaluru Meetup \u2013 Kannada Tech Community",
+  "url": "https://allevents.in/bangalore/tech\u0cb9\u0cb0\u0c9f\u0cc6-bengaluru-meetup-kannada-tech-community-tickets/80002766213618",
+  "start": "2026-09-26T00:00:00+00:00",
+  "end": "2026-09-26T00:00:00+00:00",
+  "city": "bengaluru",
+  "city_raw": "Bangalore",
+  "venue": "Paytm Office, 1st Floor, B Wing, The Hub, Infront of Bellandur Police Station, Sarjapur Main Road, Bellandur, Bengaluru 560103",
+  "organizer": "MicroDegree Education Pvt",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -81,7 +67,7 @@
   "organizer": "Pooja Sanwal",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -95,7 +81,7 @@
   "organizer": "Tech. by MicroDegree",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -109,7 +95,7 @@
   "organizer": "Momentum",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -123,7 +109,7 @@
   "organizer": "Entrepreneurs Network",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -137,7 +123,7 @@
   "organizer": "Economictimes Times",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -151,7 +137,7 @@
   "organizer": "eChai India Startup Network",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -165,7 +151,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -179,7 +165,7 @@
   "organizer": "Klizer",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -193,21 +179,7 @@
   "organizer": "Makers Tribe",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
- },
- {
-  "source": "allevents",
-  "title": "Dubai Property Expo \u2013 Free Ticket | End September With Your Best Investment",
-  "url": "https://allevents.in/gurugram/dubai-property-expo-free-ticket-end-september-with-your-best-investment/100002001847536871",
-  "start": "2026-09-26T00:00:00+00:00",
-  "end": "2026-09-26T00:00:00+00:00",
-  "city": "gurugram",
-  "city_raw": "Gurugram",
-  "venue": "White Collar Realty",
-  "organizer": "Aarsh Wcr",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -221,7 +193,7 @@
   "organizer": "eChai India Startup Network",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -235,7 +207,7 @@
   "organizer": "eChai India Startup Network",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -247,6 +219,20 @@
   "city_raw": "Jaipur",
   "venue": "J Startup House",
   "organizer": "eChai India Startup Network",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
+ },
+ {
+  "source": "allevents",
+  "title": "Dubai Property Expo \u2013 Free Ticket | End September With Your Best Investment",
+  "url": "https://allevents.in/gurugram/dubai-property-expo-free-ticket-end-september-with-your-best-investment/100002001847536871",
+  "start": "2026-09-26T00:00:00+00:00",
+  "end": "2026-09-26T00:00:00+00:00",
+  "city": "gurugram",
+  "city_raw": "Gurugram",
+  "venue": "White Collar Realty",
+  "organizer": "Aarsh Wcr",
   "description": "",
   "online": false,
   "scraped_at": "2026-09-24T06:17:31.679391+00:00"
@@ -403,7 +389,21 @@
   "organizer": "Lokanath Swain",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
+ },
+ {
+  "source": "allevents",
+  "title": "Free Workshop: Ethical Hacking & AI for Cybersecurity | Hyderabad",
+  "url": "https://allevents.in/hyderabad/free-workshop-ethical-hacking-and-ai-for-cybersecurity-hyderabad/80002304740877",
+  "start": "2026-09-27T00:00:00+00:00",
+  "end": "2026-09-27T00:00:00+00:00",
+  "city": "hyderabad",
+  "city_raw": "Hyderabad",
+  "venue": "Ameerpet",
+  "organizer": "ER Segment Solutions PVT LTD",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -417,7 +417,21 @@
   "organizer": "WCR",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-23T06:08:13.368709+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
+ },
+ {
+  "source": "allevents",
+  "title": "Dubai Property Show \u2013 Free Ticket | Emaar, Sobha & Damac Properties",
+  "url": "https://allevents.in/gurugram/dubai-property-show-free-ticket-emaar-sobha-and-damac-properties/100002001873127413",
+  "start": "2026-09-27T00:00:00+00:00",
+  "end": "2026-09-27T00:00:00+00:00",
+  "city": "gurugram",
+  "city_raw": "Gurugram",
+  "venue": "White Collar Realty",
+  "organizer": "Aarsh Wcr",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -445,7 +459,7 @@
   "organizer": "John Doe",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -459,7 +473,7 @@
   "organizer": "GS Apexo Pack -Automatic Pouch Packing Machine",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -473,7 +487,7 @@
   "organizer": "baartr",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -487,7 +501,7 @@
   "organizer": "Keshav bhatt",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -501,7 +515,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -515,7 +529,7 @@
   "organizer": "Akshay Jagtap",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -557,7 +571,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "devfolio",
@@ -571,7 +585,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "devfolio",
@@ -585,7 +599,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -599,7 +613,7 @@
   "organizer": "Dilin Anand",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -613,7 +627,7 @@
   "organizer": "industech expo",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -627,7 +641,7 @@
   "organizer": "industech expo",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -641,7 +655,7 @@
   "organizer": "Code Fiesta GIT Jaipur",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "devfolio",
@@ -669,7 +683,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "devfolio",
@@ -683,7 +697,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -697,7 +711,7 @@
   "organizer": "CEDAT",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -711,7 +725,7 @@
   "organizer": "IntoAEC",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -725,7 +739,7 @@
   "organizer": "Venture Capital World Summit OU",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "devfolio",
@@ -753,7 +767,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "devfolio",
@@ -767,7 +781,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -813,20 +827,6 @@
  },
  {
   "source": "devfolio",
-  "title": "Srijan Setu",
-  "url": "https://devfolio.co/hackathons/srijan-setu",
-  "start": "2026-10-10T02:30:00+00:00",
-  "end": "2026-10-11T04:30:00+00:00",
-  "city": "unknown",
-  "city_raw": "",
-  "venue": "",
-  "organizer": "",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-09-23T06:08:13.368709+00:00"
- },
- {
-  "source": "devfolio",
   "title": "Innohacks 4.0",
   "url": "https://devfolio.co/hackathons/innohacks-4",
   "start": "2026-10-10T04:30:00+00:00",
@@ -837,7 +837,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "devfolio",
@@ -851,21 +851,21 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
   "title": "Ye Jo Hans Rahi Hai Dunia By Rahgir",
   "url": "https://allevents.in/new-delhi/ye-jo-hans-rahi-hai-dunia-by-rahgir/3900030623732133",
   "start": "2026-10-11T00:00:00+00:00",
-  "end": "2026-10-11T00:00:00+00:00",
+  "end": null,
   "city": "delhi",
   "city_raw": "New Delhi",
   "venue": "The Laugh Store: DLF Cyberhub, Gurugram",
   "organizer": "Event Navigator",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-20T06:29:02.739249+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -879,7 +879,21 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
+ },
+ {
+  "source": "allevents",
+  "title": "World AI Summit 2026",
+  "url": "https://allevents.in/bangalore/world-ai-summit-2026-tickets/80002987560857",
+  "start": "2026-10-14T00:00:00+00:00",
+  "end": "2026-10-15T00:00:00+00:00",
+  "city": "bengaluru",
+  "city_raw": "Bangalore",
+  "venue": "Sheraton Grand Bangalore Hotel at Brigade Gateway",
+  "organizer": "World AI Summit 2026",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "devfolio",
@@ -893,7 +907,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "devfolio",
@@ -907,7 +921,7 @@
   "organizer": "",
   "description": "",
   "online": true,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -921,7 +935,7 @@
   "organizer": "Autotechnicia",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -935,7 +949,21 @@
   "organizer": "Legal Tech Meet",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-20T06:29:02.739249+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
+ },
+ {
+  "source": "devfolio",
+  "title": "Srijan Setu",
+  "url": "https://devfolio.co/hackathons/srijan-setu",
+  "start": "2026-10-23T02:30:00+00:00",
+  "end": "2026-10-24T04:30:00+00:00",
+  "city": "unknown",
+  "city_raw": "",
+  "venue": "",
+  "organizer": "",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "devfolio",
@@ -949,7 +977,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "devfolio",
@@ -963,7 +991,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "devfolio",
@@ -977,7 +1005,21 @@
   "organizer": "",
   "description": "",
   "online": true,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
+ },
+ {
+  "source": "allevents",
+  "title": "Startup Talks by CEDAT",
+  "url": "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80002255452458",
+  "start": "2026-10-27T00:00:00+00:00",
+  "end": "2026-10-27T00:00:00+00:00",
+  "city": "bengaluru",
+  "city_raw": "Bangalore",
+  "venue": "Cortis Medtech Pvt.Ltd",
+  "organizer": "CEDAT",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -991,7 +1033,21 @@
   "organizer": "Crane Expo",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
+ },
+ {
+  "source": "allevents",
+  "title": "South Bengaluru Startups Meetup by CEDAT",
+  "url": "https://allevents.in/bangalore/south-bengaluru-startups-meetup-by-cedat-tickets/80008961477557",
+  "start": "2026-10-28T00:00:00+00:00",
+  "end": "2026-10-28T00:00:00+00:00",
+  "city": "bengaluru",
+  "city_raw": "Bangalore",
+  "venue": "Kaarya Shared Workspaces",
+  "organizer": "CEDAT",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "devfolio",
@@ -1005,7 +1061,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -1019,7 +1075,35 @@
   "organizer": "Bhavik Jain",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
+ },
+ {
+  "source": "allevents",
+  "title": "Startup Ecosystem Meetup by CEDAT",
+  "url": "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296",
+  "start": "2026-10-30T00:00:00+00:00",
+  "end": "2026-10-30T00:00:00+00:00",
+  "city": "bengaluru",
+  "city_raw": "Bangalore",
+  "venue": "Zieers Systems Pvt Ltd",
+  "organizer": "CEDAT",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
+ },
+ {
+  "source": "devfolio",
+  "title": "TUM Blockchain & AI Hackathon",
+  "url": "https://devfolio.co/hackathons/tum",
+  "start": "2026-10-30T09:00:00+00:00",
+  "end": "2026-10-31T14:00:00+00:00",
+  "city": "unknown",
+  "city_raw": "",
+  "venue": "",
+  "organizer": "",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "devfolio",
@@ -1033,7 +1117,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -1047,7 +1131,7 @@
   "organizer": "MCEXPERT",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -1061,7 +1145,7 @@
   "organizer": "Cinemarathon community for film making",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -1075,7 +1159,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -1089,7 +1173,7 @@
   "organizer": "Synnex Group",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -1103,21 +1187,7 @@
   "organizer": "Synnex Group",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
- },
- {
-  "source": "allevents",
-  "title": "Anyma presents \u00c6DEN - Mumbai",
-  "url": "https://allevents.in/mumbai/anyma-presents-\u00c6den-mumbai/200029857082318",
-  "start": "2026-11-21T00:00:00+00:00",
-  "end": null,
-  "city": "mumbai",
-  "city_raw": "Mumbai",
-  "venue": "Mahalaxmi Racecourse",
-  "organizer": "Anyma",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -1131,7 +1201,21 @@
   "organizer": "SUNBURN Festival",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
+ },
+ {
+  "source": "allevents",
+  "title": "Anyma presents \u00c6DEN - Mumbai",
+  "url": "https://allevents.in/mumbai/anyma-presents-\u00c6den-mumbai/200029857082318",
+  "start": "2026-11-21T00:00:00+00:00",
+  "end": null,
+  "city": "mumbai",
+  "city_raw": "Mumbai",
+  "venue": "Mahalaxmi Racecourse",
+  "organizer": "Anyma",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -1201,7 +1285,7 @@
   "organizer": "ijieee",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -1215,7 +1299,7 @@
   "organizer": "TraiCon Events",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -1229,7 +1313,7 @@
   "organizer": "HackerX",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -1243,7 +1327,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -1257,7 +1341,7 @@
   "organizer": "Global Solar Expo",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -1271,7 +1355,7 @@
   "organizer": "BlaBla Language Exchange - India",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -1285,7 +1369,21 @@
   "organizer": "Bharat AgriTech",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
+ },
+ {
+  "source": "allevents",
+  "title": "MAHADEV",
+  "url": "https://allevents.in/new-delhi/mahadev/3900030456471922",
+  "start": "2027-03-06T00:00:00+00:00",
+  "end": "2027-03-06T00:00:00+00:00",
+  "city": "delhi",
+  "city_raw": "New Delhi",
+  "venue": "Worlds of Wonder: Noida",
+  "organizer": "Event Navigator",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -1299,7 +1397,7 @@
   "organizer": "UNITED EXPO ORGANIZASYION VE TICARET LIMITED IRKETI",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
@@ -1313,7 +1411,7 @@
   "organizer": "PAINTECH 2027",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-24T06:17:31.679391+00:00"
+  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
  },
  {
   "source": "allevents",
