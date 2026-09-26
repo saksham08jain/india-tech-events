@@ -1,26 +1,5 @@
 [
  {
-  "name": "eChai India Startup Network",
-  "cities": [
-   "bengaluru",
-   "hyderabad",
-   "indore",
-   "jaipur",
-   "noida"
-  ],
-  "event_count": 5,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru/100002000439940713",
-   "https://allevents.in/hyderabad/echai-startup-demo-day-in-hyderabad/100002000425481465",
-   "https://allevents.in/noida/echai-startup-demo-day-in-delhi-ncr/100002000451628672",
-   "https://allevents.in/indore/echai-startup-demo-day-in-indore/100002000012844256",
-   "https://allevents.in/jaipur/echai-startup-demo-day-in-jaipur/100002000011630626"
-  ]
- },
- {
   "name": "CEDAT",
   "cities": [
    "bengaluru"
@@ -37,60 +16,18 @@
   ]
  },
  {
-  "name": "Klizer",
+  "name": "Event Navigator",
   "cities": [
-   "chennai"
+   "delhi"
   ],
-  "event_count": 2,
+  "event_count": 3,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/chennai/aicon-chennai-2026/80002816461816",
-   "https://allevents.in/chennai/aicon-chennai-2026-tickets/80002816461816"
-  ]
- },
- {
-  "name": "Makers Tribe",
-  "cities": [
-   "chennai",
-   "kochi"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/chennai/chennai-freelancers-monthly-meetup-september-2026-tickets/80005813815487",
-   "https://allevents.in/kochi/kochi-freelancers-monthly-meetup-september-2026-tickets/80009130123733"
-  ]
- },
- {
-  "name": "Aarsh Wcr",
-  "cities": [
-   "gurugram"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/gurugram/dubai-property-expo-free-ticket-end-september-with-your-best-investment/100002001847536871",
-   "https://allevents.in/gurugram/dubai-property-show-free-ticket-emaar-sobha-and-damac-properties/100002001873127413"
-  ]
- },
- {
-  "name": "Balaji Bs",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80003836178535",
-   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80001654865869"
+   "https://allevents.in/new-delhi/rainbow-events-hi-tech-circus/3900030688558552",
+   "https://allevents.in/new-delhi/ye-jo-hans-rahi-hai-dunia-by-rahgir/3900030623732133",
+   "https://allevents.in/new-delhi/mahadev/3900030456471922"
   ]
  },
  {
@@ -122,20 +59,6 @@
   ]
  },
  {
-  "name": "Event Navigator",
-  "cities": [
-   "delhi"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/new-delhi/ye-jo-hans-rahi-hai-dunia-by-rahgir/3900030623732133",
-   "https://allevents.in/new-delhi/mahadev/3900030456471922"
-  ]
- },
- {
   "name": "Synnex Group",
   "cities": [
    "mumbai"
@@ -164,149 +87,6 @@
   ]
  },
  {
-  "name": "MicroDegree Education Pvt",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/tech\u0cb9\u0cb0\u0c9f\u0cc6-bengaluru-meetup-kannada-tech-community-tickets/80002766213618"
-  ]
- },
- {
-  "name": "Pooja Sanwal",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/cloudways-prepathon-builder-meetup/100002001693616491"
-  ]
- },
- {
-  "name": "Tech. by MicroDegree",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/tech\u0cb9\u0cb0\u0c9f\u0cc6-bengaluru-next-gen-tech-for-kannadigas-rag-ai-devops-and-claud/100001998410042232"
-  ]
- },
- {
-  "name": "Momentum",
-  "cities": [
-   "delhi"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/new-delhi/jashn-e-qawwali/4100030514061931"
-  ]
- },
- {
-  "name": "Entrepreneurs Network",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/startup-mixer-mumbai/100001998946349341"
-  ]
- },
- {
-  "name": "Economictimes Times",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/developer-event-and-conference-hyderabad-et-devnext/80004755752807"
-  ]
- },
- {
-  "name": "MyTravaly Innovation Sandbox",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/swoovo-design-circle/100002001044273288"
-  ]
- },
- {
-  "name": "Vydehi School of Excellence",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/ai-debate-challenge-vydehi-school-of-excellence-tickets/80002773066781"
-  ]
- },
- {
-  "name": "E-CELL IIT Madras",
-  "cities": [
-   "chennai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/chennai/chennai-startup-meetup-tickets/80001485804516"
-  ]
- },
- {
-  "name": "National Institute Of Digital Marketing",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/digital-marketing-meets-ai-tickets/80003331897189"
-  ]
- },
- {
-  "name": "PedalStart",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/startup-demo-day/100001999781617651"
-  ]
- },
- {
   "name": "Lokanath Swain",
   "cities": [
    "mumbai"
@@ -330,6 +110,19 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/free-workshop-ethical-hacking-and-ai-for-cybersecurity-hyderabad/80002304740877"
+  ]
+ },
+ {
+  "name": "Aarsh Wcr",
+  "cities": [
+   "gurugram"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/gurugram/dubai-property-show-free-ticket-emaar-sobha-and-damac-properties/100002001873127413"
   ]
  },
  {
@@ -411,19 +204,6 @@
   ]
  },
  {
-  "name": "Akshay Jagtap",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/12th-cii-global-summit-on-skill-development-and-livelihood-tickets/80001768389757"
-  ]
- },
- {
   "name": "Grouponholiday.com",
   "cities": [
    "delhi"
@@ -434,6 +214,19 @@
   ],
   "upcoming": [
    "https://allevents.in/new-delhi/delhi-to-dubai-monthly-fixed-group-departures-with-flights-hotel-visa-breakfast-transfers-and-more/200030680014910"
+  ]
+ },
+ {
+  "name": "Akshay Jagtap",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/12th-cii-global-summit-on-skill-development-and-livelihood-tickets/80001768389757"
   ]
  },
  {
