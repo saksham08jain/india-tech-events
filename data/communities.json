@@ -87,71 +87,6 @@
   ]
  },
  {
-  "name": "Lokanath Swain",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/14th-mumbai-ai-meetup/100002001310903787"
-  ]
- },
- {
-  "name": "ER Segment Solutions PVT LTD",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/free-workshop-ethical-hacking-and-ai-for-cybersecurity-hyderabad/80002304740877"
-  ]
- },
- {
-  "name": "Aarsh Wcr",
-  "cities": [
-   "gurugram"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/gurugram/dubai-property-show-free-ticket-emaar-sobha-and-damac-properties/100002001873127413"
-  ]
- },
- {
-  "name": "WCR",
-  "cities": [
-   "gurugram"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/gurugram/dubai-property-expo-on-26th-and-27th-september-free-ticket/100002001876312941"
-  ]
- },
- {
-  "name": "Primate Advisory",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/deep-dive-into-design-thinking-tickets/80003185543238"
-  ]
- },
- {
   "name": "John Doe",
   "cities": [
    "bengaluru"
@@ -230,19 +165,6 @@
   ]
  },
  {
-  "name": "COFFEE TABLES",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/the-great-shayari-showdown-human-poets-vs-ai-genz-tickets/80003235633928"
-  ]
- },
- {
   "name": "Dilin Anand",
   "cities": [
    "bengaluru"
@@ -292,6 +214,45 @@
   ],
   "upcoming": [
    "https://allevents.in/new-delhi/new-delhi-2026-venture-capital-world-summit/100001968718246271"
+  ]
+ },
+ {
+  "name": "Alan Savier",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/digital-marketing-meets-ai-free-workshop-tickets/80002549947579"
+  ]
+ },
+ {
+  "name": "National Institute of Digital Marketing",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/free-digital-marketing-and-ai-workshop-bengaluru-october-10-tickets/80002907782456"
+  ]
+ },
+ {
+  "name": "COFFEE TABLES",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/the-great-shayari-showdown-human-poets-vs-ai-genz-tickets/80003235633928"
   ]
  },
  {

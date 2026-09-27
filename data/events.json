@@ -1,89 +1,5 @@
 [
  {
-  "source": "devfolio",
-  "title": "Builders Day by HackUnion",
-  "url": "https://devfolio.co/hackathons/builders-day-hackunion",
-  "start": "2026-09-26T03:30:00+00:00",
-  "end": "2026-09-26T13:30:00+00:00",
-  "city": "unknown",
-  "city_raw": "",
-  "venue": "",
-  "organizer": "",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-09-20T06:29:02.739249+00:00"
- },
- {
-  "source": "allevents",
-  "title": "14th Mumbai AI Meetup",
-  "url": "https://allevents.in/mumbai/14th-mumbai-ai-meetup/100002001310903787",
-  "start": "2026-09-27T00:00:00+00:00",
-  "end": "2026-09-27T00:00:00+00:00",
-  "city": "mumbai",
-  "city_raw": "Mumbai",
-  "venue": "Indian Institute of Technology Bombay",
-  "organizer": "Lokanath Swain",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
- },
- {
-  "source": "allevents",
-  "title": "Free Workshop: Ethical Hacking & AI for Cybersecurity | Hyderabad",
-  "url": "https://allevents.in/hyderabad/free-workshop-ethical-hacking-and-ai-for-cybersecurity-hyderabad/80002304740877",
-  "start": "2026-09-27T00:00:00+00:00",
-  "end": "2026-09-27T00:00:00+00:00",
-  "city": "hyderabad",
-  "city_raw": "Hyderabad",
-  "venue": "Ameerpet",
-  "organizer": "ER Segment Solutions PVT LTD",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
- },
- {
-  "source": "allevents",
-  "title": "Dubai Property Show \u2013 Free Ticket | Emaar, Sobha & Damac Properties",
-  "url": "https://allevents.in/gurugram/dubai-property-show-free-ticket-emaar-sobha-and-damac-properties/100002001873127413",
-  "start": "2026-09-27T00:00:00+00:00",
-  "end": "2026-09-27T00:00:00+00:00",
-  "city": "gurugram",
-  "city_raw": "Gurugram",
-  "venue": "White Collar Realty",
-  "organizer": "Aarsh Wcr",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
- },
- {
-  "source": "allevents",
-  "title": "Dubai Property Expo on 26th & 27th September \u2013 Free Ticket",
-  "url": "https://allevents.in/gurugram/dubai-property-expo-on-26th-and-27th-september-free-ticket/100002001876312941",
-  "start": "2026-09-27T00:00:00+00:00",
-  "end": "2026-09-27T00:00:00+00:00",
-  "city": "gurugram",
-  "city_raw": "Gurugram",
-  "venue": "White Collar Realty",
-  "organizer": "WCR",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
- },
- {
-  "source": "allevents",
-  "title": "Deep Dive into Design Thinking",
-  "url": "https://allevents.in/bangalore/deep-dive-into-design-thinking-tickets/80003185543238",
-  "start": "2026-09-27T00:00:00+00:00",
-  "end": "2026-09-27T00:00:00+00:00",
-  "city": "bengaluru",
-  "city_raw": "Bangalore",
-  "venue": "Primate Advisory",
-  "organizer": "Primate Advisory",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-09-12T05:57:40.667750+00:00"
- },
- {
   "source": "allevents",
   "title": "Women in Tech Meetup",
   "url": "https://allevents.in/bengaluru/women-in-tech-meetup/100001996786320637",
@@ -95,7 +11,7 @@
   "organizer": "John Doe",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -109,7 +25,7 @@
   "organizer": "GS Apexo Pack -Automatic Pouch Packing Machine",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -123,7 +39,7 @@
   "organizer": "baartr",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -137,7 +53,7 @@
   "organizer": "Keshav bhatt",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -151,7 +67,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -165,7 +81,7 @@
   "organizer": "Grouponholiday.com",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -179,21 +95,7 @@
   "organizer": "Akshay Jagtap",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
- },
- {
-  "source": "allevents",
-  "title": "The Great Shayari Showdown - Human Poets Vs AI Genz",
-  "url": "https://allevents.in/mumbai/the-great-shayari-showdown-human-poets-vs-ai-genz-tickets/80003235633928",
-  "start": "2026-10-02T00:00:00+00:00",
-  "end": "2026-10-02T00:00:00+00:00",
-  "city": "mumbai",
-  "city_raw": "Mumbai",
-  "venue": "Vaibhav Palace",
-  "organizer": "COFFEE TABLES",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "devfolio",
@@ -214,14 +116,14 @@
   "title": "Rainbow Events - Hi-tech Circus",
   "url": "https://allevents.in/new-delhi/rainbow-events-hi-tech-circus/3900030688558552",
   "start": "2026-10-03T00:00:00+00:00",
-  "end": null,
+  "end": "2026-10-03T00:00:00+00:00",
   "city": "delhi",
   "city_raw": "New Delhi",
   "venue": "Hindi Bhawan: Ghaziabad",
   "organizer": "Event Navigator",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "devfolio",
@@ -235,7 +137,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "devfolio",
@@ -249,7 +151,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "devfolio",
@@ -263,7 +165,7 @@
   "organizer": "",
   "description": "",
   "online": true,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -277,7 +179,7 @@
   "organizer": "Dilin Anand",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -291,7 +193,7 @@
   "organizer": "industech expo",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -305,7 +207,7 @@
   "organizer": "industech expo",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -319,7 +221,7 @@
   "organizer": "Code Fiesta GIT Jaipur",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "devfolio",
@@ -361,7 +263,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -375,7 +277,7 @@
   "organizer": "CEDAT",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -389,7 +291,7 @@
   "organizer": "IntoAEC",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -431,7 +333,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "devfolio",
@@ -445,21 +347,21 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
   "title": "Digital Marketing Meets AI \u2013 Free Workshop",
-  "url": "https://allevents.in/bangalore/digital-marketing-meets-ai-free-workshop-tickets/80001507326864",
+  "url": "https://allevents.in/bangalore/digital-marketing-meets-ai-free-workshop-tickets/80002549947579",
   "start": "2026-10-10T00:00:00+00:00",
   "end": "2026-10-10T00:00:00+00:00",
   "city": "bengaluru",
   "city_raw": "Bangalore",
   "venue": "NIDM-National Institute of Digital Marketing Bangalore",
-  "organizer": "Arav S",
+  "organizer": "Alan Savier",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -471,6 +373,48 @@
   "city_raw": "Bengaluru",
   "venue": "NIDM-National Institute of Digital Marketing",
   "organizer": "National Institute of Digital Marketing (NIDM)",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
+ },
+ {
+  "source": "allevents",
+  "title": "Free Digital Marketing & AI Workshop \u2013 Bengaluru | October 10",
+  "url": "https://allevents.in/bangalore/free-digital-marketing-and-ai-workshop-bengaluru-october-10-tickets/80002907782456",
+  "start": "2026-10-10T00:00:00+00:00",
+  "end": "2026-10-10T00:00:00+00:00",
+  "city": "bengaluru",
+  "city_raw": "Bangalore",
+  "venue": "NIDM-National Institute of Digital Marketing Bangalore",
+  "organizer": "National Institute of Digital Marketing",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
+ },
+ {
+  "source": "allevents",
+  "title": "The Great Shayari Showdown - Human Poets Vs AI Genz",
+  "url": "https://allevents.in/mumbai/the-great-shayari-showdown-human-poets-vs-ai-genz-tickets/80003235633928",
+  "start": "2026-10-10T00:00:00+00:00",
+  "end": "2026-10-10T00:00:00+00:00",
+  "city": "mumbai",
+  "city_raw": "Mumbai",
+  "venue": "Vaibhav Palace",
+  "organizer": "COFFEE TABLES",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
+ },
+ {
+  "source": "allevents",
+  "title": "Digital Marketing Meets AI \u2013 Free Workshop",
+  "url": "https://allevents.in/bangalore/digital-marketing-meets-ai-free-workshop-tickets/80001507326864",
+  "start": "2026-10-10T00:00:00+00:00",
+  "end": "2026-10-10T00:00:00+00:00",
+  "city": "bengaluru",
+  "city_raw": "Bangalore",
+  "venue": "NIDM-National Institute of Digital Marketing Bangalore",
+  "organizer": "Arav S",
   "description": "",
   "online": false,
   "scraped_at": "2026-09-26T06:13:13.241413+00:00"
@@ -501,7 +445,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "devfolio",
@@ -515,7 +459,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "devfolio",
@@ -529,7 +473,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -557,7 +501,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "devfolio",
@@ -571,7 +515,7 @@
   "organizer": "",
   "description": "",
   "online": true,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -599,7 +543,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "devfolio",
@@ -613,7 +557,7 @@
   "organizer": "",
   "description": "",
   "online": true,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -627,7 +571,7 @@
   "organizer": "Autotechnicia",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -641,7 +585,7 @@
   "organizer": "Legal Tech Meet",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "devfolio",
@@ -655,7 +599,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "devfolio",
@@ -683,7 +627,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "devfolio",
@@ -697,7 +641,7 @@
   "organizer": "",
   "description": "",
   "online": true,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -753,7 +697,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -767,7 +711,7 @@
   "organizer": "Bhavik Jain",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -781,7 +725,7 @@
   "organizer": "CEDAT",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "devfolio",
@@ -795,7 +739,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "devfolio",
@@ -823,7 +767,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "devfolio",
@@ -851,7 +795,7 @@
   "organizer": "MCEXPERT",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -865,7 +809,7 @@
   "organizer": "Cinemarathon community for film making",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -879,7 +823,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -893,7 +837,7 @@
   "organizer": "Synnex Group",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -907,7 +851,7 @@
   "organizer": "Synnex Group",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -921,7 +865,7 @@
   "organizer": "SUNBURN Festival",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -935,7 +879,7 @@
   "organizer": "Anyma",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -963,7 +907,7 @@
   "organizer": "NAVIGO Seminars",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -1005,7 +949,7 @@
   "organizer": "ijieee",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -1019,7 +963,7 @@
   "organizer": "TraiCon Events",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -1033,7 +977,7 @@
   "organizer": "HackerX",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -1047,7 +991,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -1061,7 +1005,7 @@
   "organizer": "Global Solar Expo",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -1075,7 +1019,7 @@
   "organizer": "BlaBla Language Exchange - India",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -1089,7 +1033,7 @@
   "organizer": "Bharat AgriTech",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -1117,7 +1061,7 @@
   "organizer": "UNITED EXPO ORGANIZASYION VE TICARET LIMITED IRKETI",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
@@ -1131,7 +1075,7 @@
   "organizer": "PAINTECH 2027",
   "description": "",
   "online": false,
-  "scraped_at": "2026-09-26T06:13:13.241413+00:00"
+  "scraped_at": "2026-09-27T06:41:03.593728+00:00"
  },
  {
   "source": "allevents",
