@@ -31,6 +31,20 @@
   ]
  },
  {
+  "name": "Keshav bhatt",
+  "cities": [
+   "jaipur"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/jaipur/nirmanx-developer-meetup-tickets/80001170415697",
+   "https://allevents.in/jaipur/padharox-developer-meet-up-tickets/80008072658440"
+  ]
+ },
+ {
   "name": "industech expo",
   "cities": [
    "mumbai"
@@ -87,7 +101,7 @@
   ]
  },
  {
-  "name": "John Doe",
+  "name": "eMexo Technologie",
   "cities": [
    "bengaluru"
   ],
@@ -96,7 +110,7 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bengaluru/women-in-tech-meetup/100001996786320637"
+   "https://allevents.in/bengaluru/free-gen-ai-and-agentic-ai-demo-at-emexo/100001997562251467"
   ]
  },
  {
@@ -126,16 +140,16 @@
   ]
  },
  {
-  "name": "Keshav bhatt",
+  "name": "Akshay Jagtap",
   "cities": [
-   "jaipur"
+   "mumbai"
   ],
   "event_count": 1,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/jaipur/padharox-developer-meet-up-tickets/80008072658440"
+   "https://allevents.in/mumbai/12th-cii-global-summit-on-skill-development-and-livelihood-tickets/80001768389757"
   ]
  },
  {
@@ -149,19 +163,6 @@
   ],
   "upcoming": [
    "https://allevents.in/new-delhi/delhi-to-dubai-monthly-fixed-group-departures-with-flights-hotel-visa-breakfast-transfers-and-more/200030680014910"
-  ]
- },
- {
-  "name": "Akshay Jagtap",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/12th-cii-global-summit-on-skill-development-and-livelihood-tickets/80001768389757"
   ]
  },
  {
@@ -230,6 +231,19 @@
   ]
  },
  {
+  "name": "Momentum",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/baal-ramleela/4100030741477112"
+  ]
+ },
+ {
   "name": "National Institute of Digital Marketing",
   "cities": [
    "bengaluru"
@@ -243,19 +257,6 @@
   ]
  },
  {
-  "name": "COFFEE TABLES",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/the-great-shayari-showdown-human-poets-vs-ai-genz-tickets/80003235633928"
-  ]
- },
- {
   "name": "Arav S",
   "cities": [
    "bengaluru"
@@ -266,6 +267,19 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/digital-marketing-meets-ai-free-workshop-tickets/80001507326864"
+  ]
+ },
+ {
+  "name": "COFFEE TABLES",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/the-great-shayari-showdown-human-poets-vs-ai-genz-tickets/80003235633928"
   ]
  },
  {
