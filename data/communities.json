@@ -31,20 +31,6 @@
   ]
  },
  {
-  "name": "Keshav bhatt",
-  "cities": [
-   "jaipur"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/jaipur/nirmanx-developer-meetup-tickets/80001170415697",
-   "https://allevents.in/jaipur/padharox-developer-meet-up-tickets/80008072658440"
-  ]
- },
- {
   "name": "industech expo",
   "cities": [
    "mumbai"
@@ -73,6 +59,21 @@
   ]
  },
  {
+  "name": "TraiCon Events",
+  "cities": [
+   "chennai",
+   "hyderabad"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/ai-revolution-summit-india-tickets/80001371258947",
+   "https://allevents.in/hyderabad/world-data-center-summit-india-tickets/80002557113801"
+  ]
+ },
+ {
   "name": "Synnex Group",
   "cities": [
    "mumbai"
@@ -98,45 +99,6 @@
   "upcoming": [
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-22nd-november-mumbai-tickets/80003401022819",
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-d2c-06th-december-mumbai-nmims-tickets/80001874113177"
-  ]
- },
- {
-  "name": "eMexo Technologie",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/free-gen-ai-and-agentic-ai-demo-at-emexo/100001997562251467"
-  ]
- },
- {
-  "name": "GS Apexo Pack -Automatic Pouch Packing Machine",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/anuga-food-tech-india/200030706157235"
-  ]
- },
- {
-  "name": "baartr",
-  "cities": [
-   "kolkata"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/kolkata/official-staaake-kolkata-founders-ai-tech-power-walk/100001996317895565"
   ]
  },
  {
@@ -423,19 +385,6 @@
   ],
   "upcoming": [
    "https://allevents.in/chennai/international-conference-on-advancements-in-education-research-and-developmen/100001990840707147"
-  ]
- },
- {
-  "name": "TraiCon Events",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/world-data-center-summit-india-tickets/80002557113801"
   ]
  },
  {
