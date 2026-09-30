@@ -45,6 +45,20 @@
   ]
  },
  {
+  "name": "National Institute of Digital Marketing",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/digital-marketing-meets-ai-free-workshop-tickets/80001988175611",
+   "https://allevents.in/bangalore/free-digital-marketing-and-ai-workshop-bengaluru-october-10-tickets/80002907782456"
+  ]
+ },
+ {
   "name": "National Institute of Digital Marketing (NIDM)",
   "cities": [
    "bengaluru"
@@ -71,6 +85,20 @@
   "upcoming": [
    "https://allevents.in/chennai/ai-revolution-summit-india-tickets/80001371258947",
    "https://allevents.in/hyderabad/world-data-center-summit-india-tickets/80002557113801"
+  ]
+ },
+ {
+  "name": "MOJO CAPITAL",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/techai-india-summit-chennai-2026-tickets/80001617844041",
+   "https://allevents.in/chennai/global-startup-summit-2026-chennai-tickets/80002267326827"
   ]
  },
  {
@@ -102,6 +130,19 @@
   ]
  },
  {
+  "name": "Gumbo Tech",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/consumer-tech-marketing-open-floor-meetup-tickets/80007659501909"
+  ]
+ },
+ {
   "name": "Akshay Jagtap",
   "cities": [
    "mumbai"
@@ -125,6 +166,19 @@
   ],
   "upcoming": [
    "https://allevents.in/new-delhi/delhi-to-dubai-monthly-fixed-group-departures-with-flights-hotel-visa-breakfast-transfers-and-more/200030680014910"
+  ]
+ },
+ {
+  "name": "Aarsh Wcr",
+  "cities": [
+   "gurugram"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/gurugram/dubai-property-expo-october-free-ticket-october-is-the-perfect-month/100002002423322060"
   ]
  },
  {
@@ -206,19 +260,6 @@
   ]
  },
  {
-  "name": "National Institute of Digital Marketing",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/free-digital-marketing-and-ai-workshop-bengaluru-october-10-tickets/80002907782456"
-  ]
- },
- {
   "name": "Arav S",
   "cities": [
    "bengaluru"
@@ -281,6 +322,19 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/code-to-capital-summit-tickets/80003201845282"
+  ]
+ },
+ {
+  "name": "Zenvaa Technologies",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/mecha-mavericks-youth-robotics-championship/80003234633943"
   ]
  },
  {
