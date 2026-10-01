@@ -1,5 +1,21 @@
 [
  {
+  "name": "Event Navigator",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 4,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/rainbow-events-hi-tech-circus/3900030688558552",
+   "https://allevents.in/new-delhi/global-startups-club-l-startup-networking-gurugram/3900030742611846",
+   "https://allevents.in/new-delhi/ye-jo-hans-rahi-hai-dunia-by-rahgir/3900030623732133",
+   "https://allevents.in/new-delhi/mahadev/3900030456471922"
+  ]
+ },
+ {
   "name": "CEDAT",
   "cities": [
    "bengaluru"
@@ -16,21 +32,6 @@
   ]
  },
  {
-  "name": "Event Navigator",
-  "cities": [
-   "delhi"
-  ],
-  "event_count": 3,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/new-delhi/rainbow-events-hi-tech-circus/3900030688558552",
-   "https://allevents.in/new-delhi/ye-jo-hans-rahi-hai-dunia-by-rahgir/3900030623732133",
-   "https://allevents.in/new-delhi/mahadev/3900030456471922"
-  ]
- },
- {
   "name": "industech expo",
   "cities": [
    "mumbai"
@@ -40,8 +41,8 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/mumbai/indus-tech-mumbai-2026-machine-tools-exhibition-india-metal-forming-expo-mumbai-tickets/80001925243695",
-   "https://allevents.in/mumbai/indus-tech-mumbai-2026-metal-forming-technology-expo-tickets/80002819939814"
+   "https://allevents.in/mumbai/indus-tech-mumbai-2026-metal-forming-technology-expo-tickets/80002819939814",
+   "https://allevents.in/mumbai/indus-tech-mumbai-2026-machine-tools-exhibition-india-metal-forming-expo-mumbai-tickets/80001925243695"
   ]
  },
  {
@@ -130,33 +131,7 @@
   ]
  },
  {
-  "name": "Gumbo Tech",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/consumer-tech-marketing-open-floor-meetup-tickets/80007659501909"
-  ]
- },
- {
-  "name": "Akshay Jagtap",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/12th-cii-global-summit-on-skill-development-and-livelihood-tickets/80001768389757"
-  ]
- },
- {
-  "name": "Grouponholiday.com",
+  "name": "Lilly Abtin",
   "cities": [
    "delhi"
   ],
@@ -165,7 +140,7 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/new-delhi/delhi-to-dubai-monthly-fixed-group-departures-with-flights-hotel-visa-breakfast-transfers-and-more/200030680014910"
+   "https://allevents.in/new-delhi/aerocity-meetup/100001996787374790"
   ]
  },
  {
@@ -179,6 +154,19 @@
   ],
   "upcoming": [
    "https://allevents.in/gurugram/dubai-property-expo-october-free-ticket-october-is-the-perfect-month/100002002423322060"
+  ]
+ },
+ {
+  "name": "Version IT",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/generative-ai-training-in-hyderabad-gen-ai-free-demo-session/100002002426314009"
   ]
  },
  {
@@ -491,6 +479,19 @@
   ],
   "upcoming": [
    "https://allevents.in/indore/8th-bharat-agritech-agri-dairy-horti-and-food-processing-expo-tickets/80002865217951"
+  ]
+ },
+ {
+  "name": "NUS ISS",
+  "cities": [
+   "kochi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/kochi/nus-master-of-technology-mtech-preview-entrance-test-and-interview-kochi/100002001529481559"
   ]
  },
  {
