@@ -1,5 +1,22 @@
 [
  {
+  "name": "CEDAT",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 5,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80001742877175",
+   "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80002255452458",
+   "https://allevents.in/bangalore/south-bengaluru-startups-meetup-by-cedat-tickets/80008961477557",
+   "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296",
+   "https://allevents.in/bangalore/north-bengaluru-startups-meetup-by-cedat-tickets/80001874070517"
+  ]
+ },
+ {
   "name": "Event Navigator",
   "cities": [
    "delhi"
@@ -16,22 +33,6 @@
   ]
  },
  {
-  "name": "CEDAT",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 4,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80001742877175",
-   "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80002255452458",
-   "https://allevents.in/bangalore/south-bengaluru-startups-meetup-by-cedat-tickets/80008961477557",
-   "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296"
-  ]
- },
- {
   "name": "industech expo",
   "cities": [
    "mumbai"
@@ -41,8 +42,8 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/mumbai/indus-tech-mumbai-2026-metal-forming-technology-expo-tickets/80002819939814",
-   "https://allevents.in/mumbai/indus-tech-mumbai-2026-machine-tools-exhibition-india-metal-forming-expo-mumbai-tickets/80001925243695"
+   "https://allevents.in/mumbai/indus-tech-mumbai-2026-machine-tools-exhibition-india-metal-forming-expo-mumbai-tickets/80001925243695",
+   "https://allevents.in/mumbai/indus-tech-mumbai-2026-metal-forming-technology-expo-tickets/80002819939814"
   ]
  },
  {
@@ -128,19 +129,6 @@
   "upcoming": [
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-22nd-november-mumbai-tickets/80003401022819",
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-d2c-06th-december-mumbai-nmims-tickets/80001874113177"
-  ]
- },
- {
-  "name": "Lilly Abtin",
-  "cities": [
-   "delhi"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/new-delhi/aerocity-meetup/100001996787374790"
   ]
  },
  {
