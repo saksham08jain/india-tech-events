@@ -21,12 +21,11 @@
   "cities": [
    "delhi"
   ],
-  "event_count": 4,
+  "event_count": 3,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/new-delhi/rainbow-events-hi-tech-circus/3900030688558552",
    "https://allevents.in/new-delhi/global-startups-club-l-startup-networking-gurugram/3900030742611846",
    "https://allevents.in/new-delhi/ye-jo-hans-rahi-hai-dunia-by-rahgir/3900030623732133",
    "https://allevents.in/new-delhi/mahadev/3900030456471922"
@@ -132,19 +131,6 @@
   ]
  },
  {
-  "name": "Aarsh Wcr",
-  "cities": [
-   "gurugram"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/gurugram/dubai-property-expo-october-free-ticket-october-is-the-perfect-month/100002002423322060"
-  ]
- },
- {
   "name": "Version IT",
   "cities": [
    "hyderabad"
@@ -194,6 +180,19 @@
   ],
   "upcoming": [
    "https://allevents.in/bengaluru/acetech-bengaluru-2026/100002000381111754"
+  ]
+ },
+ {
+  "name": "cedat senax",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80002086957579"
   ]
  },
  {
@@ -324,6 +323,19 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/crane-expo-mumbai-2026\u200b-tickets/80007190329779"
+  ]
+ },
+ {
+  "name": "baartr",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/thursday-after-work-tech-founders-pre-halloween-reverse-network-meet/100002002638580905"
   ]
  },
  {
