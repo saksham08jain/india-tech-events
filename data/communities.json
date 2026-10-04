@@ -17,6 +17,21 @@
   ]
  },
  {
+  "name": "National Institute of Digital Marketing",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 3,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/digital-marketing-meets-ai-free-workshop-tickets/80003259479052",
+   "https://allevents.in/bangalore/digital-marketing-meets-ai-free-workshop-tickets/80001988175611",
+   "https://allevents.in/bangalore/free-digital-marketing-and-ai-workshop-bengaluru-october-10-tickets/80002907782456"
+  ]
+ },
+ {
   "name": "Event Navigator",
   "cities": [
    "delhi"
@@ -43,20 +58,6 @@
   "upcoming": [
    "https://allevents.in/mumbai/indus-tech-mumbai-2026-machine-tools-exhibition-india-metal-forming-expo-mumbai-tickets/80001925243695",
    "https://allevents.in/mumbai/indus-tech-mumbai-2026-metal-forming-technology-expo-tickets/80002819939814"
-  ]
- },
- {
-  "name": "National Institute of Digital Marketing",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/digital-marketing-meets-ai-free-workshop-tickets/80001988175611",
-   "https://allevents.in/bangalore/free-digital-marketing-and-ai-workshop-bengaluru-october-10-tickets/80002907782456"
   ]
  },
  {
@@ -98,8 +99,8 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/chennai/techai-india-summit-chennai-2026-tickets/80001617844041",
-   "https://allevents.in/chennai/global-startup-summit-2026-chennai-tickets/80002267326827"
+   "https://allevents.in/chennai/global-startup-summit-2026-chennai-tickets/80002267326827",
+   "https://allevents.in/chennai/techai-india-summit-chennai-2026-tickets/80001617844041"
   ]
  },
  {
