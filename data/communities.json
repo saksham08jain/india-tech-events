@@ -91,6 +91,20 @@
   ]
  },
  {
+  "name": "Bhavik Jain",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/healthtech-founders-mixer-mumbai/100002001776961779",
+   "https://allevents.in/mumbai/startup-founders-mixer-health-tech-mumbai/100002001776961779"
+  ]
+ },
+ {
   "name": "MOJO CAPITAL",
   "cities": [
    "chennai"
@@ -130,19 +144,6 @@
   "upcoming": [
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-22nd-november-mumbai-tickets/80003401022819",
    "https://allevents.in/mumbai/the-founders-x-investors-pitch-d2c-06th-december-mumbai-nmims-tickets/80001874113177"
-  ]
- },
- {
-  "name": "Version IT",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/generative-ai-training-in-hyderabad-gen-ai-free-demo-session/100002002426314009"
   ]
  },
  {
@@ -208,6 +209,19 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80002086957579"
+  ]
+ },
+ {
+  "name": "Startup Synerz",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/pitchx-where-founders-meet-capital-tickets/80003465318705"
   ]
  },
  {
@@ -351,19 +365,6 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/thursday-after-work-tech-founders-pre-halloween-reverse-network-meet/100002002638580905"
-  ]
- },
- {
-  "name": "Bhavik Jain",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/startup-founders-mixer-health-tech-mumbai/100002001776961779"
   ]
  },
  {
