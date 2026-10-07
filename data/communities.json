@@ -1,21 +1,19 @@
 [
  {
-  "name": "Rapid Skill Up",
+  "name": "CEDAT",
   "cities": [
-   "bengaluru",
-   "chennai",
-   "hyderabad",
-   "mumbai"
+   "bengaluru"
   ],
-  "event_count": 4,
+  "event_count": 5,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/mumbai/leveraging-robotics-for-success-mumbai/100001052207871067",
-   "https://allevents.in/bengaluru/ai-implementation-in-business-bangalore/100001027620268887",
-   "https://allevents.in/hyderabad/ai-implementation-in-business-hyderabad/100001354005319359",
-   "https://allevents.in/chennai/ai-implementation-in-business-chennai/100001354005369509"
+   "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80001742877175",
+   "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80002255452458",
+   "https://allevents.in/bangalore/south-bengaluru-startups-meetup-by-cedat-tickets/80008961477557",
+   "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296",
+   "https://allevents.in/bangalore/north-bengaluru-startups-meetup-by-cedat-tickets/80001874070517"
   ]
  },
  {
@@ -28,14 +26,14 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/new-delhi/mahadev/3900030456471922",
-   "https://allevents.in/new-delhi/entrepreneurs-meetup-we-founders-collab-gurugram/3900030617135434",
-   "https://allevents.in/new-delhi/shaam-e-qawali-by-nizami-brothers-traditional/3900030668413529",
-   "https://allevents.in/new-delhi/qawaali-by-nizami-bandhu/3900030598823548"
+   "https://allevents.in/new-delhi/global-startups-club-l-startup-networking-gurugram/3900030742611846",
+   "https://allevents.in/new-delhi/ye-jo-hans-rahi-hai-dunia-by-rahgir/3900030623732133",
+   "https://allevents.in/new-delhi/sufi-qawwali-night-with-fanna-fi-allah/3900030397529424",
+   "https://allevents.in/new-delhi/mahadev/3900030456471922"
   ]
  },
  {
-  "name": "CEDAT",
+  "name": "National Institute of Digital Marketing",
   "cities": [
    "bengaluru"
   ],
@@ -44,83 +42,9 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bangalore/startup-stories-by-bengaluru-founders-tickets/80001305071809",
-   "https://allevents.in/bengaluru/startup-talks-by-cedat/100001996429809302",
-   "https://allevents.in/bengaluru/startup-community-meetup-by-cedat/100001996430409096"
-  ]
- },
- {
-  "name": "eChai Bangalore Startup Network",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/bengaluru-startup-meetup/100001999937302308",
-   "https://allevents.in/bengaluru/echais-startup-open-house-in-bengaluru/100001999937378536"
-  ]
- },
- {
-  "name": "Momentum",
-  "cities": [
-   "delhi",
-   "gurugram"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/gurugram/durbar-evenings-orchestral-qawwali-project/4100030471792701",
-   "https://allevents.in/new-delhi/jashn-e-qawwali/4100030514061931"
-  ]
- },
- {
-  "name": "Economictimes Times",
-  "cities": [
-   "bengaluru",
-   "hyderabad"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/best-ai-awards-2026-et-ai-awards-ai-awards-india/80003662727814",
-   "https://allevents.in/hyderabad/developer-event-and-conference-hyderabad-et-devnext/80004755752807"
-  ]
- },
- {
-  "name": "HackerX",
-  "cities": [
-   "chennai",
-   "mumbai"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/hackerx-mumbai-employer-ticket-9-17/100001982066412997",
-   "https://allevents.in/chennai/hackerx-chennai-employer-ticket-12-17/100001980428996440"
-  ]
- },
- {
-  "name": "eChai India Startup Network",
-  "cities": [
-   "indore",
-   "jaipur"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/indore/echai-startup-demo-day-in-indore/100002000012844256",
-   "https://allevents.in/jaipur/echai-startup-demo-day-in-jaipur/100002000011630626"
+   "https://allevents.in/bangalore/digital-marketing-meets-ai-free-workshop-tickets/80001988175611",
+   "https://allevents.in/bangalore/digital-marketing-meets-ai-free-workshop-tickets/80003259479052",
+   "https://allevents.in/bangalore/free-digital-marketing-and-ai-workshop-bengaluru-october-10-tickets/80002907782456"
   ]
  },
  {
@@ -138,289 +62,88 @@
   ]
  },
  {
-  "name": "Industrial Flooring Association",
+  "name": "National Institute of Digital Marketing (NIDM)",
   "cities": [
    "bengaluru"
   ],
-  "event_count": 1,
+  "event_count": 2,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bangalore/10th-international-conference-flooring-technologies-to-meet-the-demand-of-new-age-industries/200030481996558"
+   "https://allevents.in/bengaluru/ai-digital-marketing-workshop-in-bangalore-nidm-tickets/80003772987895",
+   "https://allevents.in/bengaluru/digital-marketing-meets-ai-free-workshop/100002001487951341"
   ]
  },
  {
-  "name": "Alliance Konnect",
+  "name": "TraiCon Events",
+  "cities": [
+   "chennai",
+   "hyderabad"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/ai-revolution-summit-india-tickets/80001371258947",
+   "https://allevents.in/hyderabad/world-data-center-summit-india-tickets/80002557113801"
+  ]
+ },
+ {
+  "name": "Bhavik Jain",
   "cities": [
    "mumbai"
   ],
-  "event_count": 1,
+  "event_count": 2,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/mumbai/esg-and-climate-tech-summit-and-awards-2026/80003026148408"
-  ]
- },
- {
-  "name": "SODA Foundation",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/kubernetes-ai-and-beyond-exploring-nextgen-tech-stack/100001997106785155"
-  ]
- },
- {
-  "name": "Tablon Community",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/founders-meetup-i-bangalore-i-investor-and-founders-networking/100001983339390507"
-  ]
- },
- {
-  "name": "Web Sky",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/designation-2026-tickets/80002305456854"
-  ]
- },
- {
-  "name": "WCR",
-  "cities": [
-   "gurugram"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/gurugram/dubai-property-expo-free-ticket-golden-visa-your-familys-future-sep/100001999927513028"
-  ]
- },
- {
-  "name": "eChai Hyderabad Startup Network",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/echais-startup-open-house-in-hyderabad/100001999937469809"
-  ]
- },
- {
-  "name": "Messe Muenchen India",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/electronica-india-and-productronica-india/80003492045599"
-  ]
- },
- {
-  "name": "Brandland",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/property-expo-at-pritech-park-expo-at-corporate/200030658356916"
-  ]
- },
- {
-  "name": "DC summit India",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/data-center-and-mep-infra-summit/200030482025347"
-  ]
- },
- {
-  "name": "Trade Fairs",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/garment-technology-expo-gte-2026/200030654229101"
-  ]
- },
- {
-  "name": "Ishita Grover",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/making-ai-work-summit-2026-top-ai-events-and-conferences-india/80004770888214"
+   "https://allevents.in/mumbai/healthtech-founders-mixer-mumbai/100002001776961779",
+   "https://allevents.in/mumbai/startup-founders-mixer-health-tech-mumbai/100002001776961779"
   ]
  },
  {
   "name": "MOJO CAPITAL",
   "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/bharat-technology-conclave-2026-hyderabad-tickets/80003294445216"
-  ]
- },
- {
-  "name": "Techcanvass",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/techcanvass-connect-summit-hyderabad-tickets/80004519205406"
-  ]
- },
- {
-  "name": "SEED Global Education",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/smu-day-mumbai-tickets/80002215433606"
-  ]
- },
- {
-  "name": "Keshav bhatt",
-  "cities": [
-   "jaipur"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/jaipur/padharox-developer-meet-up-tickets/80008072658440"
-  ]
- },
- {
-  "name": "EDU EXPO Global",
-  "cities": [
-   "delhi"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/new-delhi/7th-edition-et-tech-expo-new-delhi/200030303283240"
-  ]
- },
- {
-  "name": "PedalStart",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/startup-demo-day/100001999781617651"
-  ]
- },
- {
-  "name": "Klizer",
-  "cities": [
    "chennai"
   ],
-  "event_count": 1,
+  "event_count": 2,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/chennai/aicon-chennai-2026-tickets/80002816461816"
+   "https://allevents.in/chennai/global-startup-summit-2026-chennai-tickets/80002267326827",
+   "https://allevents.in/chennai/techai-india-summit-chennai-2026-tickets/80001617844041"
   ]
  },
  {
-  "name": "Makers Tribe",
-  "cities": [
-   "kochi"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/kochi/kochi-freelancers-monthly-meetup-september-2026-tickets/80009130123733"
-  ]
- },
- {
-  "name": "baartr",
-  "cities": [
-   "kolkata"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/kolkata/official-staaake-kolkata-founders-ai-tech-power-walk/100001996317895565"
-  ]
- },
- {
-  "name": "Akshay Jagtap",
+  "name": "Synnex Group",
   "cities": [
    "mumbai"
   ],
-  "event_count": 1,
+  "event_count": 2,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/mumbai/12th-cii-global-summit-on-skill-development-and-livelihood-tickets/80001768389757"
+   "https://allevents.in/mumbai/india-finance-and-tech-summit-2026-finance-transformation-summit/100002001450614666",
+   "https://allevents.in/mumbai/india-collection-and-tech-summit-2026/100002001454061977"
+  ]
+ },
+ {
+  "name": "The Founders",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/the-founders-x-investors-pitch-22nd-november-mumbai-tickets/80003401022819",
+   "https://allevents.in/mumbai/the-founders-x-investors-pitch-d2c-06th-december-mumbai-nmims-tickets/80001874113177"
   ]
  },
  {
@@ -434,6 +157,149 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/open-source-india-7-8-october-2026-tickets/80001954100279"
+  ]
+ },
+ {
+  "name": "Code Fiesta GIT Jaipur",
+  "cities": [
+   "jaipur"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/jaipur/codefiesta-50-hackathon/80005230066968"
+  ]
+ },
+ {
+  "name": "IntoAEC",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/acetech-bengaluru-2026/100002000381111754"
+  ]
+ },
+ {
+  "name": "Venture Capital World Summit OU",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/new-delhi-2026-venture-capital-world-summit/100001968718246271"
+  ]
+ },
+ {
+  "name": "cedat senax",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80002086957579"
+  ]
+ },
+ {
+  "name": "Startup Synerz",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/pitchx-where-founders-meet-capital-tickets/80003465318705"
+  ]
+ },
+ {
+  "name": "PrivacyLabs",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/is-your-company-dpdp-ready-a-live-hands-on-workshop-for-indian-startups/80002483858363"
+  ]
+ },
+ {
+  "name": "Momentum",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/baal-ramleela/4100030741477112"
+  ]
+ },
+ {
+  "name": "Alan Savier",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/digital-marketing-meets-ai-free-workshop-tickets/80002549947579"
+  ]
+ },
+ {
+  "name": "Arav S",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/digital-marketing-meets-ai-free-workshop-tickets/80001507326864"
+  ]
+ },
+ {
+  "name": "COFFEE TABLES",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/the-great-shayari-showdown-human-poets-vs-ai-genz-tickets/80003235633928"
+  ]
+ },
+ {
+  "name": "World AI Summit 2026",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/world-ai-summit-2026-tickets/80002987560857"
   ]
  },
  {
@@ -463,6 +329,19 @@
   ]
  },
  {
+  "name": "Zenvaa Technologies",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/mecha-mavericks-youth-robotics-championship/80003234633943"
+  ]
+ },
+ {
   "name": "Crane Expo",
   "cities": [
    "mumbai"
@@ -473,6 +352,19 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/crane-expo-mumbai-2026\u200b-tickets/80007190329779"
+  ]
+ },
+ {
+  "name": "baartr",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/thursday-after-work-tech-founders-pre-halloween-reverse-network-meet/100002002638580905"
   ]
  },
  {
@@ -502,6 +394,19 @@
   ]
  },
  {
+  "name": "SUNBURN Festival",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/anyma-presents-aeden-mumbai/200030680197239"
+  ]
+ },
+ {
   "name": "Anyma",
   "cities": [
    "mumbai"
@@ -515,6 +420,19 @@
   ]
  },
  {
+  "name": "NAVIGO Seminars",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/next-generation-testing-and-ai-bangalore/80001436966343"
+  ]
+ },
+ {
   "name": "ijieee",
   "cities": [
    "chennai"
@@ -525,6 +443,19 @@
   ],
   "upcoming": [
    "https://allevents.in/chennai/international-conference-on-advancements-in-education-research-and-developmen/100001990840707147"
+  ]
+ },
+ {
+  "name": "HackerX",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/hackerx-chennai-employer-ticket-12-17/100001980428996440"
   ]
  },
  {
@@ -564,6 +495,19 @@
   ],
   "upcoming": [
    "https://allevents.in/indore/8th-bharat-agritech-agri-dairy-horti-and-food-processing-expo-tickets/80002865217951"
+  ]
+ },
+ {
+  "name": "NUS ISS",
+  "cities": [
+   "kochi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/kochi/nus-master-of-technology-mtech-preview-entrance-test-and-interview-kochi/100002001529481559"
   ]
  },
  {
