@@ -185,19 +185,6 @@
   ]
  },
  {
-  "name": "PrivacyLabs",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/is-your-company-dpdp-ready-a-live-hands-on-workshop-for-indian-startups/80002483858363"
-  ]
- },
- {
   "name": "Startup Synerz",
   "cities": [
    "bengaluru"
@@ -208,6 +195,19 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/pitchx-where-founders-meet-capital-tickets/80003465318705"
+  ]
+ },
+ {
+  "name": "PrivacyLabs",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/is-your-company-dpdp-ready-a-live-hands-on-workshop-for-indian-startups/80002483858363"
   ]
  },
  {
