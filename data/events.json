@@ -1,48 +1,6 @@
 [
  {
   "source": "allevents",
-  "title": "Open Source India | 7-8 October 2026",
-  "url": "https://allevents.in/bangalore/open-source-india-7-8-october-2026-tickets/80001954100279",
-  "start": "2026-10-07T00:00:00+00:00",
-  "end": "2026-10-08T00:00:00+00:00",
-  "city": "bengaluru",
-  "city_raw": "Bangalore",
-  "venue": "NIMHANS Convention Centre",
-  "organizer": "Dilin Anand",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
- },
- {
-  "source": "allevents",
-  "title": "INDUS-tech Mumbai 2026 | Machine Tools Exhibition India | Metal Forming Expo Mumbai",
-  "url": "https://allevents.in/mumbai/indus-tech-mumbai-2026-machine-tools-exhibition-india-metal-forming-expo-mumbai-tickets/80001925243695",
-  "start": "2026-10-07T00:00:00+00:00",
-  "end": "2026-10-09T00:00:00+00:00",
-  "city": "mumbai",
-  "city_raw": "Mumbai",
-  "venue": "Bombay Exhibition Centre",
-  "organizer": "industech expo",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
- },
- {
-  "source": "allevents",
-  "title": "INDUS-tech Mumbai 2026 \u2013 Metal Forming Technology Expo",
-  "url": "https://allevents.in/mumbai/indus-tech-mumbai-2026-metal-forming-technology-expo-tickets/80002819939814",
-  "start": "2026-10-07T00:00:00+00:00",
-  "end": "2026-10-09T00:00:00+00:00",
-  "city": "mumbai",
-  "city_raw": "Mumbai",
-  "venue": "Bombay Exhibition Centre",
-  "organizer": "industech expo",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
- },
- {
-  "source": "allevents",
   "title": "Codefiesta 5.0 hackathon",
   "url": "https://allevents.in/jaipur/codefiesta-50-hackathon/80005230066968",
   "start": "2026-10-08T00:00:00+00:00",
@@ -53,7 +11,7 @@
   "organizer": "Code Fiesta GIT Jaipur",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "devfolio",
@@ -95,7 +53,7 @@
   "organizer": "CEDAT",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -109,7 +67,7 @@
   "organizer": "IntoAEC",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -123,7 +81,7 @@
   "organizer": "Venture Capital World Summit OU",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-05T07:14:43.770149+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -169,20 +127,6 @@
  },
  {
   "source": "allevents",
-  "title": "PITCHX | Where Founders Meet Capital",
-  "url": "https://allevents.in/bangalore/pitchx-where-founders-meet-capital-tickets/80003465318705",
-  "start": "2026-10-10T00:00:00+00:00",
-  "end": "2026-10-10T00:00:00+00:00",
-  "city": "bengaluru",
-  "city_raw": "Bangalore",
-  "venue": "BHIVE Premium Whitefield Campus",
-  "organizer": "Startup Synerz",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
- },
- {
-  "source": "allevents",
   "title": "Is Your Company DPDP-Ready? A Live, Hands-On Workshop for Indian Startups",
   "url": "https://allevents.in/bangalore/is-your-company-dpdp-ready-a-live-hands-on-workshop-for-indian-startups/80002483858363",
   "start": "2026-10-10T00:00:00+00:00",
@@ -193,7 +137,21 @@
   "organizer": "PrivacyLabs",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
+ },
+ {
+  "source": "allevents",
+  "title": "PITCHX | Where Founders Meet Capital",
+  "url": "https://allevents.in/bangalore/pitchx-where-founders-meet-capital-tickets/80003465318705",
+  "start": "2026-10-10T00:00:00+00:00",
+  "end": "2026-10-10T00:00:00+00:00",
+  "city": "bengaluru",
+  "city_raw": "Bangalore",
+  "venue": "BHIVE Premium Whitefield Campus",
+  "organizer": "Startup Synerz",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -207,7 +165,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -389,7 +347,7 @@
   "organizer": "Event Navigator",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -403,7 +361,7 @@
   "organizer": "COFFEE TABLES",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -417,7 +375,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "devfolio",
@@ -431,7 +389,7 @@
   "organizer": "",
   "description": "",
   "online": true,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -473,7 +431,7 @@
   "organizer": "",
   "description": "",
   "online": true,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -487,7 +445,7 @@
   "organizer": "Event Navigator",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -501,7 +459,7 @@
   "organizer": "Autotechnicia",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -515,7 +473,7 @@
   "organizer": "Legal Tech Meet",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "devfolio",
@@ -529,7 +487,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "devfolio",
@@ -543,7 +501,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "devfolio",
@@ -575,6 +533,20 @@
  },
  {
   "source": "devfolio",
+  "title": "Syntax Error 2026",
+  "url": "https://devfolio.co/hackathons/syntax-error-6",
+  "start": "2026-10-23T15:30:00+00:00",
+  "end": "2026-10-25T03:30:00+00:00",
+  "city": "unknown",
+  "city_raw": "",
+  "venue": "",
+  "organizer": "",
+  "description": "",
+  "online": true,
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
+ },
+ {
+  "source": "devfolio",
   "title": "Hefty-Hacks",
   "url": "https://devfolio.co/hackathons/hefty-hacks",
   "start": "2026-10-23T18:30:00+00:00",
@@ -599,7 +571,7 @@
   "organizer": "Zenvaa Technologies",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "devfolio",
@@ -613,7 +585,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -627,7 +599,7 @@
   "organizer": "Crane Expo",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -641,7 +613,7 @@
   "organizer": "TraiCon Events",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -683,7 +655,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -697,7 +669,7 @@
   "organizer": "baartr",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -711,7 +683,7 @@
   "organizer": "Bhavik Jain",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -739,7 +711,7 @@
   "organizer": "CEDAT",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "devfolio",
@@ -753,7 +725,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "devfolio",
@@ -767,7 +739,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "devfolio",
@@ -781,7 +753,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "devfolio",
@@ -795,7 +767,21 @@
   "organizer": "",
   "description": "",
   "online": true,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
+ },
+ {
+  "source": "devfolio",
+  "title": "Lean In Hacks 8.0",
+  "url": "https://devfolio.co/hackathons/lean-in-hacks-8",
+  "start": "2026-10-30T18:30:00+00:00",
+  "end": "2026-11-02T17:00:00+00:00",
+  "city": "unknown",
+  "city_raw": "",
+  "venue": "",
+  "organizer": "",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -823,7 +809,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -851,7 +837,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -865,7 +851,7 @@
   "organizer": "MCEXPERT",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -879,7 +865,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -893,7 +879,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -907,7 +893,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -921,7 +907,7 @@
   "organizer": "MOJO CAPITAL",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -935,7 +921,7 @@
   "organizer": "Cinemarathon community for film making",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "devfolio",
@@ -949,7 +935,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -963,7 +949,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -977,7 +963,7 @@
   "organizer": "Synnex Group",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -991,7 +977,7 @@
   "organizer": "Synnex Group",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -1005,7 +991,7 @@
   "organizer": "SUNBURN Festival",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -1019,7 +1005,7 @@
   "organizer": "Anyma",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "devfolio",
@@ -1033,7 +1019,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -1061,7 +1047,7 @@
   "organizer": "NAVIGO Seminars",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "devfolio",
@@ -1075,7 +1061,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -1117,7 +1103,7 @@
   "organizer": "ijieee",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "devfolio",
@@ -1131,7 +1117,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -1145,7 +1131,7 @@
   "organizer": "TraiCon Events",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -1159,7 +1145,7 @@
   "organizer": "HackerX",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -1173,7 +1159,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -1187,7 +1173,7 @@
   "organizer": "Global Solar Expo",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -1201,7 +1187,7 @@
   "organizer": "BlaBla Language Exchange - India",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -1215,7 +1201,7 @@
   "organizer": "Bharat AgriTech",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "devfolio",
@@ -1229,7 +1215,21 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
+ },
+ {
+  "source": "devfolio",
+  "title": "Hack Nexus 2027",
+  "url": "https://devfolio.co/hackathons/hack-nexus",
+  "start": "2027-01-30T04:30:00+00:00",
+  "end": "2027-01-31T11:30:00+00:00",
+  "city": "unknown",
+  "city_raw": "",
+  "venue": "",
+  "organizer": "",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -1257,7 +1257,7 @@
   "organizer": "NUS ISS",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -1271,7 +1271,7 @@
   "organizer": "UNITED EXPO ORGANIZASYION VE TICARET LIMITED IRKETI",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -1285,7 +1285,7 @@
   "organizer": "PAINTECH 2027",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  },
  {
   "source": "allevents",
@@ -1299,6 +1299,6 @@
   "organizer": "FiFin",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-06T07:40:39.400666+00:00"
+  "scraped_at": "2026-10-07T00:39:02.681320+00:00"
  }
 ]

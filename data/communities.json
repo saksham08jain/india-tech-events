@@ -48,20 +48,6 @@
   ]
  },
  {
-  "name": "industech expo",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/indus-tech-mumbai-2026-machine-tools-exhibition-india-metal-forming-expo-mumbai-tickets/80001925243695",
-   "https://allevents.in/mumbai/indus-tech-mumbai-2026-metal-forming-technology-expo-tickets/80002819939814"
-  ]
- },
- {
   "name": "National Institute of Digital Marketing (NIDM)",
   "cities": [
    "bengaluru"
@@ -147,19 +133,6 @@
   ]
  },
  {
-  "name": "Dilin Anand",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/open-source-india-7-8-october-2026-tickets/80001954100279"
-  ]
- },
- {
   "name": "Code Fiesta GIT Jaipur",
   "cities": [
    "jaipur"
@@ -212,19 +185,6 @@
   ]
  },
  {
-  "name": "Startup Synerz",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/pitchx-where-founders-meet-capital-tickets/80003465318705"
-  ]
- },
- {
   "name": "PrivacyLabs",
   "cities": [
    "bengaluru"
@@ -235,6 +195,19 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/is-your-company-dpdp-ready-a-live-hands-on-workshop-for-indian-startups/80002483858363"
+  ]
+ },
+ {
+  "name": "Startup Synerz",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/pitchx-where-founders-meet-capital-tickets/80003465318705"
   ]
  },
  {
