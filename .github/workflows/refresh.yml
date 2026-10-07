@@ -5,7 +5,6 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
-  pages: write
 jobs:
   refresh:
     runs-on: ubuntu-latest
