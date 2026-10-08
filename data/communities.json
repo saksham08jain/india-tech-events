@@ -4,16 +4,16 @@
   "cities": [
    "bengaluru"
   ],
-  "event_count": 5,
+  "event_count": 6,
   "sources": [
    "allevents"
   ],
   "upcoming": [
    "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80001742877175",
+   "https://allevents.in/bangalore/startup-stories-by-bengaluru-founders-tickets/80007631590131",
    "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80002255452458",
    "https://allevents.in/bangalore/south-bengaluru-startups-meetup-by-cedat-tickets/80008961477557",
-   "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296",
-   "https://allevents.in/bangalore/north-bengaluru-startups-meetup-by-cedat-tickets/80001874070517"
+   "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296"
   ]
  },
  {
@@ -30,6 +30,21 @@
    "https://allevents.in/new-delhi/ye-jo-hans-rahi-hai-dunia-by-rahgir/3900030623732133",
    "https://allevents.in/new-delhi/sufi-qawwali-night-with-fanna-fi-allah/3900030397529424",
    "https://allevents.in/new-delhi/mahadev/3900030456471922"
+  ]
+ },
+ {
+  "name": "eChai Bangalore Startup Network",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 3,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/built-by-design-hardware-software-and-everything-people-make/100002002932071744",
+   "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru-hsr-edition/100002002931615379",
+   "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru-koramangala-edition/100002002931379674"
   ]
  },
  {
@@ -133,19 +148,6 @@
   ]
  },
  {
-  "name": "Code Fiesta GIT Jaipur",
-  "cities": [
-   "jaipur"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/jaipur/codefiesta-50-hackathon/80005230066968"
-  ]
- },
- {
   "name": "IntoAEC",
   "cities": [
    "bengaluru"
@@ -156,6 +158,19 @@
   ],
   "upcoming": [
    "https://allevents.in/bengaluru/acetech-bengaluru-2026/100002000381111754"
+  ]
+ },
+ {
+  "name": "Cedat Center",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80001244227967"
   ]
  },
  {
@@ -185,19 +200,6 @@
   ]
  },
  {
-  "name": "Startup Synerz",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/pitchx-where-founders-meet-capital-tickets/80003465318705"
-  ]
- },
- {
   "name": "PrivacyLabs",
   "cities": [
    "bengaluru"
@@ -208,6 +210,32 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/is-your-company-dpdp-ready-a-live-hands-on-workshop-for-indian-startups/80002483858363"
+  ]
+ },
+ {
+  "name": "eChai Ventures",
+  "cities": [
+   "noida"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/noida/how-founders-and-operators-use-ai-noida-edition/100002002934025588"
+  ]
+ },
+ {
+  "name": "Startup Synerz",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/pitchx-where-founders-meet-capital-tickets/80003465318705"
   ]
  },
  {
@@ -260,6 +288,19 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/the-great-shayari-showdown-human-poets-vs-ai-genz-tickets/80003235633928"
+  ]
+ },
+ {
+  "name": "Abbey Road Institute Mumbai",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/universal-audio-volt-the-next-generation-presented-by-yuichiro-nagai/100002002988506542"
   ]
  },
  {
