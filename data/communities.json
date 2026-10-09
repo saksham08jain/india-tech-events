@@ -4,16 +4,16 @@
   "cities": [
    "bengaluru"
   ],
-  "event_count": 6,
+  "event_count": 5,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80001742877175",
    "https://allevents.in/bangalore/startup-stories-by-bengaluru-founders-tickets/80007631590131",
    "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80002255452458",
    "https://allevents.in/bangalore/south-bengaluru-startups-meetup-by-cedat-tickets/80008961477557",
-   "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296"
+   "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296",
+   "https://allevents.in/bangalore/north-bengaluru-startups-meetup-by-cedat-tickets/80001874070517"
   ]
  },
  {
@@ -148,58 +148,6 @@
   ]
  },
  {
-  "name": "IntoAEC",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/acetech-bengaluru-2026/100002000381111754"
-  ]
- },
- {
-  "name": "Cedat Center",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80001244227967"
-  ]
- },
- {
-  "name": "Venture Capital World Summit OU",
-  "cities": [
-   "delhi"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/new-delhi/new-delhi-2026-venture-capital-world-summit/100001968718246271"
-  ]
- },
- {
-  "name": "cedat senax",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80002086957579"
-  ]
- },
- {
   "name": "PrivacyLabs",
   "cities": [
    "bengaluru"
@@ -210,6 +158,19 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/is-your-company-dpdp-ready-a-live-hands-on-workshop-for-indian-startups/80002483858363"
+  ]
+ },
+ {
+  "name": "Venture Wolf",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/wolf-club-investors-and-entrepreneurs-meetup-tickets/80007018659468"
   ]
  },
  {
@@ -392,6 +353,19 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/aicd-mumbai/100001993446475069"
+  ]
+ },
+ {
+  "name": "Klizer AI Club",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/ai-build-lab-build-your-first-e-commerce-ai-assistant-tickets/80003545834688"
   ]
  },
  {
