@@ -21,59 +21,14 @@
   "cities": [
    "delhi"
   ],
-  "event_count": 4,
+  "event_count": 3,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/new-delhi/global-startups-club-l-startup-networking-gurugram/3900030742611846",
    "https://allevents.in/new-delhi/ye-jo-hans-rahi-hai-dunia-by-rahgir/3900030623732133",
    "https://allevents.in/new-delhi/sufi-qawwali-night-with-fanna-fi-allah/3900030397529424",
    "https://allevents.in/new-delhi/mahadev/3900030456471922"
-  ]
- },
- {
-  "name": "eChai Bangalore Startup Network",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 3,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/built-by-design-hardware-software-and-everything-people-make/100002002932071744",
-   "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru-hsr-edition/100002002931615379",
-   "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru-koramangala-edition/100002002931379674"
-  ]
- },
- {
-  "name": "National Institute of Digital Marketing",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 3,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/digital-marketing-meets-ai-free-workshop-tickets/80001988175611",
-   "https://allevents.in/bangalore/digital-marketing-meets-ai-free-workshop-tickets/80003259479052",
-   "https://allevents.in/bangalore/free-digital-marketing-and-ai-workshop-bengaluru-october-10-tickets/80002907782456"
-  ]
- },
- {
-  "name": "National Institute of Digital Marketing (NIDM)",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/ai-digital-marketing-workshop-in-bangalore-nidm-tickets/80003772987895",
-   "https://allevents.in/bengaluru/digital-marketing-meets-ai-free-workshop/100002001487951341"
   ]
  },
  {
@@ -103,6 +58,20 @@
   "upcoming": [
    "https://allevents.in/mumbai/healthtech-founders-mixer-mumbai/100002001776961779",
    "https://allevents.in/mumbai/startup-founders-mixer-health-tech-mumbai/100002001776961779"
+  ]
+ },
+ {
+  "name": "eChai Bangalore Startup Network",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru-hsr-edition/100002002931615379",
+   "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru-koramangala-edition/100002002931379674"
   ]
  },
  {
@@ -148,97 +117,6 @@
   ]
  },
  {
-  "name": "PrivacyLabs",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/is-your-company-dpdp-ready-a-live-hands-on-workshop-for-indian-startups/80002483858363"
-  ]
- },
- {
-  "name": "Venture Wolf",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/wolf-club-investors-and-entrepreneurs-meetup-tickets/80007018659468"
-  ]
- },
- {
-  "name": "eChai Ventures",
-  "cities": [
-   "noida"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/noida/how-founders-and-operators-use-ai-noida-edition/100002002934025588"
-  ]
- },
- {
-  "name": "Startup Synerz",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/pitchx-where-founders-meet-capital-tickets/80003465318705"
-  ]
- },
- {
-  "name": "Momentum",
-  "cities": [
-   "delhi"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/new-delhi/baal-ramleela/4100030741477112"
-  ]
- },
- {
-  "name": "Alan Savier",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/digital-marketing-meets-ai-free-workshop-tickets/80002549947579"
-  ]
- },
- {
-  "name": "Arav S",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/digital-marketing-meets-ai-free-workshop-tickets/80001507326864"
-  ]
- },
- {
   "name": "COFFEE TABLES",
   "cities": [
    "mumbai"
@@ -252,19 +130,6 @@
   ]
  },
  {
-  "name": "Abbey Road Institute Mumbai",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/universal-audio-volt-the-next-generation-presented-by-yuichiro-nagai/100002002988506542"
-  ]
- },
- {
   "name": "World AI Summit 2026",
   "cities": [
    "bengaluru"
@@ -275,6 +140,19 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/world-ai-summit-2026-tickets/80002987560857"
+  ]
+ },
+ {
+  "name": "Abbey Road Institute Mumbai",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/universal-audio-volt-the-next-generation-presented-by-yuichiro-nagai/100002002988506542"
   ]
  },
  {
@@ -343,19 +221,6 @@
   ]
  },
  {
-  "name": "MCEXPERT",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/aicd-mumbai/100001993446475069"
-  ]
- },
- {
   "name": "Klizer AI Club",
   "cities": [
    "chennai"
@@ -405,6 +270,19 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/anyma-presents-\u00c6den-mumbai/200029857082318"
+  ]
+ },
+ {
+  "name": "MCEXPERT",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/aicd-mumbai/100001993446475069"
   ]
  },
  {
