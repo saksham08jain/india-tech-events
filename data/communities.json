@@ -21,12 +21,11 @@
   "cities": [
    "delhi"
   ],
-  "event_count": 3,
+  "event_count": 2,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/new-delhi/ye-jo-hans-rahi-hai-dunia-by-rahgir/3900030623732133",
    "https://allevents.in/new-delhi/sufi-qawwali-night-with-fanna-fi-allah/3900030397529424",
    "https://allevents.in/new-delhi/mahadev/3900030456471922"
   ]
@@ -117,7 +116,7 @@
   ]
  },
  {
-  "name": "COFFEE TABLES",
+  "name": "Abbey Road Institute Mumbai",
   "cities": [
    "mumbai"
   ],
@@ -126,7 +125,7 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/mumbai/the-great-shayari-showdown-human-poets-vs-ai-genz-tickets/80003235633928"
+   "https://allevents.in/mumbai/universal-audio-volt-the-next-generation-presented-by-yuichiro-nagai/100002002988506542"
   ]
  },
  {
@@ -140,19 +139,6 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/world-ai-summit-2026-tickets/80002987560857"
-  ]
- },
- {
-  "name": "Abbey Road Institute Mumbai",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/universal-audio-volt-the-next-generation-presented-by-yuichiro-nagai/100002002988506542"
   ]
  },
  {
@@ -244,6 +230,19 @@
   ],
   "upcoming": [
    "https://allevents.in/kochi/international-festival-of-ai-films/200030257497107"
+  ]
+ },
+ {
+  "name": "School of Geography Earth & Atmospheric Sciences",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/global-scholar-program-expert-lecture-series-chennai/100002002610399614"
   ]
  },
  {
