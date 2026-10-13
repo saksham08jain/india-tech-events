@@ -17,6 +17,20 @@
   ]
  },
  {
+  "name": "Lilly Abtin",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/thursday-meetup/100002000726427603",
+   "https://allevents.in/new-delhi/aerocity-meetup/100001996787374790"
+  ]
+ },
+ {
   "name": "Event Navigator",
   "cities": [
    "delhi"
@@ -116,19 +130,6 @@
   ]
  },
  {
-  "name": "World AI Summit 2026",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/world-ai-summit-2026-tickets/80002987560857"
-  ]
- },
- {
   "name": "Abbey Road Institute Mumbai",
   "cities": [
    "mumbai"
@@ -142,16 +143,16 @@
   ]
  },
  {
-  "name": "Lilly Abtin",
+  "name": "World AI Summit 2026",
   "cities": [
-   "delhi"
+   "bengaluru"
   ],
   "event_count": 1,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/new-delhi/aerocity-meetup/100001996787374790"
+   "https://allevents.in/bangalore/world-ai-summit-2026-tickets/80002987560857"
   ]
  },
  {
@@ -220,6 +221,19 @@
   ]
  },
  {
+  "name": "Ramesh Babu",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/cio-tech-leadership-conference-and-awards-delhi-2026-tickets/80001520635814"
+  ]
+ },
+ {
   "name": "Klizer AI Club",
   "cities": [
    "chennai"
@@ -256,6 +270,19 @@
   ],
   "upcoming": [
    "https://allevents.in/chennai/global-scholar-program-expert-lecture-series-chennai/100002002610399614"
+  ]
+ },
+ {
+  "name": "Ansh Shrivastav",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/dev-deepawali-2026-ayodhya-and-varanasi-by-velaris-tours/200030605908538"
   ]
  },
  {
