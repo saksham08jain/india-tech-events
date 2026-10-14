@@ -130,6 +130,21 @@
   ]
  },
  {
+  "name": "NUS ISS",
+  "cities": [
+   "chennai",
+   "kochi"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/nus-master-of-technology-mtech-preview-entrance-test-and-interview-chennai/100002001429110346",
+   "https://allevents.in/kochi/nus-master-of-technology-mtech-preview-entrance-test-and-interview-kochi/100002001529481559"
+  ]
+ },
+ {
   "name": "WCR",
   "cities": [
    "gurugram"
@@ -166,6 +181,19 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/code-to-capital-summit-tickets/80003201845282"
+  ]
+ },
+ {
+  "name": "Makers Lab",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/agentic-ai-zero-to-hero-from-llm-fundamentals-to-autonomous-ai-agents/100002003356570431"
   ]
  },
  {
@@ -400,19 +428,6 @@
   ],
   "upcoming": [
    "https://allevents.in/indore/8th-bharat-agritech-agri-dairy-horti-and-food-processing-expo-tickets/80002865217951"
-  ]
- },
- {
-  "name": "NUS ISS",
-  "cities": [
-   "kochi"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/kochi/nus-master-of-technology-mtech-preview-entrance-test-and-interview-kochi/100002001529481559"
   ]
  },
  {
