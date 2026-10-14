@@ -208,6 +208,19 @@
   ]
  },
  {
+  "name": "NobleProg",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/ai-for-marketing-teams-research-content-analysis-and-campaign-workflows/100002003333722091"
+  ]
+ },
+ {
   "name": "Ramesh Babu",
   "cities": [
    "delhi"

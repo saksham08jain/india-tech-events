@@ -29,20 +29,6 @@
  },
  {
   "source": "allevents",
-  "title": "Thursday Meetup",
-  "url": "https://allevents.in/new-delhi/thursday-meetup/100002000726427603",
-  "start": "2026-10-15T00:00:00+00:00",
-  "end": null,
-  "city": "delhi",
-  "city_raw": "New Delhi",
-  "venue": "Ethiopian Cultural Centre",
-  "organizer": "Lilly Abtin",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
- },
- {
-  "source": "allevents",
   "title": "Startup Stories by Bengaluru Founders",
   "url": "https://allevents.in/bangalore/startup-stories-by-bengaluru-founders-tickets/80007631590131",
   "start": "2026-10-15T00:00:00+00:00",
@@ -53,7 +39,21 @@
   "organizer": "CEDAT",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-11T07:22:47.932604+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
+ },
+ {
+  "source": "allevents",
+  "title": "Thursday Meetup",
+  "url": "https://allevents.in/new-delhi/thursday-meetup/100002000726427603",
+  "start": "2026-10-15T00:00:00+00:00",
+  "end": null,
+  "city": "delhi",
+  "city_raw": "New Delhi",
+  "venue": "Ethiopian Cultural Centre",
+  "organizer": "Lilly Abtin",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -67,7 +67,7 @@
   "organizer": "Lilly Abtin",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -81,7 +81,7 @@
   "organizer": "WCR",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -95,7 +95,7 @@
   "organizer": "Event Navigator",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -123,7 +123,7 @@
   "organizer": "Legal Tech Meet",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "devfolio",
@@ -221,7 +221,7 @@
   "organizer": "Zenvaa Technologies",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "devfolio",
@@ -263,7 +263,7 @@
   "organizer": "Crane Expo",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -333,7 +333,7 @@
   "organizer": "baartr",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -347,7 +347,7 @@
   "organizer": "Bhavik Jain",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -375,7 +375,7 @@
   "organizer": "CEDAT",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "devfolio",
@@ -459,7 +459,7 @@
   "organizer": "eChai Bangalore Startup Network",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -473,7 +473,7 @@
   "organizer": "eChai Bangalore Startup Network",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -522,14 +522,28 @@
   "title": "Cybersecurity Conference 2026, Bangalore Chapter",
   "url": "https://allevents.in/bangalore/cybersecurity-conference-2026-bangalore-chapter/3900030700553735",
   "start": "2026-11-07T00:00:00+00:00",
-  "end": null,
+  "end": "2026-11-14T00:00:00+00:00",
   "city": "bengaluru",
   "city_raw": "Bangalore",
   "venue": "Bloom Hub: Bengaluru",
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
+ },
+ {
+  "source": "allevents",
+  "title": "AI for Marketing Teams: Research, Content, Analysis and Campaign Workflows",
+  "url": "https://allevents.in/mumbai/ai-for-marketing-teams-research-content-analysis-and-campaign-workflows/100002003333722091",
+  "start": "2026-11-07T00:00:00+00:00",
+  "end": null,
+  "city": "mumbai",
+  "city_raw": "Mumbai",
+  "venue": "NP Venue - Mumbai",
+  "organizer": "NobleProg",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -557,7 +571,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -571,7 +585,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -585,7 +599,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -599,7 +613,49 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
+ },
+ {
+  "source": "allevents",
+  "title": "AI Build Lab: Build Your First E-commerce AI Assistant",
+  "url": "https://allevents.in/chennai/ai-build-lab-build-your-first-e-commerce-ai-assistant-tickets/80003545834688",
+  "start": "2026-11-14T00:00:00+00:00",
+  "end": "2026-11-14T00:00:00+00:00",
+  "city": "chennai",
+  "city_raw": "Chennai",
+  "venue": "Klizer Technologies Private Limited",
+  "organizer": "Klizer AI Club",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
+ },
+ {
+  "source": "allevents",
+  "title": "TechAI India Summit \u2013 Chennai 2026",
+  "url": "https://allevents.in/chennai/techai-india-summit-chennai-2026-tickets/80001617844041",
+  "start": "2026-11-14T00:00:00+00:00",
+  "end": "2026-11-14T00:00:00+00:00",
+  "city": "chennai",
+  "city_raw": "Chennai",
+  "venue": "Holiday Inn Chennai Omr It Expressway by IHG",
+  "organizer": "MOJO CAPITAL",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
+ },
+ {
+  "source": "allevents",
+  "title": "International Festival of AI Films",
+  "url": "https://allevents.in/kochi/international-festival-of-ai-films/200030257497107",
+  "start": "2026-11-14T00:00:00+00:00",
+  "end": null,
+  "city": "kochi",
+  "city_raw": "Kochi",
+  "venue": "Cochin (kochin)kerala,India",
+  "organizer": "Cinemarathon community for film making",
+  "description": "",
+  "online": false,
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -630,48 +686,6 @@
   "scraped_at": "2026-10-14T06:17:42.400202+00:00"
  },
  {
-  "source": "allevents",
-  "title": "AI Build Lab: Build Your First E-commerce AI Assistant",
-  "url": "https://allevents.in/chennai/ai-build-lab-build-your-first-e-commerce-ai-assistant-tickets/80003545834688",
-  "start": "2026-11-14T00:00:00+00:00",
-  "end": "2026-11-14T00:00:00+00:00",
-  "city": "chennai",
-  "city_raw": "Chennai",
-  "venue": "Klizer Technologies Private Limited",
-  "organizer": "Klizer AI Club",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
- },
- {
-  "source": "allevents",
-  "title": "TechAI India Summit \u2013 Chennai 2026",
-  "url": "https://allevents.in/chennai/techai-india-summit-chennai-2026-tickets/80001617844041",
-  "start": "2026-11-14T00:00:00+00:00",
-  "end": "2026-11-14T00:00:00+00:00",
-  "city": "chennai",
-  "city_raw": "Chennai",
-  "venue": "Holiday Inn Chennai Omr It Expressway by IHG",
-  "organizer": "MOJO CAPITAL",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
- },
- {
-  "source": "allevents",
-  "title": "International Festival of AI Films",
-  "url": "https://allevents.in/kochi/international-festival-of-ai-films/200030257497107",
-  "start": "2026-11-14T00:00:00+00:00",
-  "end": null,
-  "city": "kochi",
-  "city_raw": "Kochi",
-  "venue": "Cochin (kochin)kerala,India",
-  "organizer": "Cinemarathon community for film making",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
- },
- {
   "source": "devfolio",
   "title": "Hacknauts 2.0",
   "url": "https://devfolio.co/hackathons/hacknauts26",
@@ -697,7 +711,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -711,7 +725,7 @@
   "organizer": "Synnex Group",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -725,7 +739,7 @@
   "organizer": "Synnex Group",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -739,7 +753,7 @@
   "organizer": "School of Geography Earth & Atmospheric Sciences",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -753,7 +767,7 @@
   "organizer": "Ansh Shrivastav",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -767,7 +781,7 @@
   "organizer": "SUNBURN Festival",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -781,7 +795,7 @@
   "organizer": "Anyma",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -795,7 +809,7 @@
   "organizer": "MCEXPERT",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -809,7 +823,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "devfolio",
@@ -851,7 +865,7 @@
   "organizer": "NAVIGO Seminars",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "devfolio",
@@ -907,7 +921,7 @@
   "organizer": "ijieee",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "devfolio",
@@ -935,7 +949,7 @@
   "organizer": "TraiCon Events",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -949,7 +963,7 @@
   "organizer": "HackerX",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -963,7 +977,7 @@
   "organizer": "",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -977,7 +991,7 @@
   "organizer": "Global Solar Expo",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -991,7 +1005,7 @@
   "organizer": "BlaBla Language Exchange - India",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -1005,7 +1019,7 @@
   "organizer": "Bharat AgriTech",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "devfolio",
@@ -1061,7 +1075,7 @@
   "organizer": "NUS ISS",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -1075,7 +1089,7 @@
   "organizer": "UNITED EXPO ORGANIZASYION VE TICARET LIMITED IRKETI",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -1089,7 +1103,7 @@
   "organizer": "PAINTECH 2027",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  },
  {
   "source": "allevents",
@@ -1103,6 +1117,6 @@
   "organizer": "FiFin",
   "description": "",
   "online": false,
-  "scraped_at": "2026-10-14T06:17:42.400202+00:00"
+  "scraped_at": "2026-10-14T13:11:03.962864+00:00"
  }
 ]
