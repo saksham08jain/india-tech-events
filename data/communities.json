@@ -4,30 +4,15 @@
   "cities": [
    "bengaluru"
   ],
-  "event_count": 5,
+  "event_count": 4,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bangalore/startup-stories-by-bengaluru-founders-tickets/80007631590131",
    "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80002255452458",
    "https://allevents.in/bangalore/south-bengaluru-startups-meetup-by-cedat-tickets/80008961477557",
    "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296",
    "https://allevents.in/bangalore/north-bengaluru-startups-meetup-by-cedat-tickets/80001874070517"
-  ]
- },
- {
-  "name": "Lilly Abtin",
-  "cities": [
-   "delhi"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/new-delhi/thursday-meetup/100002000726427603",
-   "https://allevents.in/new-delhi/aerocity-meetup/100001996787374790"
   ]
  },
  {
@@ -145,6 +130,19 @@
   ]
  },
  {
+  "name": "Lilly Abtin",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/aerocity-meetup/100001996787374790"
+  ]
+ },
+ {
   "name": "WCR",
   "cities": [
    "gurugram"
@@ -233,6 +231,19 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/thursday-after-work-tech-founders-pre-halloween-reverse-network-meet/100002002638580905"
+  ]
+ },
+ {
+  "name": "John Kiran",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/the-catalyst-podcast-s1-e01-deep-tech-venture-capital-and-the-future-of-innovation-tickets/80001689628844"
   ]
  },
  {
