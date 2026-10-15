@@ -300,19 +300,6 @@
  },
  {
   "source": "allevents",
-  "title": "Startup Ecosystem Meetup by CEDAT",
-  "url": "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296",
-  "start": "2026-10-30T00:00:00+00:00",
-  "end": "2026-10-30T00:00:00+00:00",
-  "city": "bengaluru",
-  "city_raw": "Bangalore",
-  "venue": "Zieers Systems Pvt Ltd",
-  "organizer": "CEDAT",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
   "title": "The Catalyst Podcast S1:E01 | Deep Tech, Venture Capital & The Future of Innovation",
   "url": "https://allevents.in/hyderabad/the-catalyst-podcast-s1-e01-deep-tech-venture-capital-and-the-future-of-innovation-tickets/80001689628844",
   "start": "2026-10-30T00:00:00+00:00",
@@ -321,6 +308,19 @@
   "city_raw": "Hyderabad",
   "venue": "T-Hub Phase 2",
   "organizer": "John Kiran",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
+  "title": "Startup Ecosystem Meetup by CEDAT",
+  "url": "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296",
+  "start": "2026-10-30T00:00:00+00:00",
+  "end": "2026-10-30T00:00:00+00:00",
+  "city": "bengaluru",
+  "city_raw": "Bangalore",
+  "venue": "Zieers Systems Pvt Ltd",
+  "organizer": "CEDAT",
   "description": "",
   "online": false
  },
