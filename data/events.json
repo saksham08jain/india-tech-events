@@ -10,8 +10,7 @@
   "venue": "Worldmark 1",
   "organizer": "Lilly Abtin",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-14T21:21:31.391606+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -24,8 +23,7 @@
   "venue": "White Collar Realty",
   "organizer": "WCR",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-14T21:21:31.391606+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -38,8 +36,7 @@
   "venue": "Little Theatre Group (LTG) Auditorium: Delhi",
   "organizer": "Event Navigator",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -52,8 +49,7 @@
   "venue": "Bombay Exhibition Centre, Mumbai, India",
   "organizer": "Autotechnicia",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-09T07:32:05.391491+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -66,8 +62,7 @@
   "venue": "Mumbai",
   "organizer": "Legal Tech Meet",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "devfolio",
@@ -80,8 +75,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "devfolio",
@@ -94,8 +88,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-09T07:32:05.391491+00:00"
+  "online": false
  },
  {
   "source": "devfolio",
@@ -108,8 +101,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
+  "online": false
  },
  {
   "source": "devfolio",
@@ -122,8 +114,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-04T07:02:50.273137+00:00"
+  "online": false
  },
  {
   "source": "devfolio",
@@ -136,8 +127,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": true,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": true
  },
  {
   "source": "devfolio",
@@ -150,8 +140,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": true,
-  "scraped_at": "2026-09-30T06:53:50.229907+00:00"
+  "online": true
  },
  {
   "source": "allevents",
@@ -164,8 +153,7 @@
   "venue": "MUST AI Caf\u00e9",
   "organizer": "Makers Lab",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -178,8 +166,7 @@
   "venue": "BVM Global Bollineni Hillside-Best CBSE Schools in Chennai-Top 10 CBSE Schools in shollinganallur-Best CBSE Schools in OMR",
   "organizer": "Zenvaa Technologies",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "devfolio",
@@ -192,8 +179,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "devfolio",
@@ -206,8 +192,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -220,8 +205,7 @@
   "venue": "Jio World Centre",
   "organizer": "Crane Expo",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -234,8 +218,7 @@
   "venue": "Le Royal M\u00e9ridien Chennai",
   "organizer": "TraiCon Events",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-12T07:31:50.997163+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -248,8 +231,7 @@
   "venue": "Cortis Medtech Pvt.Ltd",
   "organizer": "CEDAT",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -262,8 +244,7 @@
   "venue": "Kaarya Shared Workspaces",
   "organizer": "CEDAT",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
+  "online": false
  },
  {
   "source": "devfolio",
@@ -276,8 +257,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -290,8 +270,7 @@
   "venue": "Koramangala SOCIAL",
   "organizer": "baartr",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -304,8 +283,7 @@
   "venue": "Mumbai",
   "organizer": "Bhavik Jain",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -318,8 +296,7 @@
   "venue": "Mumbai",
   "organizer": "Bhavik Jain",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-05T07:14:43.770149+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -332,8 +309,7 @@
   "venue": "Zieers Systems Pvt Ltd",
   "organizer": "CEDAT",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -346,8 +322,7 @@
   "venue": "T-Hub Phase 2",
   "organizer": "John Kiran",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "devfolio",
@@ -360,8 +335,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-09T07:32:05.391491+00:00"
+  "online": false
  },
  {
   "source": "devfolio",
@@ -374,8 +348,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "devfolio",
@@ -388,8 +361,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "devfolio",
@@ -402,8 +374,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": true,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": true
  },
  {
   "source": "devfolio",
@@ -416,8 +387,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -430,8 +400,7 @@
   "venue": "UrbanVault HSR Layout 477",
   "organizer": "eChai Bangalore Startup Network",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -444,8 +413,7 @@
   "venue": "Founder Startup House Bangalore",
   "organizer": "eChai Bangalore Startup Network",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -458,8 +426,7 @@
   "venue": "Holiday Inn Chennai Omr It Expressway by IHG",
   "organizer": "MOJO CAPITAL",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-05T07:14:43.770149+00:00"
+  "online": false
  },
  {
   "source": "devfolio",
@@ -472,8 +439,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -486,8 +452,7 @@
   "venue": "Cortis Medtech Pvt.Ltd",
   "organizer": "CEDAT",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-02T07:06:56.936843+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -500,8 +465,7 @@
   "venue": "Bloom Hub: Bengaluru",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -514,8 +478,7 @@
   "venue": "NP Venue - Mumbai",
   "organizer": "NobleProg",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -528,8 +491,7 @@
   "venue": "Delhi",
   "organizer": "Ramesh Babu",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-13T07:51:47.469392+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -542,8 +504,7 @@
   "venue": "IIITB",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -556,8 +517,7 @@
   "venue": "IIITB",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -570,8 +530,7 @@
   "venue": "IIITB",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -584,8 +543,7 @@
   "venue": "IIITB",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -598,22 +556,7 @@
   "venue": "IIITB",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
- },
- {
-  "source": "allevents",
-  "title": "Drone Technology",
-  "url": "https://allevents.in/bangalore/drone-technology/4100030689957730",
-  "start": "2026-11-14T00:00:00+00:00",
-  "end": "2026-11-15T00:00:00+00:00",
-  "city": "bengaluru",
-  "city_raw": "Bangalore",
-  "venue": "IIITB",
-  "organizer": "",
-  "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -626,8 +569,7 @@
   "venue": "Klizer Technologies Private Limited",
   "organizer": "Klizer AI Club",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -640,8 +582,7 @@
   "venue": "Holiday Inn Chennai Omr It Expressway by IHG",
   "organizer": "MOJO CAPITAL",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -654,8 +595,20 @@
   "venue": "Cochin (kochin)kerala,India",
   "organizer": "Cinemarathon community for film making",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
+ },
+ {
+  "source": "allevents",
+  "title": "Drone Technology",
+  "url": "https://allevents.in/bangalore/drone-technology/4100030689957730",
+  "start": "2026-11-14T00:00:00+00:00",
+  "end": "2026-11-15T00:00:00+00:00",
+  "city": "bengaluru",
+  "city_raw": "Bangalore",
+  "venue": "IIITB",
+  "organizer": "",
+  "description": "",
+  "online": false
  },
  {
   "source": "devfolio",
@@ -668,8 +621,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -682,8 +634,7 @@
   "venue": "The National Sports Club Of India(NSCI)",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -696,8 +647,7 @@
   "venue": "Courtyard by Marriott Mumbai International Airport",
   "organizer": "Synnex Group",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -710,8 +660,7 @@
   "venue": "Courtyard by Marriott Mumbai International Airport",
   "organizer": "Synnex Group",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -724,8 +673,7 @@
   "venue": "Courtyard by Marriott Chennai",
   "organizer": "School of Geography Earth & Atmospheric Sciences",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -738,8 +686,7 @@
   "venue": "Delhi - NCR",
   "organizer": "Ansh Shrivastav",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -752,8 +699,7 @@
   "venue": "Gallops, Mahalaxmi Racecourse",
   "organizer": "SUNBURN Festival",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -766,8 +712,7 @@
   "venue": "Mahalaxmi Racecourse",
   "organizer": "Anyma",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -780,8 +725,7 @@
   "venue": "Microsoft Corporation India Private Limited",
   "organizer": "MCEXPERT",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -794,8 +738,7 @@
   "venue": "IIT Madras Research Park",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "devfolio",
@@ -808,8 +751,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -822,8 +764,7 @@
   "venue": "AIC-NMIMS Incubation Centre",
   "organizer": "The Founders",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-09-10T06:07:56.941118+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -836,8 +777,7 @@
   "venue": "Radisson Blu, Palace Road, Ambedkar Veedhi, Bangalore, Karnataka, India",
   "organizer": "NAVIGO Seminars",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "devfolio",
@@ -850,8 +790,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -864,8 +803,7 @@
   "venue": "Chamara Vajra",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-09-19T06:03:46.827352+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -878,8 +816,7 @@
   "venue": "ATAL INCUBATION CENTRE NARSEE MONJEE",
   "organizer": "The Founders",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-09-10T06:07:56.941118+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -892,8 +829,7 @@
   "venue": "Park Hyatt Chennai",
   "organizer": "ijieee",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "devfolio",
@@ -906,8 +842,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -920,8 +855,7 @@
   "venue": "THE PARK HYDERABAD",
   "organizer": "TraiCon Events",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -934,8 +868,7 @@
   "venue": "Chennai",
   "organizer": "HackerX",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -948,8 +881,7 @@
   "venue": "Paramount Produxts Pvt. Ltd, D163",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -962,8 +894,7 @@
   "venue": "95c Sampat Farm, 7th Cross Road, Bicholi Mardana, Indore, India 452016, Madhya Pradesh",
   "organizer": "Global Solar Expo",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -976,8 +907,7 @@
   "venue": "Jaipur",
   "organizer": "BlaBla Language Exchange - India",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -990,8 +920,7 @@
   "venue": "BAPS Shri Swaminarayan Akshardham Mandir",
   "organizer": "Bharat AgriTech",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "devfolio",
@@ -1004,8 +933,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "devfolio",
@@ -1018,8 +946,7 @@
   "venue": "",
   "organizer": "",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -1032,8 +959,7 @@
   "venue": "Worlds of Wonder: Noida",
   "organizer": "Event Navigator",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-09-25T06:13:33.100962+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -1046,8 +972,7 @@
   "venue": "Four Points by Sheraton Chennai OMR",
   "organizer": "NUS ISS",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -1060,8 +985,7 @@
   "venue": "The Avenue Regent",
   "organizer": "NUS ISS",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -1074,8 +998,7 @@
   "venue": "HITEX EXHIBITION CENTER",
   "organizer": "UNITED EXPO ORGANIZASYION VE TICARET LIMITED IRKETI",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -1088,8 +1011,7 @@
   "venue": "Chennai",
   "organizer": "PAINTECH 2027",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  },
  {
   "source": "allevents",
@@ -1102,7 +1024,6 @@
   "venue": "Jio World Convention Centre",
   "organizer": "FiFin",
   "description": "",
-  "online": false,
-  "scraped_at": "2026-10-15T01:30:49.732631+00:00"
+  "online": false
  }
 ]
