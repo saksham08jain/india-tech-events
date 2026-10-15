@@ -106,8 +106,7 @@ def scrape_allevents():
                             "city_raw":clean(str(city_raw)),"venue":clean(loc.get("name") if isinstance(loc,dict) else ""),
                             "organizer":clean(org),
                             "description":clean(it.get("description",""))[:500],
-                            "online": "online" in norm_city(str(city_raw)) or "virtual" in str(loc).lower(),
-                            "scraped_at": NOW.isoformat()}
+                            "online": "online" in norm_city(str(city_raw)) or "virtual" in str(loc).lower()}
                         found += 1
                 if page_n == 1 and found == 0:
                     break  # dead category page, skip pagination
@@ -150,10 +149,29 @@ def scrape_devfolio():
                 "city":norm_city(str(city_raw)),"city_raw":clean(str(city_raw)),
                 "venue":"","organizer":"",
                 "description":clean(str(h.get("tagline") or h.get("description") or ""))[:500],
-                "online": bool(h.get("is_online")), "scraped_at": NOW.isoformat()}
+                "online": bool(h.get("is_online"))}
     except Exception as e:
         warnings.append(f"devfolio: {e}")
     return out
+
+def fresh_events(records, now=NOW):
+    """Keep upcoming records and remove a retired volatile scrape timestamp.
+
+    The public directory has no use for per-run timestamps. Keeping one made an
+    otherwise identical scrape look changed, defeating the workflow's no-change
+    path and producing needless daily commits.
+    """
+    fresh = []
+    for record in records:
+        event = dict(record)
+        event.pop("scraped_at", None)
+        try:
+            if datetime.fromisoformat(event["start"]) >= now.replace(hour=0):
+                fresh.append(event)
+        except Exception:
+            pass
+    return fresh
+
 
 def main():
     for fn in (scrape_townscript, scrape_allevents, scrape_konfhub, scrape_devfolio):
@@ -172,12 +190,8 @@ def main():
             if isinstance(e, dict) and e.get("source") and e.get("url"):
                 events.setdefault((e["source"], e["url"]), e)
     all_events = list(events.values())
-    # drop stale (ended >7d ago)
-    fresh = []
-    for e in all_events:
-        try:
-            if datetime.fromisoformat(e["start"]) >= NOW.replace(hour=0): fresh.append(e)
-        except Exception: pass
+    # Drop stale entries and retire old volatile scrape timestamps.
+    fresh = fresh_events(all_events)
     fresh.sort(key=lambda e: e["start"])
     # communities = organizers
     communities = {}
