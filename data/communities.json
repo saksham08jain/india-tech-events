@@ -130,19 +130,6 @@
   ]
  },
  {
-  "name": "Lilly Abtin",
-  "cities": [
-   "delhi"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/new-delhi/aerocity-meetup/100001996787374790"
-  ]
- },
- {
   "name": "WCR",
   "cities": [
    "gurugram"
@@ -205,6 +192,19 @@
   ],
   "upcoming": [
    "https://allevents.in/chennai/mecha-mavericks-youth-robotics-championship/80003234633943"
+  ]
+ },
+ {
+  "name": "Srijan Arya",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/ai-classes-learn-ai-automate-hands-on-beginner-class-kandivali-east/80003028628229"
   ]
  },
  {

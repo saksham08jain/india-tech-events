@@ -1,19 +1,6 @@
 [
  {
   "source": "allevents",
-  "title": "Aerocity Meetup",
-  "url": "https://allevents.in/new-delhi/aerocity-meetup/100001996787374790",
-  "start": "2026-10-16T00:00:00+00:00",
-  "end": null,
-  "city": "delhi",
-  "city_raw": "New Delhi",
-  "venue": "Worldmark 1",
-  "organizer": "Lilly Abtin",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
   "title": "Dubai Property Expo \u2013 Free Ticket | Navratri Special Payment Plan Only This",
   "url": "https://allevents.in/gurugram/dubai-property-expo-free-ticket-navratri-special-payment-plan-only-this/100002003289966216",
   "start": "2026-10-17T00:00:00+00:00",
@@ -170,6 +157,19 @@
  },
  {
   "source": "devfolio",
+  "title": "Cognition 2026",
+  "url": "https://devfolio.co/hackathons/cognition-2026",
+  "start": "2026-10-24T02:30:00+00:00",
+  "end": "2026-10-25T07:30:00+00:00",
+  "city": "unknown",
+  "city_raw": "",
+  "venue": "",
+  "organizer": "",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "devfolio",
   "title": "Innosprint2.0",
   "url": "https://devfolio.co/hackathons/innosprint-3",
   "start": "2026-10-24T03:30:00+00:00",
@@ -178,6 +178,32 @@
   "city_raw": "",
   "venue": "",
   "organizer": "",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "devfolio",
+  "title": "Hack For Tomorrow 2026",
+  "url": "https://devfolio.co/hackathons/hft2026",
+  "start": "2026-10-24T04:30:00+00:00",
+  "end": "2026-10-25T04:30:00+00:00",
+  "city": "unknown",
+  "city_raw": "",
+  "venue": "",
+  "organizer": "",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
+  "title": "AI Classes: Learn AI, Automate \u2014 hands-on beginner class, Kandivali East",
+  "url": "https://allevents.in/mumbai/ai-classes-learn-ai-automate-hands-on-beginner-class-kandivali-east/80003028628229",
+  "start": "2026-10-25T00:00:00+00:00",
+  "end": "2026-10-25T00:00:00+00:00",
+  "city": "mumbai",
+  "city_raw": "Mumbai",
+  "venue": "Happyverse India",
+  "organizer": "Srijan Arya",
   "description": "",
   "online": false
  },
@@ -300,19 +326,6 @@
  },
  {
   "source": "allevents",
-  "title": "The Catalyst Podcast S1:E01 | Deep Tech, Venture Capital & The Future of Innovation",
-  "url": "https://allevents.in/hyderabad/the-catalyst-podcast-s1-e01-deep-tech-venture-capital-and-the-future-of-innovation-tickets/80001689628844",
-  "start": "2026-10-30T00:00:00+00:00",
-  "end": "2026-10-30T00:00:00+00:00",
-  "city": "hyderabad",
-  "city_raw": "Hyderabad",
-  "venue": "T-Hub Phase 2",
-  "organizer": "John Kiran",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
   "title": "Startup Ecosystem Meetup by CEDAT",
   "url": "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296",
   "start": "2026-10-30T00:00:00+00:00",
@@ -321,6 +334,19 @@
   "city_raw": "Bangalore",
   "venue": "Zieers Systems Pvt Ltd",
   "organizer": "CEDAT",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
+  "title": "The Catalyst Podcast S1:E01 | Deep Tech, Venture Capital & The Future of Innovation",
+  "url": "https://allevents.in/hyderabad/the-catalyst-podcast-s1-e01-deep-tech-venture-capital-and-the-future-of-innovation-tickets/80001689628844",
+  "start": "2026-10-30T00:00:00+00:00",
+  "end": "2026-10-30T00:00:00+00:00",
+  "city": "hyderabad",
+  "city_raw": "Hyderabad",
+  "venue": "T-Hub Phase 2",
+  "organizer": "John Kiran",
   "description": "",
   "online": false
  },
@@ -356,6 +382,19 @@
   "url": "https://devfolio.co/hackathons/tum",
   "start": "2026-10-30T09:00:00+00:00",
   "end": "2026-10-31T14:00:00+00:00",
+  "city": "unknown",
+  "city_raw": "",
+  "venue": "",
+  "organizer": "",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "devfolio",
+  "title": "Version Beta 9.0",
+  "url": "https://devfolio.co/hackathons/version-beta-9",
+  "start": "2026-10-30T14:30:00+00:00",
+  "end": "2026-11-01T02:30:00+00:00",
   "city": "unknown",
   "city_raw": "",
   "venue": "",
@@ -481,6 +520,19 @@
   "online": false
  },
  {
+  "source": "devfolio",
+  "title": "AgentVerse",
+  "url": "https://devfolio.co/hackathons/agentverse",
+  "start": "2026-11-07T09:00:00+00:00",
+  "end": "2026-11-08T13:00:00+00:00",
+  "city": "unknown",
+  "city_raw": "",
+  "venue": "",
+  "organizer": "",
+  "description": "",
+  "online": false
+ },
+ {
   "source": "allevents",
   "title": "CIO Tech Leadership Conference & Awards Delhi 2026",
   "url": "https://allevents.in/new-delhi/cio-tech-leadership-conference-and-awards-delhi-2026-tickets/80001520635814",
@@ -560,19 +612,6 @@
  },
  {
   "source": "allevents",
-  "title": "AI Build Lab: Build Your First E-commerce AI Assistant",
-  "url": "https://allevents.in/chennai/ai-build-lab-build-your-first-e-commerce-ai-assistant-tickets/80003545834688",
-  "start": "2026-11-14T00:00:00+00:00",
-  "end": "2026-11-14T00:00:00+00:00",
-  "city": "chennai",
-  "city_raw": "Chennai",
-  "venue": "Klizer Technologies Private Limited",
-  "organizer": "Klizer AI Club",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
   "title": "TechAI India Summit \u2013 Chennai 2026",
   "url": "https://allevents.in/chennai/techai-india-summit-chennai-2026-tickets/80001617844041",
   "start": "2026-11-14T00:00:00+00:00",
@@ -581,6 +620,19 @@
   "city_raw": "Chennai",
   "venue": "Holiday Inn Chennai Omr It Expressway by IHG",
   "organizer": "MOJO CAPITAL",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
+  "title": "AI Build Lab: Build Your First E-commerce AI Assistant",
+  "url": "https://allevents.in/chennai/ai-build-lab-build-your-first-e-commerce-ai-assistant-tickets/80003545834688",
+  "start": "2026-11-14T00:00:00+00:00",
+  "end": "2026-11-14T00:00:00+00:00",
+  "city": "chennai",
+  "city_raw": "Chennai",
+  "venue": "Klizer Technologies Private Limited",
+  "organizer": "Klizer AI Club",
   "description": "",
   "online": false
  },
