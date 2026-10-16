@@ -41,6 +41,9 @@ class BuildTests(unittest.TestCase):
             events = [{"title": f"Event {i}", "city": "bengaluru",
                        "start": "2099-01-01T12:00:00+00:00", "url": "https://example.org/event",
                        "source": "fixture"} for i in range(13)]
+            events.append({"title": "Unlocated event", "city": "unknown",
+                           "start": "2099-01-01T12:00:00+00:00", "url": "https://example.org/unlocated",
+                           "source": "fixture"})
             (data / "events.json").write_text(json.dumps(events))
             (data / "communities.json").write_text("[]")
             with patch.object(build, "DATA", data), patch.object(build, "SITE", site):
@@ -64,6 +67,14 @@ class BuildTests(unittest.TestCase):
                     pending.append(target)
             self.assertIn("city/bengaluru.html", seen)
             self.assertTrue({f"event/event-{i}.html" for i in range(13)} <= seen)
+            self.assertIn("event/unlocated-event.html", seen)
+
+            index = (site / "index.html").read_text()
+            self.assertIn("Location TBD", index)
+            self.assertNotIn(">Unknown <", index)
+            self.assertLess(index.index("Bengaluru"), index.index("Location TBD"))
+            self.assertIn("location TBD", (site / "city/unknown.html").read_text())
+            self.assertIn("Location TBD", (site / "event/unlocated-event.html").read_text())
 
 
 if __name__ == "__main__":

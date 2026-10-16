@@ -25,6 +25,10 @@ def fmt_date(iso):
     try: return datetime.fromisoformat(iso).strftime("%a, %d %b %Y · %H:%M UTC")
     except Exception: return iso
 
+def city_label(city):
+    """Use an honest customer-facing label when a source omitted location."""
+    return "Location TBD" if not city or city == "unknown" else city.title()
+
 def page(title, desc, body, path):
     prefix = "../" * (len(Path(path).parts) - 1) or "./"
     SITE.joinpath(path).parent.mkdir(parents=True, exist_ok=True)
@@ -39,7 +43,7 @@ def page(title, desc, body, path):
     SITE.joinpath(path).write_text(html_text)
 
 def event_card(e):
-    tag = "ONLINE" if e.get("online") else esc(e["city"])
+    tag = "ONLINE" if e.get("online") else esc(city_label(e.get("city")))
     return f'<a class="card" href="/event/{slugify(e["title"])}.html"><span class="tag">{tag}</span><h3>{esc(e["title"][:90])}</h3><p>{fmt_date(e["start"])}</p><p>{esc((e.get("organizer") or "")[:60])}</p></a>'
 
 def main():
@@ -53,16 +57,24 @@ def main():
 
     # index
     body = f'<h1>Upcoming tech events in India</h1><p class="meta">{len(upcoming)} upcoming events · {len(cities)} cities · auto-updated daily · {now.strftime("%d %b %Y")}</p>'
-    for c in sorted(cities, key=lambda c: -len(cities[c])):
+    # Keep source records with no city available, but do not put that lower-confidence
+    # bucket before locations users can actually browse.
+    for c in sorted(cities, key=lambda c: (c == "unknown", -len(cities[c]), c)):
         if len(cities[c]) < 1: continue
-        body += f'<h2 style="font-size:20px;margin:24px 0 4px"><a style="color:inherit" href="city/{esc(c)}.html">{esc(c).title()} <span class="pill">{len(cities[c])}</span></a></h2><div class="grid">'
+        body += f'<h2 style="font-size:20px;margin:24px 0 4px"><a style="color:inherit" href="city/{esc(c)}.html">{esc(city_label(c))} <span class="pill">{len(cities[c])}</span></a></h2><div class="grid">'
         body += "".join(event_card(e) for e in cities[c][:12]) + "</div>"
     page("India Tech Events — Upcoming Hackathons, Meetups, Conferences", "Every upcoming India tech event: hackathons, meetups, conferences, workshops. Auto-updated daily.", body, "index.html")
 
     # city pages
     for c, evs in cities.items():
-        b = f'<h1>Tech events in {esc(c).title()}</h1><p class="meta">{len(evs)} upcoming</p><div class="grid">' + "".join(event_card(e) for e in evs) + "</div>"
-        page(f"Tech Events in {c.title()} — Upcoming {now.year}", f"All upcoming tech events, meetups and hackathons in {c.title()}, India. Updated daily.", b, f"city/{c}.html")
+        label = city_label(c)
+        if c == "unknown":
+            b = f'<h1>Upcoming events with location TBD</h1><p class="meta">{len(evs)} upcoming listings whose source has not provided a city</p><div class="grid">' + "".join(event_card(e) for e in evs) + "</div>"
+            description = "Upcoming tech events whose source has not provided a city. Check the organizer registration page for location details."
+        else:
+            b = f'<h1>Tech events in {esc(label)}</h1><p class="meta">{len(evs)} upcoming</p><div class="grid">' + "".join(event_card(e) for e in evs) + "</div>"
+            description = f"All upcoming tech events, meetups and hackathons in {label}, India. Updated daily."
+        page(f"Tech Events in {label} — Upcoming {now.year}", description, b, f"city/{c}.html")
 
     # event pages (indexable detail pages)
     for e in upcoming:
@@ -71,10 +83,11 @@ def main():
                          "eventAttendanceMode":"https://schema.org/OnlineEventAttendanceMode" if e.get("online") else "https://schema.org/OfflineEventAttendanceMode",
                          "location":{"@type":"Place","name":e.get("venue") or e["city"]},"url":e["url"],
                          "organizer":{"@type":"Organization","name":e.get("organizer") or BRAND}})
-        b = (f'<h1>{esc(e["title"])}</h1><p class="meta">{fmt_date(e["start"])} · {esc(e["city"].title())}{(" · "+esc(e["venue"])) if e.get("venue") else ""}</p>'
+        location = city_label(e.get("city"))
+        b = (f'<h1>{esc(e["title"])}</h1><p class="meta">{fmt_date(e["start"])} · {esc(location)}{(" · "+esc(e["venue"])) if e.get("venue") else ""}</p>'
              f'<p>{esc(e.get("description",""))}</p><p style="margin-top:20px"><a class="city" href="{esc(e["url"])}">Register on {esc(e["source"])} →</a></p>'
              f'<script type="application/ld+json">{ld}</script>')
-        page(f'{e["title"]} — {e["city"].title()} | {BRAND}', (e.get("description") or e["title"])[:150], b, f"event/{s}.html")
+        page(f'{e["title"]} — {location} | {BRAND}', (e.get("description") or e["title"])[:150], b, f"event/{s}.html")
 
     # communities
     b = f'<h1>Indian tech communities & organizers</h1><p class="meta">{len(communities)} active organizers</p><div class="grid">'
