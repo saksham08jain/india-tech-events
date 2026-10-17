@@ -16,6 +16,22 @@
   ]
  },
  {
+  "name": "NobleProg",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 4,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/ai-for-marketing-teams-research-content-analysis-and-campaign-workflows/100002003333722091",
+   "https://allevents.in/mumbai/critical-thinking-in-the-age-of-ai/100002003379965406",
+   "https://allevents.in/mumbai/physical-ai-for-industrial-robotics/100002003382028577",
+   "https://allevents.in/mumbai/ai-security-securing-llm-and-agentic-ai-applications/100002003380278342"
+  ]
+ },
+ {
   "name": "Event Navigator",
   "cities": [
    "delhi"
@@ -130,19 +146,6 @@
   ]
  },
  {
-  "name": "WCR",
-  "cities": [
-   "gurugram"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/gurugram/dubai-property-expo-free-ticket-navratri-special-payment-plan-only-this/100002003289966216"
-  ]
- },
- {
   "name": "Autotechnicia",
   "cities": [
    "mumbai"
@@ -247,19 +250,6 @@
   ]
  },
  {
-  "name": "NobleProg",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/ai-for-marketing-teams-research-content-analysis-and-campaign-workflows/100002003333722091"
-  ]
- },
- {
   "name": "Ramesh Babu",
   "cities": [
    "delhi"
@@ -299,7 +289,7 @@
   ]
  },
  {
-  "name": "School of Geography Earth & Atmospheric Sciences",
+  "name": "Faculty of Science",
   "cities": [
    "chennai"
   ],
