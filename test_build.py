@@ -76,6 +76,24 @@ class BuildTests(unittest.TestCase):
             self.assertIn("location TBD", (site / "city/unknown.html").read_text())
             self.assertIn("Location TBD", (site / "event/unlocated-event.html").read_text())
 
+    def test_event_detail_identifies_aggregator_as_source_not_registration(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            data, site = root / "data", root / "docs"
+            data.mkdir()
+            (data / "events.json").write_text(json.dumps([{
+                "title": "Source-labelled event", "city": "bengaluru",
+                "start": "2099-01-01T12:00:00+00:00", "url": "https://example.org/event",
+                "source": "allevents"
+            }]))
+            (data / "communities.json").write_text("[]")
+            with patch.object(build, "DATA", data), patch.object(build, "SITE", site):
+                build.main()
+            detail = (site / "event/source-labelled-event.html").read_text()
+            self.assertIn("Source listing: AllEvents.", detail)
+            self.assertIn("View source listing on AllEvents", detail)
+            self.assertNotIn("Register on allevents", detail)
+
 
 if __name__ == "__main__":
     unittest.main()

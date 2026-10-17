@@ -29,6 +29,10 @@ def city_label(city):
     """Use an honest customer-facing label when a source omitted location."""
     return "Location TBD" if not city or city == "unknown" else city.title()
 
+def source_label(source):
+    """Present the upstream listing host without implying it is the organizer."""
+    return {"allevents": "AllEvents", "devfolio": "Devfolio"}.get(source, str(source or "source listing").title())
+
 def page(title, desc, body, path):
     prefix = "../" * (len(Path(path).parts) - 1) or "./"
     SITE.joinpath(path).parent.mkdir(parents=True, exist_ok=True)
@@ -84,8 +88,10 @@ def main():
                          "location":{"@type":"Place","name":e.get("venue") or e["city"]},"url":e["url"],
                          "organizer":{"@type":"Organization","name":e.get("organizer") or BRAND}})
         location = city_label(e.get("city"))
+        source = source_label(e.get("source"))
         b = (f'<h1>{esc(e["title"])}</h1><p class="meta">{fmt_date(e["start"])} · {esc(location)}{(" · "+esc(e["venue"])) if e.get("venue") else ""}</p>'
-             f'<p>{esc(e.get("description",""))}</p><p style="margin-top:20px"><a class="city" href="{esc(e["url"])}">Register on {esc(e["source"])} →</a></p>'
+             f'<p>{esc(e.get("description", ""))}</p><p class="meta">Source listing: {esc(source)}. Confirm registration details with the event organizer.</p>'
+             f'<p style="margin-top:20px"><a class="city" href="{esc(e["url"])}">View source listing on {esc(source)} →</a></p>'
              f'<script type="application/ld+json">{ld}</script>')
         page(f'{e["title"]} — {location} | {BRAND}', (e.get("description") or e["title"])[:150], b, f"event/{s}.html")
 
