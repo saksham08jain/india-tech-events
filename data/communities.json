@@ -32,20 +32,6 @@
   ]
  },
  {
-  "name": "Event Navigator",
-  "cities": [
-   "delhi"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/new-delhi/sufi-qawwali-night-with-fanna-fi-allah/3900030397529424",
-   "https://allevents.in/new-delhi/mahadev/3900030456471922"
-  ]
- },
- {
   "name": "TraiCon Events",
   "cities": [
    "chennai",
@@ -117,20 +103,6 @@
   ]
  },
  {
-  "name": "The Founders",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/the-founders-x-investors-pitch-22nd-november-mumbai-tickets/80003401022819",
-   "https://allevents.in/mumbai/the-founders-x-investors-pitch-d2c-06th-december-mumbai-nmims-tickets/80001874113177"
-  ]
- },
- {
   "name": "NUS ISS",
   "cities": [
    "chennai",
@@ -143,6 +115,19 @@
   "upcoming": [
    "https://allevents.in/chennai/nus-master-of-technology-mtech-preview-entrance-test-and-interview-chennai/100002001429110346",
    "https://allevents.in/kochi/nus-master-of-technology-mtech-preview-entrance-test-and-interview-kochi/100002001529481559"
+  ]
+ },
+ {
+  "name": "Blackmagic Design",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/asias-broadcasting-and-infotainment-show/200030750105216"
   ]
  },
  {
@@ -211,19 +196,6 @@
   ]
  },
  {
-  "name": "Crane Expo",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/crane-expo-mumbai-2026\u200b-tickets/80007190329779"
-  ]
- },
- {
   "name": "baartr",
   "cities": [
    "bengaluru"
@@ -289,71 +261,6 @@
   ]
  },
  {
-  "name": "Faculty of Science",
-  "cities": [
-   "chennai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/chennai/global-scholar-program-expert-lecture-series-chennai/100002002610399614"
-  ]
- },
- {
-  "name": "Ansh Shrivastav",
-  "cities": [
-   "delhi"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/new-delhi/dev-deepawali-2026-ayodhya-and-varanasi-by-velaris-tours/200030605908538"
-  ]
- },
- {
-  "name": "SUNBURN Festival",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/anyma-presents-aeden-mumbai/200030680197239"
-  ]
- },
- {
-  "name": "Anyma",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/anyma-presents-\u00c6den-mumbai/200029857082318"
-  ]
- },
- {
-  "name": "MCEXPERT",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/aicd-mumbai/100001993446475069"
-  ]
- },
- {
   "name": "NAVIGO Seminars",
   "cities": [
    "bengaluru"
@@ -367,19 +274,6 @@
   ]
  },
  {
-  "name": "ijieee",
-  "cities": [
-   "chennai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/chennai/international-conference-on-advancements-in-education-research-and-developmen/100001990840707147"
-  ]
- },
- {
   "name": "HackerX",
   "cities": [
    "chennai"
@@ -390,19 +284,6 @@
   ],
   "upcoming": [
    "https://allevents.in/chennai/hackerx-chennai-employer-ticket-12-17/100001980428996440"
-  ]
- },
- {
-  "name": "Global Solar Expo",
-  "cities": [
-   "indore"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/indore/chennai-global-solar-expo-suryacon-solar-expo-tamil-nadu-annual-solar-awards-by-eqmag/200030633344433"
   ]
  },
  {
@@ -442,32 +323,6 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/leaf-tech-expo/100001988466084587"
-  ]
- },
- {
-  "name": "PAINTECH 2027",
-  "cities": [
-   "chennai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/chennai/paintech-2027-tickets/80003347746003"
-  ]
- },
- {
-  "name": "FiFin",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/mumbai-international-finance-expo/10000643572010207"
   ]
  }
 ]

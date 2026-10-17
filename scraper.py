@@ -13,11 +13,21 @@ DATA = ROOT / "data"
 DATA.mkdir(exist_ok=True)
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
       "Accept-Language": "en-IN,en;q=0.9"}
-TECH_KW = ["tech","dev","python","javascript","java","ai ","ml","machine learning","data","cloud","devops",
-           "startup","robotics","blockchain","cyber","web3","web 3","react","golang","rust","product",
-           "design","hackathon","meetup","developer","engineering","linux","kubernetes","docker","api",
-           "fintech","llm","genai","generative","opensource","open source","saas","flutter","node","scala",
-           "qiskit","quantum","frontend","backend","fullstack","full stack","ui/ux","qa","sre","aws","azure","gcp"]
+# The old substring list treated unrelated titles as technology events: ``Sufi
+# Qawwali`` matched ``qa``, ``MAHADEV`` matched ``dev``, and ``AEDEN`` matched
+# ``ai ``. Keep the same editorial categories, but require word boundaries so
+# a token is evidence rather than an accidental fragment of an event title.
+# Devfolio is a dedicated hackathon source, so its listings do not need a
+# technology word in their often-creative titles.
+TECH_PAT = re.compile(
+    r"\b(?:tech(?:nology|nical|nicia)?|agritech|healthtech|edtech|cleantech|deeptech|proptech|biotech|fintech|"
+    r"python|javascript|java|ai|ml|machine learning|data|cloud|devops|startup|robotics|blockchain|cyber|"
+    r"web3|web 3|react|golang|rust|product|design|hackathon|meetup|developer|engineering|linux|kubernetes|"
+    r"docker|api|llm|genai|generative|opensource|open source|saas|flutter|node|scala|qiskit|quantum|"
+    r"frontend|backend|fullstack|full stack|ui/ux|sre|aws|azure|gcp|cybersecurity|app development|"
+    r"techai|autotechnicia|hackerx)\b",
+    re.I,
+)
 CITY_MAP = {"bangalore":"bengaluru","bengaluru":"bengaluru","mumbai":"mumbai","delhi":"delhi","new delhi":"delhi",
             "gurugram":"gurugram","gurgaon":"gurugram","noida":"noida","hyderabad":"hyderabad","pune":"pune",
             "chennai":"chennai","kolkata":"kolkata","ahmedabad":"ahmedabad","jaipur":"jaipur","indore":"indore",
@@ -45,8 +55,14 @@ def norm_city(raw):
     return "other-india" if c else "unknown"
 
 def is_tech(text):
-    t = (text or "").lower()
-    return any(k in t for k in TECH_KW) and not SPAM_PAT.search(text or "")
+    return bool(TECH_PAT.search(text or "")) and not SPAM_PAT.search(text or "")
+
+def is_directory_event(event):
+    """Keep all Devfolio hackathons; keyword-filter broad aggregator listings."""
+    if event.get("source") == "devfolio":
+        return not SPAM_PAT.search(event.get("title", ""))
+    evidence = " ".join(str(event.get(field, "")) for field in ("title", "description", "organizer"))
+    return is_tech(evidence)
 
 def parse_date(raw):
     if not raw: return None
@@ -98,15 +114,16 @@ def scrape_allevents():
                             org = org[0].get("name","")
                         elif isinstance(org, dict):
                             org = org.get("name","")
-                        if not is_tech(name + " " + clean(it.get("description",""))):
-                            continue
-                        out[("allevents", u)] = {
+                        event = {
                             "source":"allevents","title":name,"url":u,"start":start,
                             "end":parse_date(it.get("endDate")),"city":norm_city(str(city_raw)),
                             "city_raw":clean(str(city_raw)),"venue":clean(loc.get("name") if isinstance(loc,dict) else ""),
                             "organizer":clean(org),
                             "description":clean(it.get("description",""))[:500],
                             "online": "online" in norm_city(str(city_raw)) or "virtual" in str(loc).lower()}
+                        if not is_directory_event(event):
+                            continue
+                        out[("allevents", u)] = event
                         found += 1
                 if page_n == 1 and found == 0:
                     break  # dead category page, skip pagination
@@ -143,13 +160,15 @@ def scrape_devfolio():
             start = parse_date(h.get("starts_at") or h.get("start_date"))
             if not start or datetime.fromisoformat(start) < NOW: continue
             city_raw = h.get("location") or h.get("city") or ""
-            out[("devfolio", u)] = {
+            event = {
                 "source":"devfolio","title":clean(h["name"]),"url":u,"start":start,
                 "end":parse_date(h.get("ends_at") or h.get("end_date")),
                 "city":norm_city(str(city_raw)),"city_raw":clean(str(city_raw)),
                 "venue":"","organizer":"",
                 "description":clean(str(h.get("tagline") or h.get("description") or ""))[:500],
                 "online": bool(h.get("is_online"))}
+            if is_directory_event(event):
+                out[("devfolio", u)] = event
     except Exception as e:
         warnings.append(f"devfolio: {e}")
     return out
@@ -166,7 +185,7 @@ def fresh_events(records, now=NOW):
         event = dict(record)
         event.pop("scraped_at", None)
         try:
-            if datetime.fromisoformat(event["start"]) >= now.replace(hour=0):
+            if datetime.fromisoformat(event["start"]) >= now.replace(hour=0) and is_directory_event(event):
                 fresh.append(event)
         except Exception:
             pass
