@@ -274,6 +274,19 @@
   ]
  },
  {
+  "name": "Event Navigator",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/elev8-startup-summit-2026/3900030598969307"
+  ]
+ },
+ {
   "name": "HackerX",
   "cities": [
    "chennai"
