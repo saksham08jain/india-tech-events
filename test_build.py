@@ -94,6 +94,32 @@ class BuildTests(unittest.TestCase):
             self.assertIn("View source listing on AllEvents", detail)
             self.assertNotIn("Register on allevents", detail)
 
+    def test_generated_pages_and_sitemap_use_public_absolute_urls(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            data, site = root / "data", root / "docs"
+            data.mkdir()
+            (data / "events.json").write_text(json.dumps([{
+                "title": "Canonical event", "city": "delhi",
+                "start": "2099-01-01T12:00:00+00:00", "url": "https://example.org/event",
+                "source": "allevents"
+            }]))
+            (data / "communities.json").write_text("[]")
+            with patch.object(build, "DATA", data), patch.object(build, "SITE", site):
+                build.main()
+
+            index = (site / "index.html").read_text()
+            detail = (site / "event/canonical-event.html").read_text()
+            sitemap = (site / "sitemap.xml").read_text()
+            robots = (site / "robots.txt").read_text()
+
+            self.assertIn(f'<link rel="canonical" href="{build.PUBLIC_BASE_URL}/">', index)
+            self.assertIn(f'<meta property="og:url" content="{build.PUBLIC_BASE_URL}/">', index)
+            self.assertIn(f'<link rel="canonical" href="{build.PUBLIC_BASE_URL}/event/canonical-event.html">', detail)
+            self.assertIn(f'<loc>{build.PUBLIC_BASE_URL}/event/canonical-event.html</loc>', sitemap)
+            self.assertNotRegex(sitemap, r'<loc>/(?!/)</loc>|<loc>/[^h]')
+            self.assertEqual(robots, f"User-agent: *\nAllow: /\nSitemap: {build.PUBLIC_BASE_URL}/sitemap.xml\n")
+
 
 if __name__ == "__main__":
     unittest.main()

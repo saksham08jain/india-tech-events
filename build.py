@@ -7,6 +7,7 @@ from datetime import datetime, timezone
 ROOT = Path(__file__).parent
 DATA, SITE = ROOT / "data", ROOT / "docs"   # docs/ = GitHub Pages source path
 BRAND = "IndiaTechCalendar"   # placeholder pending domain decision
+PUBLIC_BASE_URL = "https://saksham08jain.github.io/india-tech-events"
 CSS = """body{background:#0b0e14;color:#e8ecf1;font-family:ui-sans-serif,system-ui,sans-serif;margin:0;line-height:1.6}
 .wrap{max-width:960px;margin:0 auto;padding:0 20px}header{border-bottom:1px solid #232b3b;padding:20px 0}
 .logo{font-weight:800;letter-spacing:-.02em;text-decoration:none;color:#e8ecf1;font-size:20px}.logo b{color:#5eead4}
@@ -33,12 +34,20 @@ def source_label(source):
     """Present the upstream listing host without implying it is the organizer."""
     return {"allevents": "AllEvents", "devfolio": "Devfolio"}.get(source, str(source or "source listing").title())
 
+def public_url(path):
+    """Return the public GitHub Pages URL for one generated path."""
+    return f"{PUBLIC_BASE_URL}/" if path == "index.html" else f"{PUBLIC_BASE_URL}/{path}"
+
 def page(title, desc, body, path):
     prefix = "../" * (len(Path(path).parts) - 1) or "./"
+    canonical = public_url(path)
     SITE.joinpath(path).parent.mkdir(parents=True, exist_ok=True)
     html_text = f"""<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title>
-<meta name="description" content="{esc(desc)}"><style>{CSS}</style></head><body>
+<meta name="description" content="{esc(desc)}"><link rel="canonical" href="{esc(canonical)}">
+<meta property="og:type" content="website"><meta property="og:title" content="{esc(title)}">
+<meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{esc(canonical)}">
+<meta name="twitter:card" content="summary"><style>{CSS}</style></head><body>
 <header><div class="wrap"><a class="logo" href="/"><b>{BRAND}</b> — India tech events</a></div></header>
 <div class="wrap">{body}</div>
 <footer><div class="wrap">Aggregated automatically from public event platforms. Owned by the event organizers; listing is informational. <a style="color:#5eead4" href="/communities.html">Communities</a></div></footer>
@@ -103,8 +112,8 @@ def main():
     # sitemap + robots
     urls = ["index.html", "communities.html"] + [f"city/{c}.html" for c in cities] + [f"event/{slugify(e['title'])}.html" for e in upcoming]
     SITE.joinpath("sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' +
-        "".join(f"<url><loc>/{{'{u}'}}</loc></url>" if False else f"<url><loc>/{u}</loc></url>" for u in urls) + "</urlset>")
-    SITE.joinpath("robots.txt").write_text("User-agent: *\nAllow: /\nSitemap: /sitemap.xml\n")
+        "".join(f"<url><loc>{public_url(u)}</loc></url>" for u in urls) + "</urlset>")
+    SITE.joinpath("robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {public_url('sitemap.xml')}\n")
     print(f"built: {len(upcoming)} events, {len(cities)} city pages, {len(communities)} communities -> site/")
 
 if __name__ == "__main__":
