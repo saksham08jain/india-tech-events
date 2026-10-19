@@ -1,5 +1,22 @@
 [
  {
+  "name": "NobleProg",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 5,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/ai-for-marketing-teams-research-content-analysis-and-campaign-workflows/100002003333722091",
+   "https://allevents.in/mumbai/osint-for-cybersecurity-and-threat-intelligence/100002003393269198",
+   "https://allevents.in/mumbai/critical-thinking-in-the-age-of-ai/100002003379965406",
+   "https://allevents.in/mumbai/physical-ai-for-industrial-robotics/100002003382028577",
+   "https://allevents.in/mumbai/ai-security-securing-llm-and-agentic-ai-applications/100002003380278342"
+  ]
+ },
+ {
   "name": "CEDAT",
   "cities": [
    "bengaluru"
@@ -13,22 +30,6 @@
    "https://allevents.in/bangalore/south-bengaluru-startups-meetup-by-cedat-tickets/80008961477557",
    "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296",
    "https://allevents.in/bangalore/north-bengaluru-startups-meetup-by-cedat-tickets/80001874070517"
-  ]
- },
- {
-  "name": "NobleProg",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 4,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/ai-for-marketing-teams-research-content-analysis-and-campaign-workflows/100002003333722091",
-   "https://allevents.in/mumbai/critical-thinking-in-the-age-of-ai/100002003379965406",
-   "https://allevents.in/mumbai/physical-ai-for-industrial-robotics/100002003382028577",
-   "https://allevents.in/mumbai/ai-security-securing-llm-and-agentic-ai-applications/100002003380278342"
   ]
  },
  {
