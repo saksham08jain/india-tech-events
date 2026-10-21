@@ -2,9 +2,10 @@
  {
   "name": "NobleProg",
   "cities": [
+   "hyderabad",
    "mumbai"
   ],
-  "event_count": 5,
+  "event_count": 10,
   "sources": [
    "allevents"
   ],
@@ -30,6 +31,21 @@
    "https://allevents.in/bangalore/south-bengaluru-startups-meetup-by-cedat-tickets/80008961477557",
    "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296",
    "https://allevents.in/bangalore/north-bengaluru-startups-meetup-by-cedat-tickets/80001874070517"
+  ]
+ },
+ {
+  "name": "eChai Bangalore Startup Network",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 3,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/echais-startup-open-house-in-bengaluru/100002003590251377",
+   "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru-hsr-edition/100002002931615379",
+   "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru-koramangala-edition/100002002931379674"
   ]
  },
  {
@@ -62,20 +78,6 @@
   ]
  },
  {
-  "name": "eChai Bangalore Startup Network",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru-hsr-edition/100002002931615379",
-   "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru-koramangala-edition/100002002931379674"
-  ]
- },
- {
   "name": "MOJO CAPITAL",
   "cities": [
    "chennai"
@@ -104,6 +106,21 @@
   ]
  },
  {
+  "name": "HackerX",
+  "cities": [
+   "bengaluru",
+   "chennai"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/hackerx-bengaluru-employer-ticket-11-26/100001980342644158",
+   "https://allevents.in/chennai/hackerx-chennai-employer-ticket-12-17/100001980428996440"
+  ]
+ },
+ {
   "name": "NUS ISS",
   "cities": [
    "chennai",
@@ -129,6 +146,19 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/asias-broadcasting-and-infotainment-show/200030750105216"
+  ]
+ },
+ {
+  "name": "ILN GLOBAL TECHNOLOGIES",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/ishaa-product-launch-2026-iln-global-technologies/100002003568367923"
   ]
  },
  {
@@ -210,6 +240,19 @@
   ]
  },
  {
+  "name": "Entrepreneurs Network",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/startup-founders-mixer-health-tech-mumbai/100002001776156370"
+  ]
+ },
+ {
   "name": "John Kiran",
   "cities": [
    "hyderabad"
@@ -285,19 +328,6 @@
   ],
   "upcoming": [
    "https://allevents.in/new-delhi/elev8-startup-summit-2026/3900030598969307"
-  ]
- },
- {
-  "name": "HackerX",
-  "cities": [
-   "chennai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/chennai/hackerx-chennai-employer-ticket-12-17/100001980428996440"
   ]
  },
  {
