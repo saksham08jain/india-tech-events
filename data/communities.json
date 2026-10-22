@@ -136,45 +136,6 @@
   ]
  },
  {
-  "name": "Blackmagic Design",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/asias-broadcasting-and-infotainment-show/200030750105216"
-  ]
- },
- {
-  "name": "ILN GLOBAL TECHNOLOGIES",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/ishaa-product-launch-2026-iln-global-technologies/100002003568367923"
-  ]
- },
- {
-  "name": "Autotechnicia",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/autotechnicia-2026/200029857088740"
-  ]
- },
- {
   "name": "Legal Tech Meet",
   "cities": [
    "mumbai"
@@ -250,6 +211,19 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/startup-founders-mixer-health-tech-mumbai/100002001776156370"
+  ]
+ },
+ {
+  "name": "Executive Enage",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/4th-executive-assistant-workshop-ai-tools-and-skills/200030860552225"
   ]
  },
  {

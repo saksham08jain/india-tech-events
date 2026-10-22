@@ -1,45 +1,6 @@
 [
  {
   "source": "allevents",
-  "title": "Asia's Broadcasting and Infotainment Show",
-  "url": "https://allevents.in/mumbai/asias-broadcasting-and-infotainment-show/200030750105216",
-  "start": "2026-10-22T00:00:00+00:00",
-  "end": "2026-10-22T00:00:00+00:00",
-  "city": "mumbai",
-  "city_raw": "Mumbai",
-  "venue": "Jio World Convention Centre",
-  "organizer": "Blackmagic Design",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
-  "title": "ISHAA Product Launch 2026 | ILN Global Technologies",
-  "url": "https://allevents.in/hyderabad/ishaa-product-launch-2026-iln-global-technologies/100002003568367923",
-  "start": "2026-10-22T00:00:00+00:00",
-  "end": "2026-10-22T00:00:00+00:00",
-  "city": "hyderabad",
-  "city_raw": "Hyderabad",
-  "venue": "Asian Sun City",
-  "organizer": "ILN GLOBAL TECHNOLOGIES",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
-  "title": "AutoTechnicia 2026",
-  "url": "https://allevents.in/mumbai/autotechnicia-2026/200029857088740",
-  "start": "2026-10-22T00:00:00+00:00",
-  "end": "2026-10-24T00:00:00+00:00",
-  "city": "mumbai",
-  "city_raw": "Mumbai",
-  "venue": "Bombay Exhibition Centre, Mumbai, India",
-  "organizer": "Autotechnicia",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
   "title": "code to capital summit",
   "url": "https://allevents.in/mumbai/code-to-capital-summit-tickets/80003201845282",
   "start": "2026-10-23T00:00:00+00:00",
@@ -339,19 +300,6 @@
  },
  {
   "source": "allevents",
-  "title": "The Catalyst Podcast S1:E01 | Deep Tech, Venture Capital & The Future of Innovation",
-  "url": "https://allevents.in/hyderabad/the-catalyst-podcast-s1-e01-deep-tech-venture-capital-and-the-future-of-innovation-tickets/80001689628844",
-  "start": "2026-10-30T00:00:00+00:00",
-  "end": "2026-10-30T00:00:00+00:00",
-  "city": "hyderabad",
-  "city_raw": "Hyderabad",
-  "venue": "T-Hub Phase 2",
-  "organizer": "John Kiran",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
   "title": "Startup Ecosystem Meetup by CEDAT",
   "url": "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296",
   "start": "2026-10-30T00:00:00+00:00",
@@ -360,6 +308,32 @@
   "city_raw": "Bangalore",
   "venue": "Zieers Systems Pvt Ltd",
   "organizer": "CEDAT",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
+  "title": "4th Executive Assistant Workshop: AI Tools & Skills",
+  "url": "https://allevents.in/mumbai/4th-executive-assistant-workshop-ai-tools-and-skills/200030860552225",
+  "start": "2026-10-30T00:00:00+00:00",
+  "end": null,
+  "city": "mumbai",
+  "city_raw": "Mumbai",
+  "venue": "Mumbai Coastal Road, Mumbai, India",
+  "organizer": "Executive Enage",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
+  "title": "The Catalyst Podcast S1:E01 | Deep Tech, Venture Capital & The Future of Innovation",
+  "url": "https://allevents.in/hyderabad/the-catalyst-podcast-s1-e01-deep-tech-venture-capital-and-the-future-of-innovation-tickets/80001689628844",
+  "start": "2026-10-30T00:00:00+00:00",
+  "end": "2026-10-30T00:00:00+00:00",
+  "city": "hyderabad",
+  "city_raw": "Hyderabad",
+  "venue": "T-Hub Phase 2",
+  "organizer": "John Kiran",
   "description": "",
   "online": false
  },
@@ -507,6 +481,19 @@
   "online": false
  },
  {
+  "source": "devfolio",
+  "title": "Unbuilt",
+  "url": "https://devfolio.co/hackathons/unbuilt",
+  "start": "2026-11-04T04:30:00+00:00",
+  "end": "2026-11-04T10:30:00+00:00",
+  "city": "unknown",
+  "city_raw": "",
+  "venue": "",
+  "organizer": "",
+  "description": "",
+  "online": false
+ },
+ {
   "source": "allevents",
   "title": "Cybersecurity Conference 2026, Bangalore Chapter",
   "url": "https://allevents.in/bangalore/cybersecurity-conference-2026-bangalore-chapter/3900030700553735",
@@ -625,6 +612,19 @@
  },
  {
   "source": "allevents",
+  "title": "Drone Technology",
+  "url": "https://allevents.in/bangalore/drone-technology/4100030689957730",
+  "start": "2026-11-14T00:00:00+00:00",
+  "end": "2026-11-15T00:00:00+00:00",
+  "city": "bengaluru",
+  "city_raw": "Bangalore",
+  "venue": "IIITB",
+  "organizer": "",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
   "title": "TechAI India Summit \u2013 Chennai 2026",
   "url": "https://allevents.in/chennai/techai-india-summit-chennai-2026-tickets/80001617844041",
   "start": "2026-11-14T00:00:00+00:00",
@@ -659,19 +659,6 @@
   "city_raw": "Kochi",
   "venue": "Cochin (kochin)kerala,India",
   "organizer": "Cinemarathon community for film making",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
-  "title": "Drone Technology",
-  "url": "https://allevents.in/bangalore/drone-technology/4100030689957730",
-  "start": "2026-11-14T00:00:00+00:00",
-  "end": "2026-11-15T00:00:00+00:00",
-  "city": "bengaluru",
-  "city_raw": "Bangalore",
-  "venue": "IIITB",
-  "organizer": "",
   "description": "",
   "online": false
  },
@@ -767,6 +754,19 @@
   "online": false
  },
  {
+  "source": "devfolio",
+  "title": "THE BIG HACK 2.0",
+  "url": "https://devfolio.co/hackathons/the-big-hack-2",
+  "start": "2026-11-20T03:30:00+00:00",
+  "end": "2026-11-20T19:15:00+00:00",
+  "city": "unknown",
+  "city_raw": "",
+  "venue": "",
+  "organizer": "",
+  "description": "",
+  "online": false
+ },
+ {
   "source": "allevents",
   "title": "Master Generative AI - 2 Day Workshop at IIT Madras Research Park",
   "url": "https://allevents.in/chennai/master-generative-ai-2-day-workshop-at-iit-madras-research-park/4100030789883102",
@@ -833,6 +833,19 @@
  },
  {
   "source": "allevents",
+  "title": "ELEV8 Startup Summit 2026",
+  "url": "https://allevents.in/new-delhi/elev8-startup-summit-2026/3900030598969307",
+  "start": "2026-11-28T00:00:00+00:00",
+  "end": "2026-11-28T00:00:00+00:00",
+  "city": "delhi",
+  "city_raw": "New Delhi",
+  "venue": "Radisson Hotel Sohna Road City Center : Gurugram",
+  "organizer": "Event Navigator",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
   "title": "AI FinOps: Managing LLM, GPU and Agentic AI Costs",
   "url": "https://allevents.in/hyderabad/ai-finops-managing-llm-gpu-and-agentic-ai-costs/100002003559273722",
   "start": "2026-11-28T00:00:00+00:00",
@@ -893,19 +906,6 @@
   "city_raw": "Hyderabad",
   "venue": "NP Venue - Hyderabad",
   "organizer": "NobleProg",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
-  "title": "ELEV8 Startup Summit 2026",
-  "url": "https://allevents.in/new-delhi/elev8-startup-summit-2026/3900030598969307",
-  "start": "2026-11-28T00:00:00+00:00",
-  "end": "2026-11-28T00:00:00+00:00",
-  "city": "delhi",
-  "city_raw": "New Delhi",
-  "venue": "Radisson Hotel Sohna Road City Center : Gurugram",
-  "organizer": "Event Navigator",
   "description": "",
   "online": false
  },
@@ -1019,6 +1019,19 @@
   "url": "https://devfolio.co/hackathons/hack-nexus",
   "start": "2027-01-30T04:30:00+00:00",
   "end": "2027-01-31T11:30:00+00:00",
+  "city": "unknown",
+  "city_raw": "",
+  "venue": "",
+  "organizer": "",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "devfolio",
+  "title": "CODERAVE 2.0",
+  "url": "https://devfolio.co/hackathons/coderave-2",
+  "start": "2027-02-13T11:30:00+00:00",
+  "end": "2027-02-14T11:30:00+00:00",
   "city": "unknown",
   "city_raw": "",
   "venue": "",
