@@ -11,9 +11,9 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/ai-for-marketing-teams-research-content-analysis-and-campaign-workflows/100002003333722091",
+   "https://allevents.in/mumbai/osint-for-cybersecurity-and-threat-intelligence/100002003393269198",
    "https://allevents.in/mumbai/critical-thinking-in-the-age-of-ai/100002003379965406",
    "https://allevents.in/mumbai/physical-ai-for-industrial-robotics/100002003382028577",
-   "https://allevents.in/mumbai/osint-for-cybersecurity-and-threat-intelligence/100002003393269198",
    "https://allevents.in/mumbai/ai-security-securing-llm-and-agentic-ai-applications/100002003380278342"
   ]
  },
@@ -22,7 +22,7 @@
   "cities": [
    "bengaluru"
   ],
-  "event_count": 4,
+  "event_count": 5,
   "sources": [
    "allevents"
   ],
@@ -30,6 +30,7 @@
    "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80002255452458",
    "https://allevents.in/bangalore/south-bengaluru-startups-meetup-by-cedat-tickets/80008961477557",
    "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296",
+   "https://allevents.in/bengaluru/north-bengaluru-startups-meetup-by-cedat/100002002609277257",
    "https://allevents.in/bangalore/north-bengaluru-startups-meetup-by-cedat-tickets/80001874070517"
   ]
  },
@@ -136,16 +137,16 @@
   ]
  },
  {
-  "name": "Legal Tech Meet",
+  "name": "eMexo Technologie",
   "cities": [
-   "mumbai"
+   "bengaluru"
   ],
   "event_count": 1,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/mumbai/code-to-capital-summit-tickets/80003201845282"
+   "https://allevents.in/bengaluru/free-gen-ai-and-agentic-ai-demo-at-emexo/100001997562251467"
   ]
  },
  {
