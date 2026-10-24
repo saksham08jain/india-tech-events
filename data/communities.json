@@ -12,8 +12,8 @@
   "upcoming": [
    "https://allevents.in/mumbai/ai-for-marketing-teams-research-content-analysis-and-campaign-workflows/100002003333722091",
    "https://allevents.in/mumbai/osint-for-cybersecurity-and-threat-intelligence/100002003393269198",
-   "https://allevents.in/mumbai/critical-thinking-in-the-age-of-ai/100002003379965406",
    "https://allevents.in/mumbai/physical-ai-for-industrial-robotics/100002003382028577",
+   "https://allevents.in/mumbai/critical-thinking-in-the-age-of-ai/100002003379965406",
    "https://allevents.in/mumbai/ai-security-securing-llm-and-agentic-ai-applications/100002003380278342"
   ]
  },
@@ -137,45 +137,6 @@
   ]
  },
  {
-  "name": "eMexo Technologie",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/free-gen-ai-and-agentic-ai-demo-at-emexo/100001997562251467"
-  ]
- },
- {
-  "name": "Makers Lab",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/agentic-ai-zero-to-hero-from-llm-fundamentals-to-autonomous-ai-agents/100002003356570431"
-  ]
- },
- {
-  "name": "Zenvaa Technologies",
-  "cities": [
-   "chennai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/chennai/mecha-mavericks-youth-robotics-championship/80003234633943"
-  ]
- },
- {
   "name": "Srijan Arya",
   "cities": [
    "mumbai"
@@ -238,6 +199,19 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/the-catalyst-podcast-s1-e01-deep-tech-venture-capital-and-the-future-of-innovation-tickets/80001689628844"
+  ]
+ },
+ {
+  "name": "Makers Tribe",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/chennai-freelancers-monthly-meetup-october-2026-tickets/80001199766432"
   ]
  },
  {
