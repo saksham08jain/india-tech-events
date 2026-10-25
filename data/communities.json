@@ -12,8 +12,8 @@
   "upcoming": [
    "https://allevents.in/mumbai/ai-for-marketing-teams-research-content-analysis-and-campaign-workflows/100002003333722091",
    "https://allevents.in/mumbai/osint-for-cybersecurity-and-threat-intelligence/100002003393269198",
-   "https://allevents.in/mumbai/physical-ai-for-industrial-robotics/100002003382028577",
    "https://allevents.in/mumbai/critical-thinking-in-the-age-of-ai/100002003379965406",
+   "https://allevents.in/mumbai/physical-ai-for-industrial-robotics/100002003382028577",
    "https://allevents.in/mumbai/ai-security-securing-llm-and-agentic-ai-applications/100002003380278342"
   ]
  },
@@ -32,21 +32,6 @@
    "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296",
    "https://allevents.in/bengaluru/north-bengaluru-startups-meetup-by-cedat/100002002609277257",
    "https://allevents.in/bangalore/north-bengaluru-startups-meetup-by-cedat-tickets/80001874070517"
-  ]
- },
- {
-  "name": "eChai Bangalore Startup Network",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 3,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/echais-startup-open-house-in-bengaluru/100002003590251377",
-   "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru-hsr-edition/100002002931615379",
-   "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru-koramangala-edition/100002002931379674"
   ]
  },
  {
@@ -76,6 +61,20 @@
   "upcoming": [
    "https://allevents.in/mumbai/healthtech-founders-mixer-mumbai/100002001776961779",
    "https://allevents.in/mumbai/startup-founders-mixer-health-tech-mumbai/100002001776961779"
+  ]
+ },
+ {
+  "name": "eChai Bangalore Startup Network",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru-hsr-edition/100002002931615379",
+   "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru-koramangala-edition/100002002931379674"
   ]
  },
  {
@@ -137,19 +136,6 @@
   ]
  },
  {
-  "name": "Srijan Arya",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/ai-classes-learn-ai-automate-hands-on-beginner-class-kandivali-east/80003028628229"
-  ]
- },
- {
   "name": "baartr",
   "cities": [
    "bengaluru"
@@ -176,6 +162,19 @@
   ]
  },
  {
+  "name": "John Kiran",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/the-catalyst-podcast-s1-e01-deep-tech-venture-capital-and-the-future-of-innovation-tickets/80001689628844"
+  ]
+ },
+ {
   "name": "Executive Enage",
   "cities": [
    "mumbai"
@@ -189,16 +188,16 @@
   ]
  },
  {
-  "name": "John Kiran",
+  "name": "Hadi Ali",
   "cities": [
-   "hyderabad"
+   "mumbai"
   ],
   "event_count": 1,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/hyderabad/the-catalyst-podcast-s1-e01-deep-tech-venture-capital-and-the-future-of-innovation-tickets/80001689628844"
+   "https://allevents.in/mumbai/java-ai-coming-soon/200030886790500"
   ]
  },
  {
