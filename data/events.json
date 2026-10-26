@@ -14,6 +14,19 @@
  },
  {
   "source": "allevents",
+  "title": "Free Gen AI & Agentic AI Demo at eMexo",
+  "url": "https://allevents.in/bengaluru/free-gen-ai-and-agentic-ai-demo-at-emexo/100001997562251467",
+  "start": "2026-10-27T00:00:00+00:00",
+  "end": null,
+  "city": "bengaluru",
+  "city_raw": "Bengaluru",
+  "venue": "eMexo Technologies",
+  "organizer": "eMexo Technologie",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
   "title": "AI Revolution Summit - India",
   "url": "https://allevents.in/chennai/ai-revolution-summit-india-tickets/80001371258947",
   "start": "2026-10-27T00:00:00+00:00",
@@ -355,7 +368,7 @@
   "title": "Cybersecurity Conference 2026, Bangalore Chapter",
   "url": "https://allevents.in/bangalore/cybersecurity-conference-2026-bangalore-chapter/3900030700553735",
   "start": "2026-11-07T00:00:00+00:00",
-  "end": "2026-11-14T00:00:00+00:00",
+  "end": null,
   "city": "bengaluru",
   "city_raw": "Bangalore",
   "venue": "Bloom Hub: Bengaluru",
