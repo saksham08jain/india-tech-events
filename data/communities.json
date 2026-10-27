@@ -22,31 +22,15 @@
   "cities": [
    "bengaluru"
   ],
-  "event_count": 5,
+  "event_count": 4,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80002255452458",
    "https://allevents.in/bangalore/south-bengaluru-startups-meetup-by-cedat-tickets/80008961477557",
    "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296",
    "https://allevents.in/bengaluru/north-bengaluru-startups-meetup-by-cedat/100002002609277257",
    "https://allevents.in/bangalore/north-bengaluru-startups-meetup-by-cedat-tickets/80001874070517"
-  ]
- },
- {
-  "name": "TraiCon Events",
-  "cities": [
-   "chennai",
-   "hyderabad"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/chennai/ai-revolution-summit-india-tickets/80001371258947",
-   "https://allevents.in/hyderabad/world-data-center-summit-india-tickets/80002557113801"
   ]
  },
  {
@@ -133,19 +117,6 @@
   "upcoming": [
    "https://allevents.in/chennai/nus-master-of-technology-mtech-preview-entrance-test-and-interview-chennai/100002001429110346",
    "https://allevents.in/kochi/nus-master-of-technology-mtech-preview-entrance-test-and-interview-kochi/100002001529481559"
-  ]
- },
- {
-  "name": "eMexo Technologie",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/free-gen-ai-and-agentic-ai-demo-at-emexo/100001997562251467"
   ]
  },
  {
@@ -292,6 +263,19 @@
   ]
  },
  {
+  "name": "TraiCon Events",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/world-data-center-summit-india-tickets/80002557113801"
+  ]
+ },
+ {
   "name": "BlaBla Language Exchange - India",
   "cities": [
    "jaipur"
@@ -315,6 +299,32 @@
   ],
   "upcoming": [
    "https://allevents.in/indore/8th-bharat-agritech-agri-dairy-horti-and-food-processing-expo-tickets/80002865217951"
+  ]
+ },
+ {
+  "name": "The Grand Ecommerce Summit By Amar Bedi",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/grand-e-com-ai-summit-2027-mumbai-tickets/80001322116348"
+  ]
+ },
+ {
+  "name": "Lighting World & Home Tech",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/lighting-world-and-home-tech-expo-tickets/80001433723888"
   ]
  },
  {
