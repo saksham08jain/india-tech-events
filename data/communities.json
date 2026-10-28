@@ -22,12 +22,11 @@
   "cities": [
    "bengaluru"
   ],
-  "event_count": 4,
+  "event_count": 3,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bangalore/south-bengaluru-startups-meetup-by-cedat-tickets/80008961477557",
    "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296",
    "https://allevents.in/bengaluru/north-bengaluru-startups-meetup-by-cedat/100002002609277257",
    "https://allevents.in/bangalore/north-bengaluru-startups-meetup-by-cedat-tickets/80001874070517"
@@ -146,6 +145,19 @@
   ]
  },
  {
+  "name": "SNIA India",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/snia-india-t-e-n-storage-meetup-bangalore-october-hosted-by-hpe/100002003568626697"
+  ]
+ },
+ {
   "name": "John Kiran",
   "cities": [
    "hyderabad"
@@ -172,6 +184,19 @@
   ]
  },
  {
+  "name": "Makers Tribe",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/chennai-freelancers-monthly-meetup-october-2026-tickets/80001199766432"
+  ]
+ },
+ {
   "name": "Hadi Ali",
   "cities": [
    "mumbai"
@@ -185,16 +210,16 @@
   ]
  },
  {
-  "name": "Makers Tribe",
+  "name": "Lokanath Swain",
   "cities": [
-   "chennai"
+   "mumbai"
   ],
   "event_count": 1,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/chennai/chennai-freelancers-monthly-meetup-october-2026-tickets/80001199766432"
+   "https://allevents.in/mumbai/ai-and-ancient-knowledge-meetup/100002003851008308"
   ]
  },
  {
