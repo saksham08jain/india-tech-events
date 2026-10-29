@@ -33,31 +33,18 @@
   ]
  },
  {
-  "name": "Bhavik Jain",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/healthtech-founders-mixer-mumbai/100002001776961779",
-   "https://allevents.in/mumbai/startup-founders-mixer-health-tech-mumbai/100002001776961779"
-  ]
- },
- {
   "name": "eChai Bangalore Startup Network",
   "cities": [
    "bengaluru"
   ],
-  "event_count": 2,
+  "event_count": 3,
   "sources": [
    "allevents"
   ],
   "upcoming": [
+   "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru-koramangala-edition/100002002931379674",
    "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru-hsr-edition/100002002931615379",
-   "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru-koramangala-edition/100002002931379674"
+   "https://allevents.in/bengaluru/echais-startup-open-house-in-bengaluru/100002003590251377"
   ]
  },
  {
@@ -119,32 +106,6 @@
   ]
  },
  {
-  "name": "baartr",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/thursday-after-work-tech-founders-pre-halloween-reverse-network-meet/100002002638580905"
-  ]
- },
- {
-  "name": "Entrepreneurs Network",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/startup-founders-mixer-health-tech-mumbai/100002001776156370"
-  ]
- },
- {
   "name": "SNIA India",
   "cities": [
    "bengaluru"
@@ -184,6 +145,32 @@
   ]
  },
  {
+  "name": "eChai Mumbai Startup Network",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/echai-startup-demo-day-in-mumbai/100002003954516905"
+  ]
+ },
+ {
+  "name": "Madras Marketers",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/madras-mixture-edition-01-is-ai-killing-creativity-in-marketing-debate-edition-paid/80002230869855"
+  ]
+ },
+ {
   "name": "Makers Tribe",
   "cities": [
    "chennai"
@@ -194,6 +181,32 @@
   ],
   "upcoming": [
    "https://allevents.in/chennai/chennai-freelancers-monthly-meetup-october-2026-tickets/80001199766432"
+  ]
+ },
+ {
+  "name": "eChai Ventures",
+  "cities": [
+   "noida"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/noida/echai-startup-demo-day-in-delhi-ncr/100002003954473776"
+  ]
+ },
+ {
+  "name": "eChai India Startup Network",
+  "cities": [
+   "indore"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/indore/echai-startup-demo-day-in-indore/100002003954344389"
   ]
  },
  {
@@ -220,6 +233,32 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/ai-and-ancient-knowledge-meetup/100002003851008308"
+  ]
+ },
+ {
+  "name": "Hashed Emergent",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/india-blockchain-week-conference-ibw-2026/100002003962942105"
+  ]
+ },
+ {
+  "name": "Web3Privacy Now",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/india-blockchain-week-2026/200030931655310"
   ]
  },
  {
