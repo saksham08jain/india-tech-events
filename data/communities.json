@@ -18,21 +18,6 @@
   ]
  },
  {
-  "name": "CEDAT",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 3,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/startup-ecosystem-meetup-by-cedat-tickets/80001335853296",
-   "https://allevents.in/bengaluru/north-bengaluru-startups-meetup-by-cedat/100002002609277257",
-   "https://allevents.in/bangalore/north-bengaluru-startups-meetup-by-cedat-tickets/80001874070517"
-  ]
- },
- {
   "name": "eChai Bangalore Startup Network",
   "cities": [
    "bengaluru"
@@ -45,6 +30,20 @@
    "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru-koramangala-edition/100002002931379674",
    "https://allevents.in/bengaluru/echai-startup-demo-day-in-bengaluru-hsr-edition/100002002931615379",
    "https://allevents.in/bengaluru/echais-startup-open-house-in-bengaluru/100002003590251377"
+  ]
+ },
+ {
+  "name": "CEDAT",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/north-bengaluru-startups-meetup-by-cedat/100002002609277257",
+   "https://allevents.in/bangalore/north-bengaluru-startups-meetup-by-cedat-tickets/80001874070517"
   ]
  },
  {
@@ -106,7 +105,7 @@
   ]
  },
  {
-  "name": "SNIA India",
+  "name": "eMexo Technologie",
   "cities": [
    "bengaluru"
   ],
@@ -115,33 +114,7 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bengaluru/snia-india-t-e-n-storage-meetup-bangalore-october-hosted-by-hpe/100002003568626697"
-  ]
- },
- {
-  "name": "John Kiran",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/the-catalyst-podcast-s1-e01-deep-tech-venture-capital-and-the-future-of-innovation-tickets/80001689628844"
-  ]
- },
- {
-  "name": "Executive Enage",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/4th-executive-assistant-workshop-ai-tools-and-skills/200030860552225"
+   "https://allevents.in/bengaluru/free-gen-ai-and-agentic-ai-demo-at-emexo/100001997562251467"
   ]
  },
  {
