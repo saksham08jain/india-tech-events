@@ -22,13 +22,15 @@
   "cities": [
    "bengaluru"
   ],
-  "event_count": 2,
+  "event_count": 4,
   "sources": [
    "allevents"
   ],
   "upcoming": [
    "https://allevents.in/bengaluru/north-bengaluru-startups-meetup-by-cedat/100002002609277257",
-   "https://allevents.in/bangalore/north-bengaluru-startups-meetup-by-cedat-tickets/80001874070517"
+   "https://allevents.in/bangalore/north-bengaluru-startups-meetup-by-cedat-tickets/80001874070517",
+   "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80009753061301",
+   "https://allevents.in/bengaluru/startup-ecosystem-meetup-by-cedat/100002003345792193"
   ]
  },
  {
@@ -87,58 +89,6 @@
   "upcoming": [
    "https://allevents.in/chennai/nus-master-of-technology-mtech-preview-entrance-test-and-interview-chennai/100002001429110346",
    "https://allevents.in/kochi/nus-master-of-technology-mtech-preview-entrance-test-and-interview-kochi/100002001529481559"
-  ]
- },
- {
-  "name": "eChai Bangalore Startup Network",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/echais-startup-open-house-in-bengaluru/100002003590251377"
-  ]
- },
- {
-  "name": "Lokanath Swain",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/ai-and-ancient-knowledge-meetup/100002003851008308"
-  ]
- },
- {
-  "name": "Hashed Emergent",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/india-blockchain-week-conference-ibw-2026/100002003962942105"
-  ]
- },
- {
-  "name": "Web3Privacy Now",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/india-blockchain-week-2026/200030931655310"
   ]
  },
  {
