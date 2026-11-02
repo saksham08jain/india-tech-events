@@ -14,6 +14,19 @@
  },
  {
   "source": "allevents",
+  "title": "Free Gen AI & Agentic AI Demo at eMexo",
+  "url": "https://allevents.in/bengaluru/free-gen-ai-and-agentic-ai-demo-at-emexo/100001997562251467",
+  "start": "2026-11-03T00:00:00+00:00",
+  "end": null,
+  "city": "bengaluru",
+  "city_raw": "Bengaluru",
+  "venue": "eMexo Technologies",
+  "organizer": "eMexo Technologie",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
   "title": "Media Accelerator & Startup Cohort",
   "url": "https://allevents.in/mumbai/media-accelerator-and-startup-cohort/100002004028780028",
   "start": "2026-11-03T00:00:00+00:00",
@@ -222,6 +235,19 @@
  },
  {
   "source": "allevents",
+  "title": "OSINT for Cybersecurity and Threat Intelligence",
+  "url": "https://allevents.in/mumbai/osint-for-cybersecurity-and-threat-intelligence/100002003393269198",
+  "start": "2026-11-14T00:00:00+00:00",
+  "end": "2027-08-14T00:00:00+00:00",
+  "city": "mumbai",
+  "city_raw": "Mumbai",
+  "venue": "NP Venue - Mumbai",
+  "organizer": "NobleProg",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
   "title": "Global Startup Summit 2026 | Chennai",
   "url": "https://allevents.in/chennai/global-startup-summit-2026-chennai-tickets/80002267326827",
   "start": "2026-11-14T00:00:00+00:00",
@@ -269,19 +295,6 @@
   "city_raw": "Kochi",
   "venue": "Cochin (kochin)kerala,India",
   "organizer": "Cinemarathon community for film making",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
-  "title": "OSINT for Cybersecurity and Threat Intelligence",
-  "url": "https://allevents.in/mumbai/osint-for-cybersecurity-and-threat-intelligence/100002003393269198",
-  "start": "2026-11-14T00:00:00+00:00",
-  "end": null,
-  "city": "mumbai",
-  "city_raw": "Mumbai",
-  "venue": "NP Venue - Mumbai",
-  "organizer": "NobleProg",
   "description": "",
   "online": false
  },
@@ -559,6 +572,19 @@
   "online": false
  },
  {
+  "source": "allevents",
+  "title": "HackerX - Delhi NCR - Employer Ticket - 12/10",
+  "url": "https://allevents.in/new-delhi/hackerx-delhi-ncr-employer-ticket-12-10/100001982000892022",
+  "start": "2026-12-10T00:00:00+00:00",
+  "end": "2026-12-11T00:00:00+00:00",
+  "city": "delhi",
+  "city_raw": "New Delhi",
+  "venue": "New Delhi",
+  "organizer": "HackerX",
+  "description": "",
+  "online": false
+ },
+ {
   "source": "devfolio",
   "title": "hackodisha-6.0",
   "url": "https://devfolio.co/hackathons/hackodisha-6a",
@@ -620,6 +646,19 @@
   "city_raw": "Noida",
   "venue": "Paramount Produxts Pvt. Ltd, D163",
   "organizer": "",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
+  "title": "Make Friends & Photowalk Meetup",
+  "url": "https://allevents.in/new-delhi/make-friends-and-photowalk-meetup/200029749790900",
+  "start": "2026-12-26T00:00:00+00:00",
+  "end": "2026-12-26T00:00:00+00:00",
+  "city": "delhi",
+  "city_raw": "New Delhi",
+  "venue": "New Delhi (currently online during our photo challenges)",
+  "organizer": "BlaBla Language Exchange - India",
   "description": "",
   "online": false
  },

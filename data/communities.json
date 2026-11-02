@@ -34,6 +34,23 @@
   ]
  },
  {
+  "name": "HackerX",
+  "cities": [
+   "bengaluru",
+   "chennai",
+   "delhi"
+  ],
+  "event_count": 3,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/hackerx-bengaluru-employer-ticket-11-26/100001980342644158",
+   "https://allevents.in/new-delhi/hackerx-delhi-ncr-employer-ticket-12-10/100001982000892022",
+   "https://allevents.in/chennai/hackerx-chennai-employer-ticket-12-17/100001980428996440"
+  ]
+ },
+ {
   "name": "MOJO CAPITAL",
   "cities": [
    "chennai"
@@ -62,18 +79,18 @@
   ]
  },
  {
-  "name": "HackerX",
+  "name": "BlaBla Language Exchange - India",
   "cities": [
-   "bengaluru",
-   "chennai"
+   "delhi",
+   "jaipur"
   ],
   "event_count": 2,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bengaluru/hackerx-bengaluru-employer-ticket-11-26/100001980342644158",
-   "https://allevents.in/chennai/hackerx-chennai-employer-ticket-12-17/100001980428996440"
+   "https://allevents.in/new-delhi/make-friends-and-photowalk-meetup/200029749790900",
+   "https://allevents.in/jaipur/digital-nomad-meetup-jaipur-registration-is-mandatory/200028932927039"
   ]
  },
  {
@@ -89,6 +106,19 @@
   "upcoming": [
    "https://allevents.in/chennai/nus-master-of-technology-mtech-preview-entrance-test-and-interview-chennai/100002001429110346",
    "https://allevents.in/kochi/nus-master-of-technology-mtech-preview-entrance-test-and-interview-kochi/100002001529481559"
+  ]
+ },
+ {
+  "name": "eMexo Technologie",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/free-gen-ai-and-agentic-ai-demo-at-emexo/100001997562251467"
   ]
  },
  {
@@ -206,19 +236,6 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/world-data-center-summit-india-tickets/80002557113801"
-  ]
- },
- {
-  "name": "BlaBla Language Exchange - India",
-  "cities": [
-   "jaipur"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/jaipur/digital-nomad-meetup-jaipur-registration-is-mandatory/200028932927039"
   ]
  },
  {
