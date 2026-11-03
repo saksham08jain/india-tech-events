@@ -18,22 +18,6 @@
   ]
  },
  {
-  "name": "CEDAT",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 4,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/north-bengaluru-startups-meetup-by-cedat/100002002609277257",
-   "https://allevents.in/bangalore/north-bengaluru-startups-meetup-by-cedat-tickets/80001874070517",
-   "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80009753061301",
-   "https://allevents.in/bengaluru/startup-ecosystem-meetup-by-cedat/100002003345792193"
-  ]
- },
- {
   "name": "HackerX",
   "cities": [
    "bengaluru",
@@ -48,6 +32,20 @@
    "https://allevents.in/bengaluru/hackerx-bengaluru-employer-ticket-11-26/100001980342644158",
    "https://allevents.in/new-delhi/hackerx-delhi-ncr-employer-ticket-12-10/100001982000892022",
    "https://allevents.in/chennai/hackerx-chennai-employer-ticket-12-17/100001980428996440"
+  ]
+ },
+ {
+  "name": "CEDAT",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80009753061301",
+   "https://allevents.in/bengaluru/startup-ecosystem-meetup-by-cedat/100002003345792193"
   ]
  },
  {
@@ -109,45 +107,6 @@
   ]
  },
  {
-  "name": "eMexo Technologie",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/free-gen-ai-and-agentic-ai-demo-at-emexo/100001997562251467"
-  ]
- },
- {
-  "name": "Media Accelerator & Startup Cohort",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/media-accelerator-and-startup-cohort/100002004028780028"
-  ]
- },
- {
-  "name": "Master Concept",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/born-up-devcon-mumbai-community-networking-meetup/100002004026417963"
-  ]
- },
- {
   "name": "Version IT",
   "cities": [
    "hyderabad"
@@ -157,7 +116,7 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/hyderabad/generative-ai-training-in-hyderabad-gen-ai-free-demo/100002004002398119"
+   "https://allevents.in/hyderabad/azure-data-engineer-training-demo-online-and-classroom-batches-in-hyderabad/100002004217828477"
   ]
  },
  {
@@ -171,6 +130,19 @@
   ],
   "upcoming": [
    "https://allevents.in/new-delhi/cio-tech-leadership-conference-and-awards-delhi-2026-tickets/80001520635814"
+  ]
+ },
+ {
+  "name": "Makers Lab",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/agentic-ai-zero-to-hero-from-llm-fundamentals-to-autonomous-ai-agents/100002004116109232"
   ]
  },
  {
@@ -197,6 +169,19 @@
   ],
   "upcoming": [
    "https://allevents.in/kochi/international-festival-of-ai-films/200030257497107"
+  ]
+ },
+ {
+  "name": "Quality Thought",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/free-scholarship-test-for-full-stack-python-with-ai-quality-thought/100002004216221671"
   ]
  },
  {

@@ -1,83 +1,5 @@
 [
  {
-  "source": "allevents",
-  "title": "North Bengaluru Startups Meetup by CEDAT",
-  "url": "https://allevents.in/bengaluru/north-bengaluru-startups-meetup-by-cedat/100002002609277257",
-  "start": "2026-11-03T00:00:00+00:00",
-  "end": "2026-11-03T00:00:00+00:00",
-  "city": "bengaluru",
-  "city_raw": "Bengaluru",
-  "venue": "Cortis Medtech Pvt.Ltd",
-  "organizer": "CEDAT",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
-  "title": "Free Gen AI & Agentic AI Demo at eMexo",
-  "url": "https://allevents.in/bengaluru/free-gen-ai-and-agentic-ai-demo-at-emexo/100001997562251467",
-  "start": "2026-11-03T00:00:00+00:00",
-  "end": null,
-  "city": "bengaluru",
-  "city_raw": "Bengaluru",
-  "venue": "eMexo Technologies",
-  "organizer": "eMexo Technologie",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
-  "title": "Media Accelerator & Startup Cohort",
-  "url": "https://allevents.in/mumbai/media-accelerator-and-startup-cohort/100002004028780028",
-  "start": "2026-11-03T00:00:00+00:00",
-  "end": "2026-11-06T00:00:00+00:00",
-  "city": "mumbai",
-  "city_raw": "Mumbai",
-  "venue": "Jio World Centre",
-  "organizer": "Media Accelerator & Startup Cohort",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
-  "title": "BORN UP \u2014 Devcon Mumbai Community Networking Meetup",
-  "url": "https://allevents.in/mumbai/born-up-devcon-mumbai-community-networking-meetup/100002004026417963",
-  "start": "2026-11-03T00:00:00+00:00",
-  "end": "2026-11-03T00:00:00+00:00",
-  "city": "mumbai",
-  "city_raw": "Mumbai",
-  "venue": "Jio World Convention Centre",
-  "organizer": "Master Concept",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
-  "title": "Generative AI Training in Hyderabad | Gen AI | Free Demo",
-  "url": "https://allevents.in/hyderabad/generative-ai-training-in-hyderabad-gen-ai-free-demo/100002004002398119",
-  "start": "2026-11-03T00:00:00+00:00",
-  "end": "2026-11-03T00:00:00+00:00",
-  "city": "hyderabad",
-  "city_raw": "Hyderabad",
-  "venue": "Version IT",
-  "organizer": "Version IT",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
-  "title": "North Bengaluru Startups Meetup by CEDAT",
-  "url": "https://allevents.in/bangalore/north-bengaluru-startups-meetup-by-cedat-tickets/80001874070517",
-  "start": "2026-11-03T00:00:00+00:00",
-  "end": "2026-11-03T00:00:00+00:00",
-  "city": "bengaluru",
-  "city_raw": "Bangalore",
-  "venue": "Cortis Medtech Pvt.Ltd",
-  "organizer": "CEDAT",
-  "description": "",
-  "online": false
- },
- {
   "source": "devfolio",
   "title": "Unbuilt",
   "url": "https://devfolio.co/hackathons/unbuilt",
@@ -139,6 +61,19 @@
   "city_raw": "",
   "venue": "",
   "organizer": "",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
+  "title": "Azure Data Engineer Training Demo: Online & Classroom Batches in Hyderabad",
+  "url": "https://allevents.in/hyderabad/azure-data-engineer-training-demo-online-and-classroom-batches-in-hyderabad/100002004217828477",
+  "start": "2026-11-12T00:00:00+00:00",
+  "end": "2026-11-12T00:00:00+00:00",
+  "city": "hyderabad",
+  "city_raw": "Hyderabad",
+  "venue": "Version IT - #No -46, SAP street, Behind Mytrivanam, Ameerpet, Hyderabad-500038 Version IT",
+  "organizer": "Version IT",
   "description": "",
   "online": false
  },
@@ -248,6 +183,19 @@
  },
  {
   "source": "allevents",
+  "title": "Agentic AI: Zero to Hero - From LLM Fundamentals to Autonomous AI Agents",
+  "url": "https://allevents.in/hyderabad/agentic-ai-zero-to-hero-from-llm-fundamentals-to-autonomous-ai-agents/100002004116109232",
+  "start": "2026-11-14T00:00:00+00:00",
+  "end": "2026-11-14T00:00:00+00:00",
+  "city": "hyderabad",
+  "city_raw": "Hyderabad",
+  "venue": "MUST AI Caf\u00e9",
+  "organizer": "Makers Lab",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
   "title": "Global Startup Summit 2026 | Chennai",
   "url": "https://allevents.in/chennai/global-startup-summit-2026-chennai-tickets/80002267326827",
   "start": "2026-11-14T00:00:00+00:00",
@@ -347,6 +295,19 @@
   "city_raw": "",
   "venue": "",
   "organizer": "",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
+  "title": "Free Scholarship Test for Full Stack Python with AI \u2013 Quality Thought",
+  "url": "https://allevents.in/hyderabad/free-scholarship-test-for-full-stack-python-with-ai-quality-thought/100002004216221671",
+  "start": "2026-11-15T00:00:00+00:00",
+  "end": "2026-11-15T00:00:00+00:00",
+  "city": "hyderabad",
+  "city_raw": "Hyderabad",
+  "venue": "Ameerpet, Hyderabad, Telangana, India",
+  "organizer": "Quality Thought",
   "description": "",
   "online": false
  },
@@ -854,6 +815,19 @@
   "city_raw": "Hyderabad",
   "venue": "HITEX EXHIBITION CENTER",
   "organizer": "UNITED EXPO ORGANIZASYION VE TICARET LIMITED IRKETI",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "devfolio",
+  "title": "ECLIPSE 7.0",
+  "url": "https://devfolio.co/hackathons/eclipse",
+  "start": "2027-04-02T18:30:00+00:00",
+  "end": "2027-04-04T18:29:00+00:00",
+  "city": "unknown",
+  "city_raw": "",
+  "venue": "",
+  "organizer": "",
   "description": "",
   "online": false
  }
