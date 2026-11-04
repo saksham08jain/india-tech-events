@@ -12,8 +12,8 @@
   "upcoming": [
    "https://allevents.in/mumbai/ai-for-marketing-teams-research-content-analysis-and-campaign-workflows/100002003333722091",
    "https://allevents.in/mumbai/osint-for-cybersecurity-and-threat-intelligence/100002003393269198",
-   "https://allevents.in/mumbai/critical-thinking-in-the-age-of-ai/100002003379965406",
    "https://allevents.in/mumbai/physical-ai-for-industrial-robotics/100002003382028577",
+   "https://allevents.in/mumbai/critical-thinking-in-the-age-of-ai/100002003379965406",
    "https://allevents.in/mumbai/ai-security-securing-llm-and-agentic-ai-applications/100002003380278342"
   ]
  },
@@ -182,6 +182,19 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/free-scholarship-test-for-full-stack-python-with-ai-quality-thought/100002004216221671"
+  ]
+ },
+ {
+  "name": "National Institute of Digital Marketing (NIDM)",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/meta-ads-meets-ai-free-digital-marketing-workshop-tickets/80002290649489"
   ]
  },
  {
