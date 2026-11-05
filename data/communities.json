@@ -5,7 +5,7 @@
    "hyderabad",
    "mumbai"
   ],
-  "event_count": 10,
+  "event_count": 11,
   "sources": [
    "allevents"
   ],
@@ -32,20 +32,6 @@
    "https://allevents.in/bengaluru/hackerx-bengaluru-employer-ticket-11-26/100001980342644158",
    "https://allevents.in/new-delhi/hackerx-delhi-ncr-employer-ticket-12-10/100001982000892022",
    "https://allevents.in/chennai/hackerx-chennai-employer-ticket-12-17/100001980428996440"
-  ]
- },
- {
-  "name": "CEDAT",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/startup-pitches-by-cedat-tickets/80009753061301",
-   "https://allevents.in/bengaluru/startup-ecosystem-meetup-by-cedat/100002003345792193"
   ]
  },
  {
@@ -185,6 +171,32 @@
   ]
  },
  {
+  "name": "National Institute Of Digital Marketing",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/free-digital-marketing-workshop-on-meta-ads-meet-ai-tickets/80001292855658"
+  ]
+ },
+ {
+  "name": "National Institute of Design",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/free-digital-marketing-workshop-meta-ads-meet-ai/100002004284852949"
+  ]
+ },
+ {
   "name": "National Institute of Digital Marketing (NIDM)",
   "cities": [
    "bengaluru"
@@ -198,6 +210,19 @@
   ]
  },
  {
+  "name": "Bluehost Events",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/small-business-ai-builder-tour-bangalore-india/100002003680086075"
+  ]
+ },
+ {
   "name": "NAVIGO Seminars",
   "cities": [
    "bengaluru"
@@ -208,6 +233,32 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/next-generation-testing-and-ai-bangalore/80001436966343"
+  ]
+ },
+ {
+  "name": "CEDAT",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/startup-ecosystem-meetup-by-cedat/100002003345792193"
+  ]
+ },
+ {
+  "name": "Faria Education Group",
+  "cities": [
+   "noida"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/noida/teaching-and-learning-meetup-noida-2026/100002004112054103"
   ]
  },
  {
