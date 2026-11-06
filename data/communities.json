@@ -5,7 +5,7 @@
    "hyderabad",
    "mumbai"
   ],
-  "event_count": 11,
+  "event_count": 12,
   "sources": [
    "allevents"
   ],
@@ -93,6 +93,19 @@
   ]
  },
  {
+  "name": "eMexo Technologie",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/free-gen-ai-and-agentic-ai-demo-at-emexo/100001997562251467"
+  ]
+ },
+ {
   "name": "Version IT",
   "cities": [
    "hyderabad"
@@ -119,6 +132,19 @@
   ]
  },
  {
+  "name": "NEERAD Koundinya",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/free-ai-digital-marketing-workshop-tickets/80002440172809"
+  ]
+ },
+ {
   "name": "Makers Lab",
   "cities": [
    "hyderabad"
@@ -129,6 +155,32 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/agentic-ai-zero-to-hero-from-llm-fundamentals-to-autonomous-ai-agents/100002004116109232"
+  ]
+ },
+ {
+  "name": "Sowmya",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/ai-digital-marketing-workshop-tickets/80003534913631"
+  ]
+ },
+ {
+  "name": "Saikumar Magnus",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/free-ai-digital-marketing-workshop-tickets/80002181080857"
   ]
  },
  {
@@ -171,16 +223,16 @@
   ]
  },
  {
-  "name": "National Institute Of Digital Marketing",
+  "name": "IACC",
   "cities": [
-   "bengaluru"
+   "mumbai"
   ],
   "event_count": 1,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bangalore/free-digital-marketing-workshop-on-meta-ads-meet-ai-tickets/80001292855658"
+   "https://allevents.in/mumbai/ai-and-beyond-the-layer-beneath-ai\u2063/200030976155332"
   ]
  },
  {
@@ -194,6 +246,19 @@
   ],
   "upcoming": [
    "https://allevents.in/bengaluru/free-digital-marketing-workshop-meta-ads-meet-ai/100002004284852949"
+  ]
+ },
+ {
+  "name": "National Institute Of Digital Marketing",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/free-digital-marketing-workshop-on-meta-ads-meet-ai-tickets/80001292855658"
   ]
  },
  {

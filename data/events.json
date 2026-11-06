@@ -4,11 +4,24 @@
   "title": "Cybersecurity Conference 2026, Bangalore Chapter",
   "url": "https://allevents.in/bangalore/cybersecurity-conference-2026-bangalore-chapter/3900030700553735",
   "start": "2026-11-07T00:00:00+00:00",
-  "end": "2026-11-14T00:00:00+00:00",
+  "end": null,
   "city": "bengaluru",
   "city_raw": "Bangalore",
   "venue": "Bloom Hub: Bengaluru",
   "organizer": "",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
+  "title": "Free Gen AI & Agentic AI Demo at eMexo",
+  "url": "https://allevents.in/bengaluru/free-gen-ai-and-agentic-ai-demo-at-emexo/100001997562251467",
+  "start": "2026-11-07T00:00:00+00:00",
+  "end": null,
+  "city": "bengaluru",
+  "city_raw": "Bengaluru",
+  "venue": "eMexo Technologies",
+  "organizer": "eMexo Technologie",
   "description": "",
   "online": false
  },
@@ -235,6 +248,19 @@
  },
  {
   "source": "allevents",
+  "title": "FREE AI DIGITAL MARKETING WORKSHOP",
+  "url": "https://allevents.in/hyderabad/free-ai-digital-marketing-workshop-tickets/80002440172809",
+  "start": "2026-11-14T00:00:00+00:00",
+  "end": "2026-11-14T00:00:00+00:00",
+  "city": "hyderabad",
+  "city_raw": "Hyderabad",
+  "venue": "NIDM-National Institute of Digital Marketing",
+  "organizer": "NEERAD Koundinya",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
   "title": "Agentic AI: Zero to Hero - From LLM Fundamentals to Autonomous AI Agents",
   "url": "https://allevents.in/hyderabad/agentic-ai-zero-to-hero-from-llm-fundamentals-to-autonomous-ai-agents/100002004116109232",
   "start": "2026-11-14T00:00:00+00:00",
@@ -243,6 +269,32 @@
   "city_raw": "Hyderabad",
   "venue": "MUST AI Caf\u00e9",
   "organizer": "Makers Lab",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
+  "title": "AI DIGITAL MARKETING WORKSHOP",
+  "url": "https://allevents.in/hyderabad/ai-digital-marketing-workshop-tickets/80003534913631",
+  "start": "2026-11-14T00:00:00+00:00",
+  "end": "2026-11-14T00:00:00+00:00",
+  "city": "hyderabad",
+  "city_raw": "Hyderabad",
+  "venue": "NIDM-National Institute of Digital Marketing",
+  "organizer": "Sowmya",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
+  "title": "FREE AI DIGITAL MARKETING WORKSHOP",
+  "url": "https://allevents.in/hyderabad/free-ai-digital-marketing-workshop-tickets/80002181080857",
+  "start": "2026-11-14T00:00:00+00:00",
+  "end": "2026-11-14T00:00:00+00:00",
+  "city": "hyderabad",
+  "city_raw": "Hyderabad",
+  "venue": "LP Towers",
+  "organizer": "Saikumar Magnus",
   "description": "",
   "online": false
  },
@@ -339,6 +391,19 @@
  },
  {
   "source": "allevents",
+  "title": "AI & BEYOND | The Layer Beneath AI\u2063",
+  "url": "https://allevents.in/mumbai/ai-and-beyond-the-layer-beneath-ai\u2063/200030976155332",
+  "start": "2026-11-18T00:00:00+00:00",
+  "end": "2026-11-18T00:00:00+00:00",
+  "city": "mumbai",
+  "city_raw": "Mumbai",
+  "venue": "1-C, Vulcan Insurance Building, Veer Nariman Road, Mumbai, India 400020, Maharashtra",
+  "organizer": "IACC",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
   "title": "India Collection & Tech Summit 2026",
   "url": "https://allevents.in/mumbai/india-collection-and-tech-summit-2026/100002001454061977",
   "start": "2026-11-19T00:00:00+00:00",
@@ -364,6 +429,19 @@
   "online": false
  },
  {
+  "source": "allevents",
+  "title": "Bharat AI Innovation - Conference & Exhibition",
+  "url": "https://allevents.in/mumbai/bharat-ai-innovation-conference-and-exhibition/3900030977253220",
+  "start": "2026-11-20T00:00:00+00:00",
+  "end": "2026-11-20T00:00:00+00:00",
+  "city": "mumbai",
+  "city_raw": "Mumbai",
+  "venue": "World Trade Center: Mumbai",
+  "organizer": "",
+  "description": "",
+  "online": false
+ },
+ {
   "source": "devfolio",
   "title": "THE BIG HACK 2.0",
   "url": "https://devfolio.co/hackathons/the-big-hack-2",
@@ -373,19 +451,6 @@
   "city_raw": "",
   "venue": "",
   "organizer": "",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
-  "title": "Free Digital Marketing Workshop on : Meta Ads meet AI",
-  "url": "https://allevents.in/bangalore/free-digital-marketing-workshop-on-meta-ads-meet-ai-tickets/80001292855658",
-  "start": "2026-11-21T00:00:00+00:00",
-  "end": "2026-11-21T00:00:00+00:00",
-  "city": "bengaluru",
-  "city_raw": "Bangalore",
-  "venue": "NIDM-National Institute of Digital Marketing Bangalore",
-  "organizer": "National Institute Of Digital Marketing",
   "description": "",
   "online": false
  },
@@ -404,6 +469,19 @@
  },
  {
   "source": "allevents",
+  "title": "ROS 2 for Industrial Robotics and Automation",
+  "url": "https://allevents.in/mumbai/ros-2-for-industrial-robotics-and-automation/100002003382610317",
+  "start": "2026-11-21T00:00:00+00:00",
+  "end": "2027-08-21T00:00:00+00:00",
+  "city": "mumbai",
+  "city_raw": "Mumbai",
+  "venue": "NP Venue - Mumbai",
+  "organizer": "NobleProg",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
   "title": "Master Generative AI - 2 Day Workshop at IIT Madras Research Park",
   "url": "https://allevents.in/chennai/master-generative-ai-2-day-workshop-at-iit-madras-research-park/4100030789883102",
   "start": "2026-11-21T00:00:00+00:00",
@@ -412,6 +490,19 @@
   "city_raw": "Chennai",
   "venue": "IIT Madras Research Park",
   "organizer": "",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
+  "title": "Free Digital Marketing Workshop on : Meta Ads meet AI",
+  "url": "https://allevents.in/bangalore/free-digital-marketing-workshop-on-meta-ads-meet-ai-tickets/80001292855658",
+  "start": "2026-11-21T00:00:00+00:00",
+  "end": "2026-11-21T00:00:00+00:00",
+  "city": "bengaluru",
+  "city_raw": "Bangalore",
+  "venue": "NIDM-National Institute of Digital Marketing Bangalore",
+  "organizer": "National Institute Of Digital Marketing",
   "description": "",
   "online": false
  },
@@ -573,19 +664,6 @@
  },
  {
   "source": "allevents",
-  "title": "OSINT for Cybersecurity and Threat Intelligence",
-  "url": "https://allevents.in/hyderabad/osint-for-cybersecurity-and-threat-intelligence/100002003559731090",
-  "start": "2026-11-28T00:00:00+00:00",
-  "end": "2027-02-27T00:00:00+00:00",
-  "city": "hyderabad",
-  "city_raw": "Hyderabad",
-  "venue": "NP Venue - Hyderabad",
-  "organizer": "NobleProg",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
   "title": "Teaching & Learning Meetup: Noida 2026",
   "url": "https://allevents.in/noida/teaching-and-learning-meetup-noida-2026/100002004112054103",
   "start": "2026-11-28T00:00:00+00:00",
@@ -594,6 +672,19 @@
   "city_raw": "Noida",
   "venue": "Shiv Nadar School, Noida",
   "organizer": "Faria Education Group",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
+  "title": "OSINT for Cybersecurity and Threat Intelligence",
+  "url": "https://allevents.in/hyderabad/osint-for-cybersecurity-and-threat-intelligence/100002003559731090",
+  "start": "2026-11-28T00:00:00+00:00",
+  "end": "2027-02-27T00:00:00+00:00",
+  "city": "hyderabad",
+  "city_raw": "Hyderabad",
+  "venue": "NP Venue - Hyderabad",
+  "organizer": "NobleProg",
   "description": "",
   "online": false
  },
