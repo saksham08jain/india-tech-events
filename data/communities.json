@@ -5,16 +5,16 @@
    "hyderabad",
    "mumbai"
   ],
-  "event_count": 12,
+  "event_count": 11,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/mumbai/ai-for-marketing-teams-research-content-analysis-and-campaign-workflows/100002003333722091",
    "https://allevents.in/mumbai/osint-for-cybersecurity-and-threat-intelligence/100002003393269198",
    "https://allevents.in/mumbai/physical-ai-for-industrial-robotics/100002003382028577",
    "https://allevents.in/mumbai/critical-thinking-in-the-age-of-ai/100002003379965406",
-   "https://allevents.in/mumbai/ai-security-securing-llm-and-agentic-ai-applications/100002003380278342"
+   "https://allevents.in/mumbai/ai-security-securing-llm-and-agentic-ai-applications/100002003380278342",
+   "https://allevents.in/mumbai/model-based-systems-engineering-with-sysml-event-overview-modern-engineer/100002003386741674"
   ]
  },
  {
@@ -93,16 +93,16 @@
   ]
  },
  {
-  "name": "eMexo Technologie",
+  "name": "al-imran techno solutions",
   "cities": [
-   "bengaluru"
+   "hyderabad"
   ],
   "event_count": 1,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bengaluru/free-gen-ai-and-agentic-ai-demo-at-emexo/100001997562251467"
+   "https://allevents.in/hyderabad/best-electrical-design-and-mep-training-course-in-hyderabad-tickets/80002242292312"
   ]
  },
  {
@@ -132,7 +132,7 @@
   ]
  },
  {
-  "name": "NEERAD Koundinya",
+  "name": "Ashok Bhukya",
   "cities": [
    "hyderabad"
   ],
@@ -141,7 +141,7 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/hyderabad/free-ai-digital-marketing-workshop-tickets/80002440172809"
+   "https://allevents.in/hyderabad/ai-digital-marketing-workshop-tickets/80003671767441"
   ]
  },
  {
@@ -158,7 +158,7 @@
   ]
  },
  {
-  "name": "Sowmya",
+  "name": "NEERAD Koundinya",
   "cities": [
    "hyderabad"
   ],
@@ -167,11 +167,11 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/hyderabad/ai-digital-marketing-workshop-tickets/80003534913631"
+   "https://allevents.in/hyderabad/free-ai-digital-marketing-workshop-tickets/80002440172809"
   ]
  },
  {
-  "name": "Saikumar Magnus",
+  "name": "Skillcircle - Hyderabad",
   "cities": [
    "hyderabad"
   ],
@@ -180,7 +180,20 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/hyderabad/free-ai-digital-marketing-workshop-tickets/80002181080857"
+   "https://allevents.in/hyderabad/ai-dhamaka-2026-free-ai-hackathon-in-hyderabad-no-coding-required/80005952756417"
+  ]
+ },
+ {
+  "name": "nidm",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/free-ai-digital-marketing-workshop-tickets/80001630680333"
   ]
  },
  {
@@ -207,6 +220,32 @@
   ],
   "upcoming": [
    "https://allevents.in/kochi/international-festival-of-ai-films/200030257497107"
+  ]
+ },
+ {
+  "name": "Sowmya",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/ai-digital-marketing-workshop-tickets/80003534913631"
+  ]
+ },
+ {
+  "name": "Saikumar Magnus",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/free-ai-digital-marketing-workshop-tickets/80002181080857"
   ]
  },
  {
@@ -350,6 +389,19 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/world-data-center-summit-india-tickets/80002557113801"
+  ]
+ },
+ {
+  "name": "Bharat Agri Tech",
+  "cities": [
+   "indore"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/indore/8th-bharat-agritech-\u0915\u0943\u0937\u093f-\u0921\u0947\u092f\u0930\u0940-\u0914\u0930-\u0939\u0949\u0930\u094d\u091f\u093f\u0915\u0932\u094d\u091a\u0930-\u092e\u0947\u0932\u093e-\u0907\u0902\u0926\u094c\u0930/200030982904350"
   ]
  },
  {
