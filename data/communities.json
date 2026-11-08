@@ -132,19 +132,6 @@
   ]
  },
  {
-  "name": "Ashok Bhukya",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/ai-digital-marketing-workshop-tickets/80003671767441"
-  ]
- },
- {
   "name": "Makers Lab",
   "cities": [
    "hyderabad"
@@ -158,19 +145,6 @@
   ]
  },
  {
-  "name": "NEERAD Koundinya",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/free-ai-digital-marketing-workshop-tickets/80002440172809"
-  ]
- },
- {
   "name": "Skillcircle - Hyderabad",
   "cities": [
    "hyderabad"
@@ -181,6 +155,19 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/ai-dhamaka-2026-free-ai-hackathon-in-hyderabad-no-coding-required/80005952756417"
+  ]
+ },
+ {
+  "name": "NEERAD Koundinya",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/free-ai-digital-marketing-workshop-tickets/80002440172809"
   ]
  },
  {
@@ -220,6 +207,19 @@
   ],
   "upcoming": [
    "https://allevents.in/kochi/international-festival-of-ai-films/200030257497107"
+  ]
+ },
+ {
+  "name": "Ashok Bhukya",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/ai-digital-marketing-workshop-tickets/80003671767441"
   ]
  },
  {
@@ -376,6 +376,19 @@
   ],
   "upcoming": [
    "https://allevents.in/new-delhi/elev8-startup-summit-2026/3900030598969307"
+  ]
+ },
+ {
+  "name": "CTF CEG Tech Forum",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/khacks/200030990841848"
   ]
  },
  {
