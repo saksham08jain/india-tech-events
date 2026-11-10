@@ -184,6 +184,19 @@
   ]
  },
  {
+  "name": "FAUX. Chennai",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/faux-chennai-a-food-and-ux-meetup/100002004582521283"
+  ]
+ },
+ {
   "name": "Klizer AI Club",
   "cities": [
    "chennai"
@@ -262,6 +275,19 @@
   ]
  },
  {
+  "name": "PetalRank",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/bengaluru-tech-event/200031009624704"
+  ]
+ },
+ {
   "name": "IACC",
   "cities": [
    "mumbai"
@@ -324,6 +350,19 @@
   ],
   "upcoming": [
    "https://allevents.in/bengaluru/small-business-ai-builder-tour-bangalore-india/100002003680086075"
+  ]
+ },
+ {
+  "name": "RoboSpark PrP Pvt Ltd",
+  "cities": [
+   "noida"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/noida/robospark-ai-robotics-and-drone-workshop/200031007579615"
   ]
  },
  {
