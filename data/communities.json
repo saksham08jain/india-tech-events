@@ -35,6 +35,20 @@
   ]
  },
  {
+  "name": "Version IT",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/azure-data-engineer-training-demo-online-and-classroom-batches-in-hyderabad/100002004217828477",
+   "https://allevents.in/hyderabad/gcp-data-engineer-training-in-hyderabad-free-demo/100002004635594025"
+  ]
+ },
+ {
   "name": "MOJO CAPITAL",
   "cities": [
    "chennai"
@@ -90,19 +104,6 @@
   "upcoming": [
    "https://allevents.in/chennai/nus-master-of-technology-mtech-preview-entrance-test-and-interview-chennai/100002001429110346",
    "https://allevents.in/kochi/nus-master-of-technology-mtech-preview-entrance-test-and-interview-kochi/100002001529481559"
-  ]
- },
- {
-  "name": "Version IT",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/azure-data-engineer-training-demo-online-and-classroom-batches-in-hyderabad/100002004217828477"
   ]
  },
  {
@@ -301,6 +302,19 @@
   ]
  },
  {
+  "name": "surendra mohan",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/how-it-services-firms-can-win-in-the-ai-era/80002406008374"
+  ]
+ },
+ {
   "name": "National Institute of Design",
   "cities": [
    "bengaluru"
@@ -389,6 +403,19 @@
   ],
   "upcoming": [
    "https://allevents.in/bengaluru/startup-ecosystem-meetup-by-cedat/100002003345792193"
+  ]
+ },
+ {
+  "name": "SFE India Hub",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/sfe-india-facade-engineering-in-the-age-of-ai/100002004643312110"
   ]
  },
  {
@@ -506,6 +533,19 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/leaf-tech-expo/100001988466084587"
+  ]
+ },
+ {
+  "name": "Trade Fairs",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/india-stone-and-tech-expo-2027/200031018032848"
   ]
  }
 ]
