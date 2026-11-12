@@ -18,6 +18,22 @@
   ]
  },
  {
+  "name": "Quality Thought",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 4,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/free-scholarship-test-for-full-stack-python-with-ai-quality-thought/100002004216221671",
+   "https://allevents.in/hyderabad/playwright-with-ai-join-our-free-mini-workshop/100002004703319594",
+   "https://allevents.in/hyderabad/quantum-computing-free-mini-workshop-explore-the-future-of-tech/100002004707701701",
+   "https://allevents.in/hyderabad/free-cyber-security-mini-workshop-learn-ethical-hacking-and-cyber-security/100002004698657650"
+  ]
+ },
+ {
   "name": "HackerX",
   "cities": [
    "bengaluru",
@@ -35,20 +51,6 @@
   ]
  },
  {
-  "name": "Version IT",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/azure-data-engineer-training-demo-online-and-classroom-batches-in-hyderabad/100002004217828477",
-   "https://allevents.in/hyderabad/gcp-data-engineer-training-in-hyderabad-free-demo/100002004635594025"
-  ]
- },
- {
   "name": "MOJO CAPITAL",
   "cities": [
    "chennai"
@@ -60,6 +62,20 @@
   "upcoming": [
    "https://allevents.in/chennai/global-startup-summit-2026-chennai-tickets/80002267326827",
    "https://allevents.in/chennai/techai-india-summit-chennai-2026-tickets/80001617844041"
+  ]
+ },
+ {
+  "name": "Version IT",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/gen-ai-and-agentic-ai-training-in-hyderabad-free-demo/100002004635242975",
+   "https://allevents.in/hyderabad/gcp-data-engineer-training-in-hyderabad-free-demo/100002004635594025"
   ]
  },
  {
@@ -107,19 +123,6 @@
   ]
  },
  {
-  "name": "Ramesh Babu",
-  "cities": [
-   "delhi"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/new-delhi/cio-tech-leadership-conference-and-awards-delhi-2026-tickets/80001520635814"
-  ]
- },
- {
   "name": "Makers Lab",
   "cities": [
    "hyderabad"
@@ -146,19 +149,6 @@
   ]
  },
  {
-  "name": "Ashok Bhukya",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/ai-digital-marketing-workshop-tickets/80003671767441"
-  ]
- },
- {
   "name": "NEERAD Koundinya",
   "cities": [
    "hyderabad"
@@ -169,6 +159,19 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/free-ai-digital-marketing-workshop-tickets/80002440172809"
+  ]
+ },
+ {
+  "name": "Ashok Bhukya",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/ai-digital-marketing-workshop-tickets/80003671767441"
   ]
  },
  {
@@ -260,19 +263,6 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/ethical-hacking-with-ai-3-hour-hands-on-workshop-hi-tech-city-\u20b949/100002004513702444"
-  ]
- },
- {
-  "name": "Quality Thought",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/free-scholarship-test-for-full-stack-python-with-ai-quality-thought/100002004216221671"
   ]
  },
  {
