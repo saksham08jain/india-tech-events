@@ -5,16 +5,16 @@
    "hyderabad",
    "mumbai"
   ],
-  "event_count": 11,
+  "event_count": 6,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/mumbai/osint-for-cybersecurity-and-threat-intelligence/100002003393269198",
-   "https://allevents.in/mumbai/physical-ai-for-industrial-robotics/100002003382028577",
-   "https://allevents.in/mumbai/critical-thinking-in-the-age-of-ai/100002003379965406",
-   "https://allevents.in/mumbai/ai-security-securing-llm-and-agentic-ai-applications/100002003380278342",
-   "https://allevents.in/mumbai/model-based-systems-engineering-with-sysml-event-overview-modern-engineer/100002003386741674"
+   "https://allevents.in/mumbai/ros-2-for-industrial-robotics-and-automation/100002003382610317",
+   "https://allevents.in/hyderabad/ai-finops-managing-llm-gpu-and-agentic-ai-costs/100002003559273722",
+   "https://allevents.in/hyderabad/physical-ai-for-industrial-robotics/100002003559384052",
+   "https://allevents.in/hyderabad/enterprise-ai-agents-with-mcp-tools-and-human-approval/100002003559115248",
+   "https://allevents.in/hyderabad/model-based-systems-engineering-with-sysml/100002003559666898"
   ]
  },
  {
@@ -53,20 +53,6 @@
   ]
  },
  {
-  "name": "MOJO CAPITAL",
-  "cities": [
-   "chennai"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/chennai/global-startup-summit-2026-chennai-tickets/80002267326827",
-   "https://allevents.in/chennai/techai-india-summit-chennai-2026-tickets/80001617844041"
-  ]
- },
- {
   "name": "Version IT",
   "cities": [
    "hyderabad"
@@ -92,6 +78,20 @@
   "upcoming": [
    "https://allevents.in/mumbai/india-finance-and-tech-summit-2026-finance-transformation-summit/100002001450614666",
    "https://allevents.in/mumbai/india-collection-and-tech-summit-2026/100002001454061977"
+  ]
+ },
+ {
+  "name": "CEDAT",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/startup-ecosystem-meetup-by-cedat/100002003345792193",
+   "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80001766613179"
   ]
  },
  {
@@ -122,136 +122,6 @@
   "upcoming": [
    "https://allevents.in/chennai/nus-master-of-technology-mtech-preview-entrance-test-and-interview-chennai/100002001429110346",
    "https://allevents.in/kochi/nus-master-of-technology-mtech-preview-entrance-test-and-interview-kochi/100002001529481559"
-  ]
- },
- {
-  "name": "Makers Lab",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/agentic-ai-zero-to-hero-from-llm-fundamentals-to-autonomous-ai-agents/100002004116109232"
-  ]
- },
- {
-  "name": "Skillcircle - Hyderabad",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/ai-dhamaka-2026-free-ai-hackathon-in-hyderabad-no-coding-required/80005952756417"
-  ]
- },
- {
-  "name": "Ashok Bhukya",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/ai-digital-marketing-workshop-tickets/80003671767441"
-  ]
- },
- {
-  "name": "NEERAD Koundinya",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/free-ai-digital-marketing-workshop-tickets/80002440172809"
-  ]
- },
- {
-  "name": "nidm",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/free-ai-digital-marketing-workshop-tickets/80001630680333"
-  ]
- },
- {
-  "name": "Klizer AI Club",
-  "cities": [
-   "chennai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/chennai/ai-build-lab-build-your-first-e-commerce-ai-assistant-tickets/80003545834688"
-  ]
- },
- {
-  "name": "Cinemarathon community for film making",
-  "cities": [
-   "kochi"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/kochi/international-festival-of-ai-films/200030257497107"
-  ]
- },
- {
-  "name": "FAUX. Chennai",
-  "cities": [
-   "chennai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/chennai/faux-chennai-a-food-and-ux-meetup/100002004582521283"
-  ]
- },
- {
-  "name": "Sowmya",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/ai-digital-marketing-workshop-tickets/80003534913631"
-  ]
- },
- {
-  "name": "Saikumar Magnus",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/free-ai-digital-marketing-workshop-tickets/80002181080857"
   ]
  },
  {
@@ -421,19 +291,6 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/next-generation-testing-and-ai-bangalore/80001436966343"
-  ]
- },
- {
-  "name": "CEDAT",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/startup-ecosystem-meetup-by-cedat/100002003345792193"
   ]
  },
  {
