@@ -22,14 +22,13 @@
   "cities": [
    "hyderabad"
   ],
-  "event_count": 5,
+  "event_count": 4,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/hyderabad/free-scholarship-test-for-full-stack-python-with-ai-quality-thought/100002004216221671",
-   "https://allevents.in/hyderabad/playwright-with-ai-join-our-free-mini-workshop/100002004703319594",
    "https://allevents.in/hyderabad/quantum-computing-free-mini-workshop-explore-the-future-of-tech/100002004707701701",
+   "https://allevents.in/hyderabad/playwright-with-ai-join-our-free-mini-workshop/100002004703319594",
    "https://allevents.in/hyderabad/free-cyber-security-mini-workshop-learn-ethical-hacking-and-cyber-security/100002004698657650",
    "https://allevents.in/hyderabad/free-generative-ai-with-python-workshop-llm-rag-and-agentic-ai/100002004764021154"
   ]
@@ -50,6 +49,21 @@
    "https://allevents.in/bengaluru/hackerx-bengaluru-employer-ticket-11-26/100001980342644158",
    "https://allevents.in/new-delhi/hackerx-delhi-ncr-employer-ticket-12-10/100001982000892022",
    "https://allevents.in/chennai/hackerx-chennai-employer-ticket-12-17/100001980428996440"
+  ]
+ },
+ {
+  "name": "CEDAT",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 3,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/startup-ecosystem-meetup-by-cedat/100002003345792193",
+   "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80001766613179",
+   "https://allevents.in/bangalore/startup-stories-by-bengaluru-founders-tickets/80003203641237"
   ]
  },
  {
@@ -78,20 +92,6 @@
   "upcoming": [
    "https://allevents.in/mumbai/india-finance-and-tech-summit-2026-finance-transformation-summit/100002001450614666",
    "https://allevents.in/mumbai/india-collection-and-tech-summit-2026/100002001454061977"
-  ]
- },
- {
-  "name": "CEDAT",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/startup-ecosystem-meetup-by-cedat/100002003345792193",
-   "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80001766613179"
   ]
  },
  {
@@ -125,7 +125,7 @@
   ]
  },
  {
-  "name": "E R Segment Solutions Private Limited",
+  "name": "Sri Sathya",
   "cities": [
    "hyderabad"
   ],
@@ -134,11 +134,11 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/hyderabad/ethical-hacking-with-ai-3-hour-hands-on-workshop-hi-tech-city-\u20b949/100002004513702444"
+   "https://allevents.in/hyderabad/data-science-training-and-internship-new-batch-starting-26th-november-quality-thought-tickets/80002678064362"
   ]
  },
  {
-  "name": "FLM EventVerse by Frontlines Edutech",
+  "name": "Quality Thought Training Institute In Hyderabad",
   "cities": [
    "hyderabad"
   ],
@@ -147,7 +147,7 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/hyderabad/devops-arena-by-flm-eventverse-learn-connect-and-explore-\u20b9199/100002004763664086"
+   "https://allevents.in/hyderabad/attend-the-free-gen-ai-demo-explore-the-future-of-artificial-intelligence-tickets/80001704404268"
   ]
  },
  {
@@ -177,6 +177,19 @@
   ]
  },
  {
+  "name": "openhour",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/ai-founders-meetup-at-hebbal-north-bengaluru-tickets/80001702240909"
+  ]
+ },
+ {
   "name": "IACC",
   "cities": [
    "mumbai"
@@ -203,19 +216,6 @@
   ]
  },
  {
-  "name": "Gyanada Institute",
-  "cities": [
-   "kolkata"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/kolkata/2-hour-ai-workshop-by-digi-x-academy-gyanada-institute/200031030660749"
-  ]
- },
- {
   "name": "National Institute of Design",
   "cities": [
    "bengaluru"
@@ -226,6 +226,19 @@
   ],
   "upcoming": [
    "https://allevents.in/bengaluru/free-digital-marketing-workshop-meta-ads-meet-ai/100002004284852949"
+  ]
+ },
+ {
+  "name": "Gyanada Institute",
+  "cities": [
+   "kolkata"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/kolkata/2-hour-ai-workshop-by-digi-x-academy-gyanada-institute/200031030660749"
   ]
  },
  {
@@ -408,6 +421,19 @@
   ],
   "upcoming": [
    "https://allevents.in/new-delhi/lighting-world-and-home-tech-expo-tickets/80001433723888"
+  ]
+ },
+ {
+  "name": "LVC Hackathon",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/lvc-hackathon-2027-24-hour-offline-hackathon-hyderabad-tickets/80004514660782"
   ]
  },
  {
