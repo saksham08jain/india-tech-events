@@ -18,6 +18,25 @@
   ]
  },
  {
+  "name": "HackerX",
+  "cities": [
+   "bengaluru",
+   "chennai",
+   "delhi"
+  ],
+  "event_count": 5,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/hackerx-bengaluru-ai-employer-ticket-11-26/100001980342644158",
+   "https://allevents.in/bengaluru/hackerx-bengaluru-employer-ticket-11-26/100001980342644158",
+   "https://allevents.in/new-delhi/hackerx-delhi-ncr-employer-ticket-12-10/100001982000892022",
+   "https://allevents.in/chennai/hackerx-chennai-ai-employer-ticket-12-17/100001980428996440",
+   "https://allevents.in/chennai/hackerx-chennai-employer-ticket-12-17/100001980428996440"
+  ]
+ },
+ {
   "name": "Quality Thought",
   "cities": [
    "hyderabad"
@@ -34,24 +53,6 @@
   ]
  },
  {
-  "name": "HackerX",
-  "cities": [
-   "bengaluru",
-   "chennai",
-   "delhi"
-  ],
-  "event_count": 4,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/hackerx-bengaluru-ai-employer-ticket-11-26/100001980342644158",
-   "https://allevents.in/bengaluru/hackerx-bengaluru-employer-ticket-11-26/100001980342644158",
-   "https://allevents.in/new-delhi/hackerx-delhi-ncr-employer-ticket-12-10/100001982000892022",
-   "https://allevents.in/chennai/hackerx-chennai-employer-ticket-12-17/100001980428996440"
-  ]
- },
- {
   "name": "CEDAT",
   "cities": [
    "bengaluru"
@@ -64,20 +65,6 @@
    "https://allevents.in/bengaluru/startup-ecosystem-meetup-by-cedat/100002003345792193",
    "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80001766613179",
    "https://allevents.in/bangalore/startup-stories-by-bengaluru-founders-tickets/80003203641237"
-  ]
- },
- {
-  "name": "Version IT",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/gen-ai-and-agentic-ai-training-in-hyderabad-free-demo/100002004635242975",
-   "https://allevents.in/hyderabad/gcp-data-engineer-training-in-hyderabad-free-demo/100002004635594025"
   ]
  },
  {
@@ -125,32 +112,6 @@
   ]
  },
  {
-  "name": "Sri Sathya",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/data-science-training-and-internship-new-batch-starting-26th-november-quality-thought-tickets/80002678064362"
-  ]
- },
- {
-  "name": "Quality Thought Training Institute In Hyderabad",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/attend-the-free-gen-ai-demo-explore-the-future-of-artificial-intelligence-tickets/80001704404268"
-  ]
- },
- {
   "name": "Business TA",
   "cities": [
    "bengaluru"
@@ -177,7 +138,7 @@
   ]
  },
  {
-  "name": "openhour",
+  "name": "eMexo Technologie",
   "cities": [
    "bengaluru"
   ],
@@ -186,7 +147,20 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bangalore/ai-founders-meetup-at-hebbal-north-bengaluru-tickets/80001702240909"
+   "https://allevents.in/bengaluru/free-gen-ai-and-agentic-ai-demo-at-emexo/100001997562251467"
+  ]
+ },
+ {
+  "name": "GPBrothers",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/shoe-tech-mumbai/200031051603025"
   ]
  },
  {
@@ -203,6 +177,32 @@
   ]
  },
  {
+  "name": "Version IT",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/gcp-data-engineer-training-in-hyderabad-free-demo/100002004635594025"
+  ]
+ },
+ {
+  "name": "openhour",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/ai-founders-meetup-at-hebbal-north-bengaluru-tickets/80001702240909"
+  ]
+ },
+ {
   "name": "surendra mohan",
   "cities": [
    "hyderabad"
@@ -213,6 +213,19 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/how-it-services-firms-can-win-in-the-ai-era/80002406008374"
+  ]
+ },
+ {
+  "name": "OTP Requirements Pages",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/technical-services/200031054410126"
   ]
  },
  {
@@ -268,6 +281,19 @@
   ]
  },
  {
+  "name": "evolve robot lab",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/tamil-nadu-physical-ai-summit-2026/80002978744849"
+  ]
+ },
+ {
   "name": "Bluehost Events",
   "cities": [
    "bengaluru"
@@ -317,6 +343,19 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/sfe-india-facade-engineering-in-the-age-of-ai/100002004643312110"
+  ]
+ },
+ {
+  "name": "Institute of Product Leadership",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/convergence-26-the-business-storytelling-festival-bengaluru/80003156231083"
   ]
  },
  {
