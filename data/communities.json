@@ -112,58 +112,6 @@
   ]
  },
  {
-  "name": "Business TA",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/bengaluru-tech-summit-2026/80002951311879"
-  ]
- },
- {
-  "name": "PetalRank",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/bengaluru-tech-event/200031009624704"
-  ]
- },
- {
-  "name": "eMexo Technologie",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/free-gen-ai-and-agentic-ai-demo-at-emexo/100001997562251467"
-  ]
- },
- {
-  "name": "GPBrothers",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/shoe-tech-mumbai/200031051603025"
-  ]
- },
- {
   "name": "IACC",
   "cities": [
    "mumbai"
@@ -229,16 +177,16 @@
   ]
  },
  {
-  "name": "National Institute of Design",
+  "name": "NATIONAL HUMAN RIGHTS AND CORRUPTION PREVENTION ORGANIZATION",
   "cities": [
-   "bengaluru"
+   "kolkata"
   ],
   "event_count": 1,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/bengaluru/free-digital-marketing-workshop-meta-ads-meet-ai/100002004284852949"
+   "https://allevents.in/kolkata/ai-and-human-rights-national-summit-2026/200031060190951"
   ]
  },
  {
@@ -252,6 +200,19 @@
   ],
   "upcoming": [
    "https://allevents.in/kolkata/2-hour-ai-workshop-by-digi-x-academy-gyanada-institute/200031030660749"
+  ]
+ },
+ {
+  "name": "National Institute of Design",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/free-digital-marketing-workshop-meta-ads-meet-ai/100002004284852949"
   ]
  },
  {
@@ -408,6 +369,19 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/world-data-center-summit-india-tickets/80002557113801"
+  ]
+ },
+ {
+  "name": "Business Viewpoint Magazine",
+  "cities": [
+   "mumbai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/mumbai/bharat-20-conclave-ai-edition-bharat-and-the-age-of-intelligence/200031059303609"
   ]
  },
  {
