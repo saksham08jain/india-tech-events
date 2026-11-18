@@ -5,7 +5,7 @@
    "hyderabad",
    "mumbai"
   ],
-  "event_count": 6,
+  "event_count": 7,
   "sources": [
    "allevents"
   ],
@@ -68,17 +68,17 @@
   ]
  },
  {
-  "name": "Synnex Group",
+  "name": "Institute of Product Leadership",
   "cities": [
-   "mumbai"
+   "bengaluru"
   ],
   "event_count": 2,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/mumbai/india-finance-and-tech-summit-2026-finance-transformation-summit/100002001450614666",
-   "https://allevents.in/mumbai/india-collection-and-tech-summit-2026/100002001454061977"
+   "https://allevents.in/bangalore/convergence-26-the-business-storytelling-festival-bengaluru/80003156231083",
+   "https://allevents.in/bengaluru/convergence-26-the-business-storytelling-festival/100002004874495586"
   ]
  },
  {
@@ -112,7 +112,7 @@
   ]
  },
  {
-  "name": "IACC",
+  "name": "Synnex Group",
   "cities": [
    "mumbai"
   ],
@@ -121,33 +121,7 @@
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/mumbai/ai-and-beyond-the-layer-beneath-ai\u2063/200030976155332"
-  ]
- },
- {
-  "name": "Version IT",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/gcp-data-engineer-training-in-hyderabad-free-demo/100002004635594025"
-  ]
- },
- {
-  "name": "openhour",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/ai-founders-meetup-at-hebbal-north-bengaluru-tickets/80001702240909"
+   "https://allevents.in/mumbai/india-collection-and-tech-summit-2026/100002001454061977"
   ]
  },
  {
@@ -177,6 +151,32 @@
   ]
  },
  {
+  "name": "National Institute of Design",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/free-digital-marketing-workshop-meta-ads-meet-ai/100002004284852949"
+  ]
+ },
+ {
+  "name": "Version IT",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/gcp-data-engineer-training-in-hyderabad-free-demo/100002004635594025"
+  ]
+ },
+ {
   "name": "NATIONAL HUMAN RIGHTS AND CORRUPTION PREVENTION ORGANIZATION",
   "cities": [
    "kolkata"
@@ -203,19 +203,6 @@
   ]
  },
  {
-  "name": "National Institute of Design",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/free-digital-marketing-workshop-meta-ads-meet-ai/100002004284852949"
-  ]
- },
- {
   "name": "National Institute Of Digital Marketing",
   "cities": [
    "bengaluru"
@@ -239,6 +226,19 @@
   ],
   "upcoming": [
    "https://allevents.in/bangalore/meta-ads-meets-ai-free-digital-marketing-workshop-tickets/80002290649489"
+  ]
+ },
+ {
+  "name": "Nikhil Bhima",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/build-with-mistral-ai/80003181660302"
   ]
  },
  {
@@ -307,19 +307,6 @@
   ]
  },
  {
-  "name": "Institute of Product Leadership",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/convergence-26-the-business-storytelling-festival-bengaluru/80003156231083"
-  ]
- },
- {
   "name": "Faria Education Group",
   "cities": [
    "noida"
@@ -382,6 +369,19 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/bharat-20-conclave-ai-edition-bharat-and-the-age-of-intelligence/200031059303609"
+  ]
+ },
+ {
+  "name": "Quality Thought (The Global Skilling Company",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/ready-to-build-your-career-in-devops-and-multi-cloud-engineering/100002004879094341"
   ]
  },
  {
