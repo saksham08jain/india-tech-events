@@ -37,22 +37,6 @@
   ]
  },
  {
-  "name": "Quality Thought",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 4,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/quantum-computing-free-mini-workshop-explore-the-future-of-tech/100002004707701701",
-   "https://allevents.in/hyderabad/playwright-with-ai-join-our-free-mini-workshop/100002004703319594",
-   "https://allevents.in/hyderabad/free-cyber-security-mini-workshop-learn-ethical-hacking-and-cyber-security/100002004698657650",
-   "https://allevents.in/hyderabad/free-generative-ai-with-python-workshop-llm-rag-and-agentic-ai/100002004764021154"
-  ]
- },
- {
   "name": "CEDAT",
   "cities": [
    "bengaluru"
@@ -65,6 +49,20 @@
    "https://allevents.in/bengaluru/startup-ecosystem-meetup-by-cedat/100002003345792193",
    "https://allevents.in/bangalore/startup-talks-by-cedat-tickets/80001766613179",
    "https://allevents.in/bangalore/startup-stories-by-bengaluru-founders-tickets/80003203641237"
+  ]
+ },
+ {
+  "name": "Quality Thought",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/free-cyber-security-mini-workshop-learn-ethical-hacking-and-cyber-security/100002004698657650",
+   "https://allevents.in/hyderabad/free-generative-ai-with-python-workshop-llm-rag-and-agentic-ai/100002004764021154"
   ]
  },
  {
@@ -112,58 +110,6 @@
   ]
  },
  {
-  "name": "Synnex Group",
-  "cities": [
-   "mumbai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/mumbai/india-collection-and-tech-summit-2026/100002001454061977"
-  ]
- },
- {
-  "name": "surendra mohan",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/how-it-services-firms-can-win-in-the-ai-era/80002406008374"
-  ]
- },
- {
-  "name": "OTP Requirements Pages",
-  "cities": [
-   "chennai"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/chennai/technical-services/200031054410126"
-  ]
- },
- {
-  "name": "National Institute of Design",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/free-digital-marketing-workshop-meta-ads-meet-ai/100002004284852949"
-  ]
- },
- {
   "name": "Version IT",
   "cities": [
    "hyderabad"
@@ -200,6 +146,19 @@
   ],
   "upcoming": [
    "https://allevents.in/kolkata/2-hour-ai-workshop-by-digi-x-academy-gyanada-institute/200031030660749"
+  ]
+ },
+ {
+  "name": "National Institute of Design",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/free-digital-marketing-workshop-meta-ads-meet-ai/100002004284852949"
   ]
  },
  {
@@ -307,6 +266,19 @@
   ]
  },
  {
+  "name": "Tech. by MicroDegree",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bengaluru/tech\u0cb9\u0cb0\u0c9f\u0cc6-bengaluru-meetup-cloud-career-accelerator-2027/100002005020823256"
+  ]
+ },
+ {
   "name": "Faria Education Group",
   "cities": [
    "noida"
@@ -356,6 +328,19 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/world-data-center-summit-india-tickets/80002557113801"
+  ]
+ },
+ {
+  "name": "Odoo India Pvt Ltd",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/odoo-business-show-ai/80003824453250"
   ]
  },
  {
@@ -421,6 +406,19 @@
   ],
   "upcoming": [
    "https://allevents.in/mumbai/grand-e-com-ai-summit-2027-mumbai-tickets/80001322116348"
+  ]
+ },
+ {
+  "name": "Indian Principals Network- IPN Foundation",
+  "cities": [
+   "noida"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/noida/ai-student-conference-delhi-ncr/200031076330337"
   ]
  },
  {
