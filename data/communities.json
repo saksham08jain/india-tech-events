@@ -52,20 +52,6 @@
   ]
  },
  {
-  "name": "Quality Thought",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 2,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/free-cyber-security-mini-workshop-learn-ethical-hacking-and-cyber-security/100002004698657650",
-   "https://allevents.in/hyderabad/free-generative-ai-with-python-workshop-llm-rag-and-agentic-ai/100002004764021154"
-  ]
- },
- {
   "name": "Institute of Product Leadership",
   "cities": [
    "bengaluru"
@@ -77,6 +63,20 @@
   "upcoming": [
    "https://allevents.in/bangalore/convergence-26-the-business-storytelling-festival-bengaluru/80003156231083",
    "https://allevents.in/bengaluru/convergence-26-the-business-storytelling-festival/100002004874495586"
+  ]
+ },
+ {
+  "name": "Faria Education Group",
+  "cities": [
+   "noida"
+  ],
+  "event_count": 2,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/noida/teaching-and-learning-meetup-noida-2026/100002004112054103",
+   "https://allevents.in/noida/teaching-and-learning-meetup-noida-2027/100002004112054103"
   ]
  },
  {
@@ -214,6 +214,32 @@
   ]
  },
  {
+  "name": "Quality Thought",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/free-generative-ai-with-python-workshop-llm-rag-and-agentic-ai/100002004764021154"
+  ]
+ },
+ {
+  "name": "sunny",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/free-demo-session-data-analytics-with-ai-and-data-science-with-ai/100002005073778647"
+  ]
+ },
+ {
   "name": "Bluehost Events",
   "cities": [
    "bengaluru"
@@ -279,19 +305,6 @@
   ]
  },
  {
-  "name": "Faria Education Group",
-  "cities": [
-   "noida"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/noida/teaching-and-learning-meetup-noida-2026/100002004112054103"
-  ]
- },
- {
   "name": "Event Navigator",
   "cities": [
    "delhi"
@@ -302,6 +315,19 @@
   ],
   "upcoming": [
    "https://allevents.in/new-delhi/elev8-startup-summit-2026/3900030598969307"
+  ]
+ },
+ {
+  "name": "Palium Skills Technical Training Institute",
+  "cities": [
+   "kolkata"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/kolkata/generative-ai-ai-agents-and-agentic-ai-course/200031083498945"
   ]
  },
  {
@@ -341,6 +367,19 @@
   ],
   "upcoming": [
    "https://allevents.in/hyderabad/odoo-business-show-ai/80003824453250"
+  ]
+ },
+ {
+  "name": "Akanksha Reddy",
+  "cities": [
+   "hyderabad"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/hyderabad/cyberslay-meetup-hyderabad/100002005071256102"
   ]
  },
  {
@@ -432,6 +471,19 @@
   ],
   "upcoming": [
    "https://allevents.in/new-delhi/lighting-world-and-home-tech-expo-tickets/80001433723888"
+  ]
+ },
+ {
+  "name": "mathcs",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/8th-international-conference-on-machine-learning-and-soft-computing-mlsc-2027/80001536149924"
   ]
  },
  {

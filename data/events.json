@@ -1,45 +1,6 @@
 [
  {
   "source": "devfolio",
-  "title": "Lean In Hacks 8.0",
-  "url": "https://devfolio.co/hackathons/lean-in-hacks-8",
-  "start": "2026-11-19T18:30:00+00:00",
-  "end": "2026-11-22T17:00:00+00:00",
-  "city": "unknown",
-  "city_raw": "",
-  "venue": "",
-  "organizer": "",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
-  "title": "Bharat AI Innovation - Conference & Exhibition",
-  "url": "https://allevents.in/mumbai/bharat-ai-innovation-conference-and-exhibition/3900030977253220",
-  "start": "2026-11-20T00:00:00+00:00",
-  "end": null,
-  "city": "mumbai",
-  "city_raw": "Mumbai",
-  "venue": "World Trade Center: Mumbai",
-  "organizer": "",
-  "description": "",
-  "online": false
- },
- {
-  "source": "allevents",
-  "title": "Free Cyber Security Mini Workshop \u2013 Learn Ethical Hacking & Cyber Security",
-  "url": "https://allevents.in/hyderabad/free-cyber-security-mini-workshop-learn-ethical-hacking-and-cyber-security/100002004698657650",
-  "start": "2026-11-20T00:00:00+00:00",
-  "end": "2026-11-20T00:00:00+00:00",
-  "city": "hyderabad",
-  "city_raw": "Hyderabad",
-  "venue": "Quality Thought",
-  "organizer": "Quality Thought",
-  "description": "",
-  "online": false
- },
- {
-  "source": "devfolio",
   "title": "THE BIG HACK 2.0",
   "url": "https://devfolio.co/hackathons/the-big-hack-2",
   "start": "2026-11-20T03:30:00+00:00",
@@ -243,6 +204,19 @@
   "city_raw": "Hyderabad",
   "venue": "Hitex Exhibition Center",
   "organizer": "",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
+  "title": "Free Demo Session \u2013 Data Analytics with AI & Data Science with AI",
+  "url": "https://allevents.in/hyderabad/free-demo-session-data-analytics-with-ai-and-data-science-with-ai/100002005073778647",
+  "start": "2026-11-23T00:00:00+00:00",
+  "end": "2026-11-23T00:00:00+00:00",
+  "city": "hyderabad",
+  "city_raw": "Hyderabad",
+  "venue": "AchieversIT",
+  "organizer": "sunny",
   "description": "",
   "online": false
  },
@@ -508,6 +482,19 @@
  },
  {
   "source": "allevents",
+  "title": "Generative AI, AI Agents and Agentic AI Course",
+  "url": "https://allevents.in/kolkata/generative-ai-ai-agents-and-agentic-ai-course/200031083498945",
+  "start": "2026-12-01T00:00:00+00:00",
+  "end": null,
+  "city": "kolkata",
+  "city_raw": "Kolkata",
+  "venue": "Kolkata",
+  "organizer": "Palium Skills Technical Training Institute",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
   "title": "AD Design Show 2026 - Bangalore",
   "url": "https://allevents.in/bangalore/ad-design-show-2026-bangalore/4100030039331110",
   "start": "2026-12-04T00:00:00+00:00",
@@ -528,6 +515,19 @@
   "city": "unknown",
   "city_raw": "",
   "venue": "",
+  "organizer": "",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
+  "title": "FOXXCON Meetup December 2026",
+  "url": "https://allevents.in/mumbai/foxxcon-meetup-december-2026/3900031078475602",
+  "start": "2026-12-05T00:00:00+00:00",
+  "end": "2026-12-05T00:00:00+00:00",
+  "city": "mumbai",
+  "city_raw": "Mumbai",
+  "venue": "Redfox Security - Pen Testing Services: Mumbai",
   "organizer": "",
   "description": "",
   "online": false
@@ -698,6 +698,19 @@
   "city_raw": "Hyderabad",
   "venue": "Crystal Palace Banquet By The Manohar",
   "organizer": "Odoo India Pvt Ltd",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
+  "title": "Cyberslay Meetup - Hyderabad",
+  "url": "https://allevents.in/hyderabad/cyberslay-meetup-hyderabad/100002005071256102",
+  "start": "2026-12-19T00:00:00+00:00",
+  "end": "2026-12-19T00:00:00+00:00",
+  "city": "hyderabad",
+  "city_raw": "Hyderabad",
+  "venue": "15th floor, Manjeera Trinity Corporate, Segment Spaces, 1502, JNTU Rd, Kukatpally Housing Board Colony, K P H B Phase 3, Kukatpally, Hyderabad, Telangana 500072",
+  "organizer": "Akanksha Reddy",
   "description": "",
   "online": false
  },
@@ -962,6 +975,19 @@
   "online": false
  },
  {
+  "source": "allevents",
+  "title": "Teaching & Learning Meetup: Noida 2027",
+  "url": "https://allevents.in/noida/teaching-and-learning-meetup-noida-2027/100002004112054103",
+  "start": "2027-01-23T00:00:00+00:00",
+  "end": "2027-01-23T00:00:00+00:00",
+  "city": "noida",
+  "city_raw": "Noida",
+  "venue": "Shiv Nadar School, Noida",
+  "organizer": "Faria Education Group",
+  "description": "",
+  "online": false
+ },
+ {
   "source": "devfolio",
   "title": "DevNexus Vidisha",
   "url": "https://devfolio.co/hackathons/devnexus-3",
@@ -1066,6 +1092,19 @@
   "online": false
  },
  {
+  "source": "allevents",
+  "title": "8th International Conference on Machine Learning and Soft Computing (MLSC 2027)",
+  "url": "https://allevents.in/chennai/8th-international-conference-on-machine-learning-and-soft-computing-mlsc-2027/80001536149924",
+  "start": "2027-02-20T00:00:00+00:00",
+  "end": "2027-02-20T00:00:00+00:00",
+  "city": "chennai",
+  "city_raw": "Chennai",
+  "venue": "Chennai",
+  "organizer": "mathcs",
+  "description": "",
+  "online": false
+ },
+ {
   "source": "devfolio",
   "title": "doubleSlash 5.0",
   "url": "https://devfolio.co/hackathons/doubleslash5",
@@ -1114,6 +1153,19 @@
   "city_raw": "Chennai",
   "venue": "Four Points by Sheraton Chennai OMR",
   "organizer": "NUS ISS",
+  "description": "",
+  "online": false
+ },
+ {
+  "source": "allevents",
+  "title": "International Conference on Computational Intelligence, Data Science and Cloud Computing",
+  "url": "https://allevents.in/kolkata/international-conference-on-computational-intelligence-data-science-and-cloud-computing/3700031081144644",
+  "start": "2027-03-16T00:00:00+00:00",
+  "end": "2027-03-18T00:00:00+00:00",
+  "city": "kolkata",
+  "city_raw": "Kolkata",
+  "venue": "Software Technology Parks Of India",
+  "organizer": "",
   "description": "",
   "online": false
  },
