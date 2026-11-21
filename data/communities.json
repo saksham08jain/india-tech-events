@@ -5,16 +5,16 @@
    "hyderabad",
    "mumbai"
   ],
-  "event_count": 7,
+  "event_count": 6,
   "sources": [
    "allevents"
   ],
   "upcoming": [
-   "https://allevents.in/mumbai/ros-2-for-industrial-robotics-and-automation/100002003382610317",
    "https://allevents.in/hyderabad/ai-finops-managing-llm-gpu-and-agentic-ai-costs/100002003559273722",
    "https://allevents.in/hyderabad/physical-ai-for-industrial-robotics/100002003559384052",
    "https://allevents.in/hyderabad/enterprise-ai-agents-with-mcp-tools-and-human-approval/100002003559115248",
-   "https://allevents.in/hyderabad/model-based-systems-engineering-with-sysml/100002003559666898"
+   "https://allevents.in/hyderabad/model-based-systems-engineering-with-sysml/100002003559666898",
+   "https://allevents.in/hyderabad/osint-for-cybersecurity-and-threat-intelligence/100002003559731090"
   ]
  },
  {
@@ -107,84 +107,6 @@
   "upcoming": [
    "https://allevents.in/chennai/nus-master-of-technology-mtech-preview-entrance-test-and-interview-chennai/100002001429110346",
    "https://allevents.in/kochi/nus-master-of-technology-mtech-preview-entrance-test-and-interview-kochi/100002001529481559"
-  ]
- },
- {
-  "name": "Version IT",
-  "cities": [
-   "hyderabad"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/hyderabad/gcp-data-engineer-training-in-hyderabad-free-demo/100002004635594025"
-  ]
- },
- {
-  "name": "NATIONAL HUMAN RIGHTS AND CORRUPTION PREVENTION ORGANIZATION",
-  "cities": [
-   "kolkata"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/kolkata/ai-and-human-rights-national-summit-2026/200031060190951"
-  ]
- },
- {
-  "name": "Gyanada Institute",
-  "cities": [
-   "kolkata"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/kolkata/2-hour-ai-workshop-by-digi-x-academy-gyanada-institute/200031030660749"
-  ]
- },
- {
-  "name": "National Institute of Design",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bengaluru/free-digital-marketing-workshop-meta-ads-meet-ai/100002004284852949"
-  ]
- },
- {
-  "name": "National Institute Of Digital Marketing",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/free-digital-marketing-workshop-on-meta-ads-meet-ai-tickets/80001292855658"
-  ]
- },
- {
-  "name": "National Institute of Digital Marketing (NIDM)",
-  "cities": [
-   "bengaluru"
-  ],
-  "event_count": 1,
-  "sources": [
-   "allevents"
-  ],
-  "upcoming": [
-   "https://allevents.in/bangalore/meta-ads-meets-ai-free-digital-marketing-workshop-tickets/80002290649489"
   ]
  },
  {
@@ -318,6 +240,19 @@
   ]
  },
  {
+  "name": "Pantechelearning",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/cac-sponsored-5-day-fdp-on-autonomous-vehicle-design-ai-perception-and-intelligent-navigation/200031088383940"
+  ]
+ },
+ {
   "name": "Palium Skills Technical Training Institute",
   "cities": [
    "kolkata"
@@ -328,6 +263,32 @@
   ],
   "upcoming": [
    "https://allevents.in/kolkata/generative-ai-ai-agents-and-agentic-ai-course/200031083498945"
+  ]
+ },
+ {
+  "name": "AICRA All India Council For Robotics & Automation",
+  "cities": [
+   "delhi"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/new-delhi/global-artificial-intelligence-summit-and-awards/3700031056318535"
+  ]
+ },
+ {
+  "name": "EV Green Ads & Leads",
+  "cities": [
+   "bengaluru"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/bangalore/explore-the-future-of-ev-technology-at-auto-ev-bharat-2026/200031066474308"
   ]
  },
  {
@@ -471,6 +432,19 @@
   ],
   "upcoming": [
    "https://allevents.in/new-delhi/lighting-world-and-home-tech-expo-tickets/80001433723888"
+  ]
+ },
+ {
+  "name": "13th International Conference on Software Engineering (SOFE 2027)",
+  "cities": [
+   "chennai"
+  ],
+  "event_count": 1,
+  "sources": [
+   "allevents"
+  ],
+  "upcoming": [
+   "https://allevents.in/chennai/13th-international-conference-on-software-engineering-sofe-2027/80002964650486"
   ]
  },
  {
